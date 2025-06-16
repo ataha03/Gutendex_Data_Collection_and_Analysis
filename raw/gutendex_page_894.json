@@ -1,0 +1,1093 @@
+[
+    {
+        "id": 3266,
+        "title": "Miss Billy",
+        "authors": [
+            {
+                "name": "Porter, Eleanor H. (Eleanor Hodgman)",
+                "birth_year": 1868,
+                "death_year": 1920
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Orphans -- Fiction",
+            "Young women -- Conduct of life -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3266.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3266.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3266/3266-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3266/3266.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3266/pg3266.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3266/3266-h/3266-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3266.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3266.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3287,
+        "title": "The Man from Glengarry: A Tale of the Ottawa",
+        "authors": [
+            {
+                "name": "Connor, Ralph",
+                "birth_year": 1860,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- History -- 19th century -- Fiction",
+            "Christian fiction",
+            "Glengarry (Ont.) -- Fiction"
+        ],
+        "bookshelves": [
+            "Canada"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3287.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3287.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3287/3287-h/3287-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3287/pg3287.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3287/3287-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3287/3287.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3287.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3287.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3298,
+        "title": "Mr. Honey's Banking Dictionary (German-English)",
+        "authors": [
+            {
+                "name": "Honig, Winfried",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English language -- Dictionaries -- German",
+            "German language -- Dictionaries -- English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "de",
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3298.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3298.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3298/pg3298.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3298/3298-8.zip",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3298/3298-h/3298-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3298.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3298.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3298/3298-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3298.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3299,
+        "title": "Mr. Honey's Banking Dictionary (English-German)",
+        "authors": [
+            {
+                "name": "Honig, Winfried",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English language -- Dictionaries -- German",
+            "German language -- Dictionaries -- English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "de",
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3299.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3299.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3299/pg3299.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3299/3299-h/3299-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3299/3299-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3299.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3299.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3299.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3421,
+        "title": "Bramble-Bees and Others",
+        "authors": [
+            {
+                "name": "Fabre, Jean-Henri",
+                "birth_year": 1823,
+                "death_year": 1915
+            }
+        ],
+        "translators": [
+            {
+                "name": "Teixeira de Mattos, Alexander",
+                "birth_year": 1865,
+                "death_year": 1921
+            }
+        ],
+        "subjects": [
+            "Bees"
+        ],
+        "bookshelves": [
+            "Animals-Wild-Insects"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3421.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3421.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3421/pg3421.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3421/3421.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/3421/3421-h/3421-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3421.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3421.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3421.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3423,
+        "title": "The Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza",
+        "authors": [
+            {
+                "name": "Sabatini, Rafael",
+                "birth_year": 1875,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Historical fiction",
+            "Italy -- History -- 1492-1559 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3423.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3423.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3423/3423-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3423/3423-h/3423-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3423/pg3423.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/3423.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3423.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3427,
+        "title": "Kilo : being the love story of Eliph' Hewlitt, book agent",
+        "authors": [
+            {
+                "name": "Butler, Ellis Parker",
+                "birth_year": 1869,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Book industries and trade -- Fiction",
+            "Love stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3427.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3427.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3427/pg3427.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3427/3427-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3427/3427-h/3427-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3427/3427-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3427.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3427.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3430,
+        "title": "The Suitors of Yvonne: being a portion of the memoirs of the Sieur Gaston de Luynes",
+        "authors": [
+            {
+                "name": "Sabatini, Rafael",
+                "birth_year": 1875,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Cardinals -- France -- Fiction",
+            "France -- History -- 17th century -- Fiction",
+            "France -- History -- Louis XIV, 1643-1715 -- Fiction",
+            "Historical fiction",
+            "Love stories",
+            "Mazarin, Jules, 1602-1661 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3430.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3430.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3430/pg3430.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3430/3430-h/3430-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3430/3430-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3430.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3430.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3652,
+        "title": "History of the Mackenzies, with genealogies of the principal families of the name",
+        "authors": [
+            {
+                "name": "Mackenzie, Alexander",
+                "birth_year": 1838,
+                "death_year": 1898
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Mackenzie family",
+            "Scotland -- Genealogy",
+            "Seaforth, Earls of"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3652.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3652.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3652/pg3652.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3652/3652.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3652.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3652.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3652.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3657,
+        "title": "Wild Beasts and Their Ways, Reminiscences of Europe, Asia, Africa and America \u2014 Volume 1",
+        "authors": [
+            {
+                "name": "Baker, Samuel White, Sir",
+                "birth_year": 1821,
+                "death_year": 1893
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animal behavior",
+            "Hunting"
+        ],
+        "bookshelves": [
+            "Africa",
+            "Animals-Wild"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3657.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3657.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3657/pg3657.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3657/3657.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/3657.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/3657.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3657.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3663,
+        "title": "The Girl from Keller's",
+        "authors": [
+            {
+                "name": "Bindloss, Harold",
+                "birth_year": 1866,
+                "death_year": 1945
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- Fiction",
+            "Marriage -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3663.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3663.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3663/3663.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3663/pg3663.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3663/3663-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3663/3663-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3663/3663-h/3663-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3663.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3663.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3670,
+        "title": "Peg Woffington",
+        "authors": [
+            {
+                "name": "Reade, Charles",
+                "birth_year": 1814,
+                "death_year": 1884
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Actresses -- Fiction",
+            "Biographical fiction",
+            "Great Britain -- History -- 18th century -- Fiction",
+            "Woffington, Margaret, -1760 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3670.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3670.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3670/pg3670.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3670/3670.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3670/3670-h/3670-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3670/3670-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3670.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3670.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3692,
+        "title": "The House of Life",
+        "authors": [
+            {
+                "name": "Rossetti, Dante Gabriel",
+                "birth_year": 1828,
+                "death_year": 1882
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English poetry -- 19th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3692.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3692.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3692/pg3692.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3692/3692.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3692.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3692.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3692.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3740,
+        "title": "Complete Project Gutenberg Collection of Memoirs of Napoleon",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Napoleon I, Emperor of the French, 1769-1821"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3740.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3740.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3740/pg3740.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3740/3740.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3740.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3740.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3740.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3831,
+        "title": "The Secret Power",
+        "authors": [
+            {
+                "name": "Corelli, Marie",
+                "birth_year": 1855,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "California -- Fiction",
+            "Science fiction",
+            "Sicily (Italy) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3831.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3831.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3831/pg3831.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3831/3831-h/3831-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3831/3831.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3831.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3831.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3831.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 3985,
+        "title": "Gerfaut \u2014 Complete",
+        "authors": [
+            {
+                "name": "Bernard, Charles de",
+                "birth_year": 1804,
+                "death_year": 1850
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3985.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3985.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3985/pg3985.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3985/3985.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3985/3985-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3985.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3985/3985-h/3985-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3985.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 4000,
+        "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy \u2014 Complete",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "French fiction",
+            "Literature -- Collections"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/4000/4000-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4000/4000-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4000.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4000.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4000/pg4000.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/4000.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4000.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4000.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 4019,
+        "title": "The Lure of the Labrador Wild",
+        "authors": [
+            {
+                "name": "Wallace, Dillon",
+                "birth_year": 1863,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Explorers -- Newfoundland and Labrador -- Biography",
+            "Hubbard, Leonidas, 1872-1903",
+            "Labrador (N.L.) -- Discovery and exploration",
+            "Wallace, Dillon, 1863-1939"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4019.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4019.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4019/4019-h/4019-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4019/4019.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4019/pg4019.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/4019.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4019.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4019.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 4201,
+        "title": "Literary Friends and Acquaintance; a Personal Retrospect of American Authorship",
+        "authors": [
+            {
+                "name": "Howells, William Dean",
+                "birth_year": 1837,
+                "death_year": 1920
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American literature -- 19th century -- History and criticism",
+            "Authors, American -- 19th century -- Biography",
+            "Howells, William Dean, 1837-1920 -- Friends and associates"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4201.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4201.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4201/pg4201.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4201/4201-h/4201-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4201/4201-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4201.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4201/4201.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4201.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 4907,
+        "title": "Moths of the Limberlost: A Book About Limberlost Cabin",
+        "authors": [
+            {
+                "name": "Stratton-Porter, Gene",
+                "birth_year": 1863,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Moths -- Indiana"
+        ],
+        "bookshelves": [
+            "Animals-Wild-Insects"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4907.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4907.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4907/pg4907.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4907/4907.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4907.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4907.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4907.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 4912,
+        "title": "Wacousta : a tale of the Pontiac conspiracy (Complete)",
+        "authors": [
+            {
+                "name": "Richardson, Major (John)",
+                "birth_year": 1796,
+                "death_year": 1852
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Pontiac's Conspiracy, 1763-1765 -- Fiction"
+        ],
+        "bookshelves": [
+            "Canada"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4912.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4912.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4912/pg4912.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4912/4912.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4912.html.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4912/4912-h/4912-h.htm",
+            "text/plain": "https://www.gutenberg.org/ebooks/4912.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4912.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5113,
+        "title": "The Confessions of a Beachcomber",
+        "authors": [
+            {
+                "name": "Banfield, E. J. (Edmund James)",
+                "birth_year": 1852,
+                "death_year": 1923
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dunk Island (Qld.)",
+            "Natural history -- Australia -- Queensland"
+        ],
+        "bookshelves": [
+            "Australia"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5113.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5113.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5113/pg5113.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5113/5113.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/5113.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/5113.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5113.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5161,
+        "title": "The Treasure",
+        "authors": [
+            {
+                "name": "Lagerl\u00f6f, Selma",
+                "birth_year": 1858,
+                "death_year": 1940
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bohusl\u00e4n (Sweden) -- Fiction",
+            "Murder -- Fiction",
+            "Sweden -- History -- 1523-1718 -- Fiction",
+            "Swedish fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5161.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5161.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5161/pg5161.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5161/5161.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5161.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5161.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5161.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5183,
+        "title": "The Unexpurgated Case Against Woman Suffrage",
+        "authors": [
+            {
+                "name": "Wright, Almroth",
+                "birth_year": 1861,
+                "death_year": 1947
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Women -- Suffrage",
+            "Women -- Suffrage -- Great Britain",
+            "Women's rights -- Great Britain"
+        ],
+        "bookshelves": [
+            "Suffrage"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5183.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5183.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5183/pg5183.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5183/5183-h/5183-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5183/5183.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5183.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5183.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5183.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5246,
+        "title": "Modern French Philosophy: a Study of the Development Since Comte",
+        "authors": [
+            {
+                "name": "Gunn, John Alexander",
+                "birth_year": 1896,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Philosophy, French",
+            "Philosophy, Modern"
+        ],
+        "bookshelves": [
+            "Philosophy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5246.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5246.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5246/5246-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5246/pg5246.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/5246/5246-h/5246-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/5246.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5246.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5346,
+        "title": "Journals of Expeditions of Discovery into Central Australia and Overland from Adelaide to King George's Sound in the Years 1840-1: Sent By the Colonists of South Australia, with the Sanction and Support of the Government: Including an Account of the Manners and Customs of the Aborigines and the State of Their Relations with Europeans \u2014 Complete",
+        "authors": [
+            {
+                "name": "Eyre, Edward John",
+                "birth_year": 1815,
+                "death_year": 1901
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Australia -- Discovery and exploration",
+            "Ethnology -- Australia"
+        ],
+        "bookshelves": [
+            "Australia",
+            "Travel"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5346.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5346.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5346/5346.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5346/pg5346.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/5346.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5346.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5346.txt.utf-8"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5635,
+        "title": "String Quartet No. 3 in G Major, K. 156",
+        "authors": [
+            {
+                "name": "Mozart, Wolfgang Amadeus",
+                "birth_year": 1756,
+                "death_year": 1791
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "String quartets -- Scores"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/xml": "https://www.gutenberg.org/files/5635/5635-x/WAM_k156_1.xml",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5635.rdf",
+            "application/octet-stream": "https://www.gutenberg.org/files/5635/music/WAM_K156_M1.MUS",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5635/5635-x/README.TXT"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5754,
+        "title": "Lysbeth, a Tale of the Dutch",
+        "authors": [
+            {
+                "name": "Haggard, H. Rider (Henry Rider)",
+                "birth_year": 1856,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Netherlands -- History -- House of Habsburg, 1477-1556 -- Fiction"
+        ],
+        "bookshelves": [
+            "Historical Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5754.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5754.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5754/pg5754.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5754/5754-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/5754/5754-h/5754-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/5754.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5754.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5778,
+        "title": "Try and Trust; Or, Abner Holden's Bound Boy",
+        "authors": [
+            {
+                "name": "Alger, Horatio, Jr.",
+                "birth_year": 1832,
+                "death_year": 1899
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Conduct of life -- Juvenile fiction",
+            "Honesty -- Juvenile fiction",
+            "New York (N.Y.) -- History -- 1775-1865 -- Juvenile fiction",
+            "Orphans -- Juvenile fiction",
+            "Social classes -- Juvenile fiction",
+            "Wealth -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5778.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5778.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5778/pg5778.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5778/5778.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5778/5778-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/5778/5778-h/5778-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/5778.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5778.rdf"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5796,
+        "title": "Journeys Through Bookland, Vol. 2",
+        "authors": [
+            {
+                "name": "Sylvester, Charles Herbert",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children's literature",
+            "Literature -- Collections"
+        ],
+        "bookshelves": [
+            "Children's Anthologies"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5796.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5796.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5796/5796.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5796/pg5796.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5796.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/5796.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5796.txt.utf-8"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 5881,
+        "title": "Reina Valera New Testament of the Bible 1909",
+        "authors": [],
+        "translators": [
+            {
+                "name": "Reina, Casiodoro de",
+                "birth_year": null,
+                "death_year": 1594
+            },
+            {
+                "name": "Valera, Cipriano de",
+                "birth_year": null,
+                "death_year": 1625
+            }
+        ],
+        "subjects": [
+            "Bible. New Testament"
+        ],
+        "bookshelves": [
+            "Christianity"
+        ],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5881.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5881.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5881/pg5881.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5881/5881-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5881.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/5881.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5881.txt.utf-8"
+        },
+        "download_count": 39
+    },
+    {
+        "id": 6021,
+        "title": "A Prisoner in Fairyland (The Book That 'Uncle Paul' Wrote)",
+        "authors": [
+            {
+                "name": "Blackwood, Algernon",
+                "birth_year": 1869,
+                "death_year": 1951
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Magic -- Fiction",
+            "Voyages and travels -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6021.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6021.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6021/pg6021.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6021/6021.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6021.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6021.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6021.txt.utf-8"
+        },
+        "download_count": 39
+    }
+]

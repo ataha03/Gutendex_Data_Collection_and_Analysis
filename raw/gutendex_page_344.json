@@ -1,0 +1,1167 @@
+[
+    {
+        "id": 38552,
+        "title": "Select List of Books ... Relating to the Far East",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "East Asia -- Bibliography"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38552.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38552.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/38552/38552-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38552/pg38552.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38552/38552-h/38552-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38552/38552.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38552.html.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38552/38552-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38552.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 38674,
+        "title": "De la terre \u00e0 la lune, trajet direct en 97 heures 20 minutes",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Manned space flight -- Fiction",
+            "Moon -- Fiction",
+            "Science fiction",
+            "Space flight to the moon -- Fiction",
+            "Space ships -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Jeunesse",
+            "FR Litt\u00e9rature",
+            "FR Science fiction",
+            "Science Fiction"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38674.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38674.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38674/pg38674.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38674/38674-h/38674-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38674/38674-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38674.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/38674.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38674.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 38856,
+        "title": "Goblins and Pagodas",
+        "authors": [
+            {
+                "name": "Fletcher, John Gould",
+                "birth_year": 1886,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38856.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38856.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38856/pg38856.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38856/38856-h/38856-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38856/38856-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38856/38856.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38856.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/38856.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38856.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 38951,
+        "title": "The Curiosities of Heraldry",
+        "authors": [
+            {
+                "name": "Lower, Mark Antony",
+                "birth_year": 1813,
+                "death_year": 1876
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Heraldry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38951.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38951.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38951/38951-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38951/pg38951.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38951/38951-h/38951-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38951/38951.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38951.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/38951.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38951.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 39502,
+        "title": "Copyright: Its History and Its Law",
+        "authors": [
+            {
+                "name": "Bowker, R. R. (Richard Rogers)",
+                "birth_year": 1848,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Copyright -- History",
+            "Copyright -- United States -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39502.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39502.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39502/pg39502.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39502/39502.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39502/39502-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39502/39502-h/39502-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/39502.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39502.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/39502.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 39702,
+        "title": "The philosophy of mathematics",
+        "authors": [
+            {
+                "name": "Comte, Auguste",
+                "birth_year": 1798,
+                "death_year": 1857
+            }
+        ],
+        "translators": [
+            {
+                "name": "Gillespie, W. M. (William Mitchell)",
+                "birth_year": 1816,
+                "death_year": 1868
+            }
+        ],
+        "subjects": [
+            "Mathematics -- Philosophy"
+        ],
+        "bookshelves": [
+            "Mathematics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39702.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39702.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39702/pg39702.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/39702/39702-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/39702/39702-h/39702-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/39702.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39702.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 39783,
+        "title": "Canzoni & Ripostes: Whereto are appended the Complete Poetical Works of T.E. Hulme",
+        "authors": [
+            {
+                "name": "Pound, Ezra",
+                "birth_year": 1885,
+                "death_year": 1972
+            },
+            {
+                "name": "Hulme, T. E. (Thomas Ernest)",
+                "birth_year": 1883,
+                "death_year": 1917
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39783.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39783.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/39783/39783-h/39783-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39783/pg39783.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39783/39783-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39783/39783.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/39783.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/39783.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39783.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 40009,
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Indole\" to \"Insanity\": Volume 14, Slice 5",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Encyclopedias and dictionaries"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40009.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/40009.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/40009/pg40009.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40009/40009.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/40009/40009-h/40009-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40009/40009-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/40009.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/40009.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/40009.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 40118,
+        "title": "The Religious Tract Society Catalogue - 1889",
+        "authors": [
+            {
+                "name": "Religious Tract Society (Great Britain)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Publishers' catalogs -- England -- London",
+            "Religious Tract Society (Great Britain) -- Catalogs"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40118.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/40118.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/40118/pg40118.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/40118/40118-h/40118-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40118/40118-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40118/40118.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/40118.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/40118.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/40118.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 40626,
+        "title": "Punch, or the London Charivari, Volume 93, December 24, 1887",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English wit and humor -- Periodicals"
+        ],
+        "bookshelves": [
+            "Punch"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40626.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/40626.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/40626/pg40626.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40626/40626-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40626/40626.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/40626/40626-h/40626-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/40626.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/40626.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/40626.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 40784,
+        "title": "Ossian in Germany: Bibliography, General Survey, Ossian's Influence upon Klopstock and the Bards",
+        "authors": [
+            {
+                "name": "Tombo, Rudolf",
+                "birth_year": 1875,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bards and bardism in literature",
+            "Celts in literature",
+            "German literature -- Celtic influences",
+            "Klopstock, Friedrich Gottlieb, 1724-1803 -- Knowledge -- Literature",
+            "Literary forgeries and mystifications -- History -- 18th century",
+            "Macpherson, James, 1736-1796 -- Appreciation -- Germany",
+            "Macpherson, James, 1736-1796 -- Influence",
+            "Macpherson, James, 1736-1796. Ossian",
+            "Medievalism -- Scotland -- History -- 18th century",
+            "Middle Ages in literature",
+            "Ossian, active 3rd century -- In literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40784.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/40784.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/40784/pg40784.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40784/40784.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/40784/40784-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40784/40784-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/40784/40784-h/40784-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/40784.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/40784.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 41042,
+        "title": "Solomon Maimon: An Autobiography.",
+        "authors": [
+            {
+                "name": "Maimon, Solomon",
+                "birth_year": 1754,
+                "death_year": 1800
+            }
+        ],
+        "translators": [
+            {
+                "name": "Murray, John Clark",
+                "birth_year": 1836,
+                "death_year": 1917
+            }
+        ],
+        "subjects": [
+            "Jewish philosophers -- Germany -- Biography",
+            "Judaism -- Europe, Eastern -- History -- 18th century",
+            "Maimon, Salomon, 1754-1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41042.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41042.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41042/pg41042.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41042/41042-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41042/41042-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41042/41042.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41042/41042-h/41042-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/41042.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41042.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 41102,
+        "title": "The King's Threshold; and On Baile's Strand",
+        "authors": [
+            {
+                "name": "Yeats, W. B. (William Butler)",
+                "birth_year": 1865,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ireland -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41102.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41102.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41102/pg41102.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41102/41102.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41102/41102-h/41102-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41102/41102-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41102/41102-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41102.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41102.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 41391,
+        "title": "Constantinople: The Story of the Old Capital of the Empire",
+        "authors": [
+            {
+                "name": "Hutton, William Holden",
+                "birth_year": 1860,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Istanbul (Turkey)"
+        ],
+        "bookshelves": [
+            "Medi\u00e6val Town Series"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41391.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41391.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41391/41391.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41391/41391-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41391/41391-h/41391-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41391/41391-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41391/pg41391.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/41391.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41391.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 41593,
+        "title": "Unexplored Spain",
+        "authors": [
+            {
+                "name": "Buck, Walter John",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Chapman, Abel",
+                "birth_year": 1851,
+                "death_year": 1929
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Hunting -- Spain",
+            "Natural history -- Spain",
+            "Spain -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41593.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41593.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41593/pg41593.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41593/41593-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41593/41593-h/41593-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/41593.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/41593.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41593.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 41871,
+        "title": "Scribner's Magazine, Volume 26, July 1899",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American periodicals"
+        ],
+        "bookshelves": [
+            "Scribner's Magazine"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41871.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41871.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41871/pg41871.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41871/41871.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/41871/41871-h/41871-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41871/41871-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41871/41871-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41871.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41871.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 42074,
+        "title": "The Spirit Lake Massacre",
+        "authors": [
+            {
+                "name": "Teakle, Thomas",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indians of North America -- Iowa",
+            "Spirit Lake Massacre, Iowa, 1857"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42074.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42074.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42074/pg42074.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42074/42074.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/42074/42074-h/42074-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42074/42074-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/42074/42074-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/42074.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42074.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 42757,
+        "title": "The Countess of Charny; or, The Execution of King Louis XVI",
+        "authors": [
+            {
+                "name": "Dumas, Alexandre",
+                "birth_year": 1802,
+                "death_year": 1870
+            }
+        ],
+        "translators": [
+            {
+                "name": "Williams, Henry Llewellyn",
+                "birth_year": 1842,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "France -- History -- Revolution, 1789-1799 -- Fiction",
+            "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42757.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42757.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42757/42757-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42757/42757.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42757/pg42757.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/42757/42757-h/42757-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/42757.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42757.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/42757.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 43685,
+        "title": "The Literature and History of New Testament Times",
+        "authors": [
+            {
+                "name": "Machen, J. Gresham (John Gresham)",
+                "birth_year": 1881,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bible. New Testament -- History of Biblical events",
+            "Bible. New Testament -- Introductions",
+            "Bible. New Testament -- Theology"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43685.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/43685.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/43685.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/43685/pg43685.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43685/43685.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/43685/43685-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/43685.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/43685.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 43698,
+        "title": "Les fran\u00e7ais au p\u00f4le Nord",
+        "authors": [
+            {
+                "name": "Boussenard, Louis",
+                "birth_year": 1847,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Arctic regions -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Jeunesse"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43698.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/43698.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/43698.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/43698/pg43698.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/43698/43698-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43698/43698-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/43698.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/43698.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 43877,
+        "title": "The Life of Galileo Galilei, with Illustrations of the Advancement of Experimental Philosophy: Life of Kepler",
+        "authors": [
+            {
+                "name": "Bethune, John Elliot Drinkwater",
+                "birth_year": 1801,
+                "death_year": 1851
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Galilei, Galileo, 1564-1642",
+            "Kepler, Johannes, 1571-1630"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43877.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/43877.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/43877/pg43877.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43877/43877.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/43877/43877-h/43877-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/43877/43877-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/43877/43877-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/43877.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/43877.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 44094,
+        "title": "Civilisation: Its Cause and Cure; and Other Essays",
+        "authors": [
+            {
+                "name": "Carpenter, Edward",
+                "birth_year": 1844,
+                "death_year": 1929
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Civilization",
+            "Crime",
+            "Evolution",
+            "Science"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44094.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44094.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44094/44094.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44094/44094-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/44094/44094-h/44094-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44094/pg44094.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/44094.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/44094.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44094.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 44175,
+        "title": "Nautical Charts",
+        "authors": [
+            {
+                "name": "Putnam, G. R. (George Rockwell)",
+                "birth_year": 1865,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Nautical charts"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44175.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44175.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44175/44175.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44175/44175-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44175/pg44175.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/44175/44175-h/44175-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/44175/44175-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/44175.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44175.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 44235,
+        "title": "Memoirs of the Dukes of Urbino, Volume 2 (of 3): Illustrating the Arms, Arts, and Literature of Italy, from 1440 To 1630.",
+        "authors": [
+            {
+                "name": "Dennistoun, James",
+                "birth_year": 1803,
+                "death_year": 1855
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Nobility -- Italy -- History",
+            "Renaissance -- Italy",
+            "Urbino (Italy)",
+            "Urbino, Dukes of"
+        ],
+        "bookshelves": [
+            "Italy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44235.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44235.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/44235.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44235/pg44235.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44235/44235-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44235/44235.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/44235.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44235.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 44714,
+        "title": "I Viaggi di Marco Polo: Unica versione originale fedelmente riscontrata sul codice magliabeccano e sulle opere di Charton",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            },
+            {
+                "name": "Polo, Marco",
+                "birth_year": 1254,
+                "death_year": 1324
+            }
+        ],
+        "translators": [
+            {
+                "name": "Colombo, Ezio",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Asia -- Description and travel",
+            "Mongols -- History",
+            "Voyages and travels"
+        ],
+        "bookshelves": [
+            "IT Viaggi"
+        ],
+        "languages": [
+            "it"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44714.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44714.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44714/pg44714.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/44714/44714-h/44714-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/44714.html.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44714/44714-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/44714.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44714.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 44730,
+        "title": "Memorabilia Mathematica; or, the Philomath's Quotation-Book",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Mathematics",
+            "Mathematics -- Quotations, maxims, etc."
+        ],
+        "bookshelves": [
+            "Mathematics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44730.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44730.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44730/pg44730.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44730/44730-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/44730/44730-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44730/44730.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/44730/44730-h/44730-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/44730.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44730.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 46093,
+        "title": "Secrets of the Sword",
+        "authors": [
+            {
+                "name": "Bazancourt, C\u00e9sar Lecat, baron de",
+                "birth_year": 1810,
+                "death_year": 1865
+            }
+        ],
+        "translators": [
+            {
+                "name": "Clay, Charles Felix",
+                "birth_year": 1861,
+                "death_year": 1947
+            }
+        ],
+        "subjects": [
+            "Fencing"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46093.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/46093.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/46093/46093-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/46093/46093-h/46093-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/46093/pg46093.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/46093/46093.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/46093.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/46093.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/46093.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 47377,
+        "title": "The Strand Magazine, Vol. 07, Issue 42, June, 1894: An Illustrated Monthly",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English literature -- Periodicals",
+            "Short stories, English -- Periodicals"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/47377.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/47377.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/47377/47377-8.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/47377/47377-h/47377-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/47377/pg47377.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/47377.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/47377.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/47377.txt.utf-8"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 47943,
+        "title": "The Curiosities of Dudley and the Black Country, From 1800 to 1860: Also an Account of the Trials and Sufferings of Dud Dudley, with His Mettallum Martis: Etc.",
+        "authors": [
+            {
+                "name": "Clark, C. F. G.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Black Country (England) -- History",
+            "Dudley (England) -- History",
+            "Dudley (England) -- History -- Sources",
+            "Iron -- Metallurgy -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/47943.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/47943.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/47943.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/47943/pg47943.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/47943/47943-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/47943.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/47943/47943-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/47943.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 48733,
+        "title": "Les Mis\u00e9rables, v. 3/5: Marius",
+        "authors": [
+            {
+                "name": "Hugo, Victor",
+                "birth_year": 1802,
+                "death_year": 1885
+            }
+        ],
+        "translators": [
+            {
+                "name": "Wraxall, Lascelles, Sir",
+                "birth_year": 1828,
+                "death_year": 1865
+            }
+        ],
+        "subjects": [
+            "Epic literature",
+            "Ex-convicts -- Fiction",
+            "Historical fiction",
+            "Orphans -- Fiction",
+            "Paris (France) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/48733.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/48733.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/48733/48733-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/48733/pg48733.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/48733.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/48733/48733-h/48733-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/48733.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 49031,
+        "title": "A Migration Legend of the Creek Indians, vol. 1: With a Linguistic, Historic and Ethnographic Introduction",
+        "authors": [
+            {
+                "name": "Gatschet, Albert S. (Albert Samuel)",
+                "birth_year": 1832,
+                "death_year": 1907
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Creek Indians",
+            "Creek language",
+            "Creek language -- Texts",
+            "Indians of North America -- Folklore",
+            "Indians of North America -- Southern States"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/49031.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/49031.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/49031/49031-h/49031-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/49031/pg49031.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/49031/49031-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/49031.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/49031.rdf"
+        },
+        "download_count": 90
+    },
+    {
+        "id": 49172,
+        "title": "Cavity-Nesting Birds of North American Forests: Agriculture Handbook 511",
+        "authors": [
+            {
+                "name": "Patton, David R.",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Evans, Keith E.",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Scott, Virgil E.",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Stone, Charles P.",
+                "birth_year": 1937,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Birds -- Nests",
+            "Birds -- North America",
+            "Cavity-nesting birds -- North America",
+            "Forest birds -- North America"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/49172.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/49172.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/49172/pg49172.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/49172/49172-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/49172/49172-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/49172/49172-h/49172-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/49172.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/49172.rdf"
+        },
+        "download_count": 90
+    }
+]

@@ -1,0 +1,1081 @@
+[
+    {
+        "id": 50291,
+        "title": "Retrato de la Lozana Andaluza: En lengua espa\u00f1ola muy clar\u00edsima, compuesto en Roma.",
+        "authors": [
+            {
+                "name": "Delicado, Francisco, active 16th century",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Picaresque literature",
+            "Spanish fiction -- Classical period, 1500-1700"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50291.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50291.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50291/50291-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50291/pg50291.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/50291/50291-h/50291-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/50291.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50291.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 50593,
+        "title": "La chair et le sang",
+        "authors": [
+            {
+                "name": "Mauriac, Fran\u00e7ois",
+                "birth_year": 1885,
+                "death_year": 1970
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- Fiction",
+            "French fiction -- 20th century",
+            "Friendship -- Fiction",
+            "Man-woman relationships -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50593.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50593.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50593/50593-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/50593/50593-h/50593-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50593/pg50593.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/50593.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50593.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 50670,
+        "title": "Clio",
+        "authors": [
+            {
+                "name": "France, Anatole",
+                "birth_year": 1844,
+                "death_year": 1924
+            }
+        ],
+        "translators": [
+            {
+                "name": "Whale, Winifred Stephens",
+                "birth_year": 1870,
+                "death_year": 1944
+            }
+        ],
+        "subjects": [
+            "Ch\u00e2teau de Vaux-le-Vicomte (Maincy, France)",
+            "France -- Social life and customs -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50670.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50670.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50670/50670-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50670/pg50670.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/50670/50670-h/50670-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/50670.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50670.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 50907,
+        "title": "The Anatomy of Suicide",
+        "authors": [
+            {
+                "name": "Winslow, Forbes",
+                "birth_year": 1810,
+                "death_year": 1874
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Suicide"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50907.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50907.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/50907.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50907/pg50907.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50907/50907-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50907.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51041,
+        "title": "The Horses of the Sahara and the Manners of the Desert",
+        "authors": [
+            {
+                "name": "Daumas, E.\u200f (Eug\u00e8ne)",
+                "birth_year": 1803,
+                "death_year": 1871
+            }
+        ],
+        "translators": [
+            {
+                "name": "Hutton, James",
+                "birth_year": 1818,
+                "death_year": 1893
+            }
+        ],
+        "subjects": [
+            "Arabian horse",
+            "Sahara"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51041.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51041.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51041/51041-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51041/pg51041.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51041/51041-h/51041-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/51041.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51041.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51244,
+        "title": "The Livestock Producer and Armour",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Animal industry -- United States",
+            "Packing-house products"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51244.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51244.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51244/pg51244.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51244/51244-h/51244-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51244/51244-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/51244.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51244.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51280,
+        "title": "Newfoundland to Cochin China: By the Golden Wave, New Nippon, and the Forbidden City",
+        "authors": [
+            {
+                "name": "Vincent, Ethel Gwendoline",
+                "birth_year": 1861,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- Description and travel",
+            "China -- Description and travel",
+            "Japan -- Description and travel",
+            "Voyages and travels"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51280.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51280.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/51280/51280-h/51280-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51280/51280-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51280/pg51280.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/51280.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51280.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51299,
+        "title": "Ibrahim Pasha: Grand Vizir of Suleiman the Magnificent",
+        "authors": [
+            {
+                "name": "Jenkins, Hester Donaldson",
+                "birth_year": 1869,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ibrahim Pasa, 1493?-1536"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51299.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51299.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/51299.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51299/pg51299.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51299/51299-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51299.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51310,
+        "title": "My Lady Greensleeves",
+        "authors": [
+            {
+                "name": "Pohl, Frederik",
+                "birth_year": 1919,
+                "death_year": 2013
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Prison riots -- Fiction",
+            "Prisons -- Fiction",
+            "Science fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51310.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51310.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51310/51310.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/51310/51310-h/51310-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51310/pg51310.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/51310.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/51310.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51310.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51664,
+        "title": "Palace and Mosque at Ukhaidir: A Study in Early Mohammadan Architecture",
+        "authors": [
+            {
+                "name": "Bell, Gertrude Lowthian",
+                "birth_year": 1868,
+                "death_year": 1926
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Iraq -- Antiquities",
+            "Mosques",
+            "Ukheidar"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51664.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51664.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51664/pg51664.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51664/51664-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51664/51664-h/51664-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/51664.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51664.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51678,
+        "title": "Unique Ghost Towns and Mountain Spots",
+        "authors": [
+            {
+                "name": "Bancroft, Caroline",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cities and towns -- Colorado",
+            "Colorado -- Guidebooks",
+            "Extinct cities -- Colorado"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51678.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51678.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/51678/51678-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51678/51678-h/51678-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51678/pg51678.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51678/51678-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/51678.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51678.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51688,
+        "title": "The Air of Castor Oil",
+        "authors": [
+            {
+                "name": "Harmon, Jim",
+                "birth_year": 1933,
+                "death_year": 2010
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction",
+            "Short stories"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51688.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51688.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51688/pg51688.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/51688/51688-h/51688-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/51688/51688-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/51688.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/51688.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51688.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51782,
+        "title": "Doctor",
+        "authors": [
+            {
+                "name": "Leinster, Murray",
+                "birth_year": 1896,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Diseases -- Fiction",
+            "Physicians -- Fiction",
+            "Science fiction",
+            "Space ships -- Fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51782.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51782.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/51782/51782-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51782/pg51782.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/51782/51782-h/51782-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/51782.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/51782.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51782.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51909,
+        "title": "The Apaches of New York",
+        "authors": [
+            {
+                "name": "Lewis, Alfred Henry",
+                "birth_year": 1857,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Criminals -- Fiction",
+            "New York (State) -- Social life and customs -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51909.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51909.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/51909/51909-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51909/51909-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51909/51909.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51909/51909-h/51909-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51909/pg51909.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/51909.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51909.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 51950,
+        "title": "The Prodigal Son",
+        "authors": [
+            {
+                "name": "Caine, Hall, Sir",
+                "birth_year": 1853,
+                "death_year": 1931
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Brothers -- Fiction",
+            "Iceland -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51950.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/51950.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/51950/51950-h/51950-h.html",
+            "text/x-rst": "https://www.gutenberg.org/ebooks/51950.rst.gen",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/51950/pg51950.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/51950/51950-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/51950/51950-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/51950.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51950/51950.txt",
+            "application/pdf": "https://www.gutenberg.org/ebooks/51950.pdf.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/51950.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 52069,
+        "title": "Lives of Boulton and Watt. Principally from the Original Soho Mss.: Comprising also a history of the invention and introduction of the steam engine",
+        "authors": [
+            {
+                "name": "Smiles, Samuel",
+                "birth_year": 1812,
+                "death_year": 1904
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boulton, Matthew, 1728-1809",
+            "Steam-engines -- History",
+            "Watt, James, 1736-1819"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52069.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52069.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52069/pg52069.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52069/52069-h/52069-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52069/52069-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/52069.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52069.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 52378,
+        "title": "Photo-engraving, Photo-etching and Photo-lithography in Line and Half-tone: Also Collotype and Heliotype",
+        "authors": [
+            {
+                "name": "Wilkinson, W. T.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Photomechanical processes"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52378.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52378.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52378/pg52378.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52378/52378-h/52378-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52378/52378-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/52378.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52378.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 52434,
+        "title": "Deadly Adulteration and Slow Poisoning Unmasked: Disease and Death in the Pot and Bottle",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Drug adulteration",
+            "Food adulteration and inspection"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52434.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52434.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52434/52434-h/52434-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52434/pg52434.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52434/52434-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/52434.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52434.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 52511,
+        "title": "\u00c9tudes: Baudelaire, Paul Claudel, Andr\u00e9 Gide, Rameau, Bach, Franck, Wagner, Moussorgsky, Debussy, Ingres, C\u00e9zanne, Gauguin",
+        "authors": [
+            {
+                "name": "Rivi\u00e8re, Jacques",
+                "birth_year": 1886,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Baudelaire, Charles, 1821-1867",
+            "Claudel, Paul, 1868-1955",
+            "Gide, Andr\u00e9, 1869-1951",
+            "Music",
+            "Painters -- France"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature",
+            "FR Musique",
+            "FR Peinture"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52511.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52511.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52511/pg52511.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52511/52511-h/52511-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52511/52511-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/52511.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52511.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 52898,
+        "title": "The Magic House, and Other Poems",
+        "authors": [
+            {
+                "name": "Scott, Duncan Campbell",
+                "birth_year": 1862,
+                "death_year": 1947
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canadian poetry -- 19th century"
+        ],
+        "bookshelves": [
+            "Canada"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52898.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52898.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52898/52898-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52898/pg52898.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52898/52898-h/52898-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/52898.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52898.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53025,
+        "title": "Die menschliche Familie nach ihrer Entstehung und nat\u00fcrlichen Entwickelung",
+        "authors": [
+            {
+                "name": "Hellwald, Friedrich von",
+                "birth_year": 1842,
+                "death_year": 1892
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Families -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53025.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53025.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/53025.html.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/53025/53025-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53025/pg53025.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53025.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53300,
+        "title": "Nature's Teachings: Human Invention Anticipated by Nature",
+        "authors": [
+            {
+                "name": "Wood, J. G. (John George)",
+                "birth_year": 1827,
+                "death_year": 1889
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Inventions",
+            "Natural history"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53300.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53300.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53300/pg53300.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/53300/53300-h/53300-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/53300/53300-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/53300.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53300.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53411,
+        "title": "Eve: A Novel",
+        "authors": [
+            {
+                "name": "Baring-Gould, S. (Sabine)",
+                "birth_year": 1834,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dartmoor (England) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53411.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53411.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53411/pg53411.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/53411/53411-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/53411/53411-h/53411-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/53411.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53411.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53668,
+        "title": "Kate Vernon: A Tale. Vol. 3 (of 3)",
+        "authors": [
+            {
+                "name": "Alexander, Mrs.",
+                "birth_year": 1825,
+                "death_year": 1902
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53668.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53668.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53668/pg53668.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/53668/53668-h/53668-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/53668/53668-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/53668.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/53668.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53668.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53723,
+        "title": "Early English Hero Tales",
+        "authors": [
+            {
+                "name": "Marks, Jeannette Augustus",
+                "birth_year": 1875,
+                "death_year": 1964
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Folklore -- Great Britain",
+            "Heroes"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53723.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53723.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53723/pg53723.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/53723/53723-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/53723/53723-h/53723-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/53723.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53723.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/53723.txt.utf-8"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 53755,
+        "title": "The Taleef Shereef; Or, Indian Materia Medica",
+        "authors": [],
+        "translators": [
+            {
+                "name": "Playfair, George",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Materia medica -- India",
+            "Medicine, Ayurvedic"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53755.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/53755.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/53755.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/53755/53755-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/53755/pg53755.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/53755.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/53755/53755-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/53755.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54129,
+        "title": "Sixteen years in Siberia: Some experiences of a Russian revolutionist",
+        "authors": [
+            {
+                "name": "Deich, L. G. (Lev Grigor'evich)",
+                "birth_year": 1855,
+                "death_year": 1941
+            }
+        ],
+        "translators": [
+            {
+                "name": "Chisholm, Helen",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Deich, L. G. (Lev Grigor'evich), 1855-1941",
+            "Exiles -- Russia (Federation) -- Siberia -- Biography"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54129.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54129.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54129/pg54129.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/54129/54129-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/54129.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/54129/54129-h/54129-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54129.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54560,
+        "title": "Sewastopol",
+        "authors": [
+            {
+                "name": "Tolstoy, Leo, graf",
+                "birth_year": 1828,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Russian fiction -- Translations into German",
+            "Sevastopol (Ukraine) -- History -- Siege, 1854-1855 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54560.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54560.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/54560/54560-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54560/pg54560.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/54560/54560-h/54560-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/54560.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54560.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/54560.txt.utf-8"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54587,
+        "title": "The Pope, the Kings and the People: A History of the Movement to Make the Pope Governor of the World by a Universal Reconstruction of Society from the Issue of the Syllabus to the Close of the Vatican Council",
+        "authors": [
+            {
+                "name": "Arthur, William",
+                "birth_year": 1819,
+                "death_year": 1901
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Catholic Church -- History -- 19th century",
+            "Papacy -- History -- 1799-1870",
+            "Pius IX, Pope, 1792-1878",
+            "Popes -- Infallibility",
+            "Popes -- Temporal power",
+            "Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54587.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54587.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/54587.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54587/pg54587.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/54587/54587-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54587.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54733,
+        "title": "The Manatitlans: or, A record of recent scientific explorations in the Andean La Plata, S. A.",
+        "authors": [
+            {
+                "name": "Smile, R. Elton",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction, American"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54733.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54733.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/54733/54733-h/54733-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/54733/54733-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54733/pg54733.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/54733.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54733.rdf"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54737,
+        "title": "Out for Business; or, Robert Frost's Strange Career",
+        "authors": [
+            {
+                "name": "Alger, Horatio, Jr.",
+                "birth_year": 1832,
+                "death_year": 1899
+            },
+            {
+                "name": "Stratemeyer, Edward",
+                "birth_year": 1862,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Chicago (Ill.) -- History -- 19th century -- Juvenile fiction",
+            "Self-reliance -- Juvenile fiction",
+            "Stepfathers -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54737.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54737.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54737/pg54737.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/54737/54737-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/54737/54737-h/54737-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/54737.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54737.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/54737.txt.utf-8"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 54897,
+        "title": "Preliminary Discourse on the Study of Natural Philosophy",
+        "authors": [
+            {
+                "name": "Herschel, John F. W. (John Frederick William)",
+                "birth_year": 1792,
+                "death_year": 1871
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Astronomy -- History",
+            "Physics -- History",
+            "Science -- History",
+            "Science -- Philosophy"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54897.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/54897.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/54897/pg54897.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/54897/54897-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/54897/54897-h/54897-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/54897.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/54897.rdf"
+        },
+        "download_count": 53
+    }
+]

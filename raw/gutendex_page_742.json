@@ -1,0 +1,1104 @@
+[
+    {
+        "id": 5611,
+        "title": "The Satyricon of Petronius Arbiter",
+        "authors": [
+            {
+                "name": "Petronius Arbiter",
+                "birth_year": 20,
+                "death_year": 66
+            }
+        ],
+        "translators": [
+            {
+                "name": "Burnaby, William",
+                "birth_year": 1672,
+                "death_year": 1706
+            }
+        ],
+        "subjects": [
+            "Rome -- Fiction",
+            "Satire, Latin -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5611.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5611.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5611/pg5611.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5611/5611-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5611.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5611.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5619,
+        "title": "Essays on Mankind and Political Arithmetic",
+        "authors": [
+            {
+                "name": "Petty, William, Sir",
+                "birth_year": 1623,
+                "death_year": 1687
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "London (England) -- Population",
+            "Population"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5619.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5619.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/5619.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5619/pg5619.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5619/5619-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5619.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5785,
+        "title": "A Tramp Abroad \u2014 Volume 04",
+        "authors": [
+            {
+                "name": "Twain, Mark",
+                "birth_year": 1835,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Americans -- Europe -- Fiction",
+            "Europe -- Fiction",
+            "Humorous stories",
+            "Walking -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5785.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5785.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5785/5785.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5785/5785-h/5785-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5785/pg5785.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5785/5785-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5785.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5785.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5785.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5901,
+        "title": "Dyke Darrel the Railroad Detective; Or, The Crime of the Midnight Express",
+        "authors": [
+            {
+                "name": "Pinkerton, A. Frank",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Crime -- Fiction",
+            "Detective and mystery stories",
+            "Railroad stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5901.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5901.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5901/pg5901.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5901/5901.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5901.html.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5901/5901-h/5901-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5901.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5901.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5952,
+        "title": "The Bobbsey Twins in the Great West",
+        "authors": [
+            {
+                "name": "Hope, Laura Lee",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bobbsey Twins (Fictitious characters) -- Juvenile fiction",
+            "Siblings -- Juvenile fiction",
+            "Twins -- Juvenile fiction",
+            "West (U.S.) -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Book Series"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5952.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5952.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5952/pg5952.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5952/5952.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5952.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/5952.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5952.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5994,
+        "title": "Our Nervous Friends \u2014 Illustrating the Mastery of Nervousness",
+        "authors": [
+            {
+                "name": "Carroll, Robert S. (Robert Sproul)",
+                "birth_year": 1869,
+                "death_year": 1949
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Nervous system -- Hygiene"
+        ],
+        "bookshelves": [
+            "Psychology"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5994.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5994.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5994/5994.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5994/pg5994.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5994.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/5994.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5994.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6084,
+        "title": "Quartet in a minor, op. 41, no. 1",
+        "authors": [
+            {
+                "name": "Schumann, Robert",
+                "birth_year": 1810,
+                "death_year": 1856
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "String quartets -- Scores"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/xml": "https://www.gutenberg.org/files/6084/6084-x/RS_op41_no1_1.xml",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6084.rdf",
+            "application/octet-stream": "https://www.gutenberg.org/files/6084/music/RS_op41_no1_1.MUS",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6084/6084-x/README.txt"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6109,
+        "title": "How to Study and Teaching How to Study",
+        "authors": [
+            {
+                "name": "McMurry, Frank M. (Frank Morton)",
+                "birth_year": 1862,
+                "death_year": 1936
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Study skills",
+            "Teaching"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6109.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6109.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6109/pg6109.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6109/6109.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6109.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6109.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6109.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6110,
+        "title": "Das hohe Ziel der Erkenntnis: Aranada Upanishad",
+        "authors": [
+            {
+                "name": "al-Raschid, Omar, bey",
+                "birth_year": null,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Philosophy, Hindu"
+        ],
+        "bookshelves": [
+            "DE Sachbuch"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6110.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6110.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6110/pg6110.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/6110/6110-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6110.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6110.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6110.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6364,
+        "title": "Warlock o' Glenwarlock: A Homely Romance",
+        "authors": [
+            {
+                "name": "MacDonald, George",
+                "birth_year": 1824,
+                "death_year": 1905
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Christian fiction",
+            "Highlands (Scotland) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6364.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6364.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/6364.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/6364/6364-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6364/6364-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6364/pg6364.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6364.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/6364.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6386,
+        "title": "The Lives of the Twelve Caesars, Volume 01: Julius Caesar",
+        "authors": [
+            {
+                "name": "Suetonius",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Thomson, Alexander, M.D.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Emperors -- Rome -- Biography -- Early works to 1800",
+            "Rome -- History -- Empire, 30 B.C.-284 A.D."
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6386.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6386.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6386/pg6386.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6386/6386.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6386.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6386.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6386.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6387,
+        "title": "The Lives of the Twelve Caesars, Volume 02: Augustus",
+        "authors": [
+            {
+                "name": "Suetonius",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Thomson, Alexander, M.D.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Emperors -- Rome -- Biography -- Early works to 1800",
+            "Rome -- History -- Empire, 30 B.C.-284 A.D."
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6387.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6387.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6387/pg6387.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6387/6387.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6387.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6387.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6387.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6441,
+        "title": "Uncle Robert's Geography (Uncle Robert's Visit, V.3)",
+        "authors": [
+            {
+                "name": "Parker, Francis W. (Francis Wayland)",
+                "birth_year": 1837,
+                "death_year": 1902
+            },
+            {
+                "name": "Helm, Nellie Lathrop",
+                "birth_year": 1859,
+                "death_year": 1940
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Farm life",
+            "Natural history",
+            "Readers"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6441.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6441.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6441/6441.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6441/pg6441.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6441.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6441.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6441.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6661,
+        "title": "Waverley Novels \u2014 Volume 12",
+        "authors": [
+            {
+                "name": "Scott, Walter",
+                "birth_year": 1771,
+                "death_year": 1832
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Historical fiction, Scottish",
+            "Scotland -- In literature"
+        ],
+        "bookshelves": [
+            "Historical Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6661.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6661.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6661/pg6661.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6661/6661.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6661.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6661.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6661.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6673,
+        "title": "Young Knights of the Empire : Their Code, and Further Scout Yarns",
+        "authors": [
+            {
+                "name": "Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron",
+                "birth_year": 1857,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boy Scouts"
+        ],
+        "bookshelves": [
+            "Scouts"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6673.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6673.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6673/pg6673.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6673/6673.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6673.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6673.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6673.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6727,
+        "title": "England under the Tudors",
+        "authors": [
+            {
+                "name": "Innes, Arthur D. (Arthur Donald)",
+                "birth_year": 1863,
+                "death_year": 1938
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Great Britain -- History -- Tudors, 1485-1603"
+        ],
+        "bookshelves": [
+            "United Kingdom"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6727.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6727.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6727/pg6727.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/6727/6727-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6727.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6727.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6727.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6853,
+        "title": "Betty Gordon in Washington; Or, Strange Adventures in a Great City",
+        "authors": [
+            {
+                "name": "Emerson, Alice B.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Washington (D.C.) -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Book Series"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6853.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6853.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6853/6853.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/6853/6853-h/6853-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6853/pg6853.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/6853.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6853.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/6853.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 6871,
+        "title": "String Quartet No. 09 in C major Opus 59",
+        "authors": [
+            {
+                "name": "Beethoven, Ludwig van",
+                "birth_year": 1770,
+                "death_year": 1827
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Music",
+            "String quartets -- Scores"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/xml": "https://www.gutenberg.org/files/6871/6871-x/LVB_Op59_no3_1.xml",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6871.rdf",
+            "application/octet-stream": "https://www.gutenberg.org/files/6871/music/LVB_op59_no3_1.MUS",
+            "application/pdf": "https://www.gutenberg.org/files/6871/music/Op.59_no.3.pdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6871/6871-x/README.TXT"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7271,
+        "title": "\u641c\u795e\u8a18 volume 11-14",
+        "authors": [
+            {
+                "name": "Gan, Bao, active 317-322",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Legends -- China"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7271.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7271.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7271/pg7271.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/7271/7271-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7271.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/7271.html.images"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7283,
+        "title": "Short Stories and Selections for Use in the Secondary Schools",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "English prose literature",
+            "Readers",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7283.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7283.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7283/pg7283.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7283/7283.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7283.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/7283.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/7283.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7765,
+        "title": "Night Must Fall : a Play in Three Acts",
+        "authors": [
+            {
+                "name": "Williams, Emlyn",
+                "birth_year": 1905,
+                "death_year": 1987
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English drama -- 20th century",
+            "Murder -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7765.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7765.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7765/pg7765.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7765/7765.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7765.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/7765.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/7765.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7866,
+        "title": "An Ambitious Man",
+        "authors": [
+            {
+                "name": "Wilcox, Ella Wheeler",
+                "birth_year": 1850,
+                "death_year": 1919
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7866.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7866.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/7866.html.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/7866/7866-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7866/pg7866.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7866.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7929,
+        "title": "Parisians in the Country",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Waring, James",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Wormeley, Katharine Prescott",
+                "birth_year": 1830,
+                "death_year": 1908
+            }
+        ],
+        "subjects": [
+            "France -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7929.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7929.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7929/7929.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/7929/7929-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/7929/7929-h/7929-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7929/pg7929.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/7929.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7929.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 7994,
+        "title": "The Crayon Papers",
+        "authors": [
+            {
+                "name": "Irving, Washington",
+                "birth_year": 1783,
+                "death_year": 1859
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American prose literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7994.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/7994.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/7994/pg7994.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/7994/7994-h/7994-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7994/7994.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/7994/7994-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/7994.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/7994.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/7994.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8204,
+        "title": "Three Men in a Boat",
+        "authors": [
+            {
+                "name": "Jerome, Jerome K. (Jerome Klapka)",
+                "birth_year": 1859,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boats and boating -- England -- Thames River -- Fiction",
+            "Dogs -- Fiction",
+            "Humorous stories, English",
+            "Male friendship -- Fiction",
+            "Thames River (England) -- Fiction",
+            "Young men -- Travel -- England -- Thames River -- Fiction"
+        ],
+        "bookshelves": [
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/8204/8204-mp3.zip",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8204.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/8204/mp3/8204-013.mp3",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/8204/8204-index.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8204/8204-readme.txt"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8415,
+        "title": "The Magician's Show Box, and Other Stories",
+        "authors": [
+            {
+                "name": "Tappan, Caroline Sturgis",
+                "birth_year": 1819,
+                "death_year": 1888
+            },
+            {
+                "name": "Child, Lydia Maria",
+                "birth_year": 1802,
+                "death_year": 1880
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children's stories",
+            "Fairy tales"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8415.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8415.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8415/pg8415.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8415/8415.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/8415/8415-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8415/8415-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/8415/8415-h/8415-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/8415.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8415.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8651,
+        "title": "With Moore at Corunna",
+        "authors": [
+            {
+                "name": "Henty, G. A. (George Alfred)",
+                "birth_year": 1832,
+                "death_year": 1902
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "La Coru\u00f1a, Battle of, La Coru\u00f1a, Spain, 1809 -- Juvenile fiction",
+            "Moore, John, Sir 1761-1809 -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction",
+            "Historical Fiction",
+            "Napoleonic(Bookshelf)"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8651.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8651.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8651/pg8651.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/8651/8651-h/8651-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8651/8651-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8651/8651.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/8651.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8651.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/8651.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8670,
+        "title": "In the Heart of the Rockies: A Story of Adventure in Colorado",
+        "authors": [
+            {
+                "name": "Henty, G. A. (George Alfred)",
+                "birth_year": 1832,
+                "death_year": 1902
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure and adventurers -- Juvenile fiction",
+            "Arapaho Indians -- Juvenile fiction",
+            "Colorado -- History -- 19th century -- Juvenile fiction",
+            "Coming of age -- Juvenile fiction",
+            "Frontier and pioneer life -- Colorado -- Juvenile fiction",
+            "Indians of North America -- Colorado -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8670.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8670.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/8670.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/8670/8670-h.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8670/pg8670.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8670/8670-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8670/8670.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8670.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/8670.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8803,
+        "title": "Gro\u00dfe und kleine Welt",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- Fiction",
+            "Short stories"
+        ],
+        "bookshelves": [
+            "DE Prosa"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8803.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8803.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8803/pg8803.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8803/8803-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/8803.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/8803.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8803.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 8971,
+        "title": "The island of Doctor Moreau",
+        "authors": [
+            {
+                "name": "Wells, H. G. (Herbert George)",
+                "birth_year": 1866,
+                "death_year": 1946
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animal experimentation -- Fiction",
+            "Islands -- Fiction",
+            "Science -- Ethics -- Fiction",
+            "Science fiction",
+            "Shipwreck survival -- Fiction"
+        ],
+        "bookshelves": [
+            "Movie Books",
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/8971/8971-mp3.zip",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8971.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/8971/mp3/8971-000.mp3",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/8971/8971-index.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8971/8971-readme.txt"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 9091,
+        "title": "Ester Ried Yet Speaking",
+        "authors": [
+            {
+                "name": "Pansy",
+                "birth_year": 1841,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Charity -- Juvenile fiction",
+            "Christian life -- Juvenile fiction",
+            "Friendship -- Juvenile fiction",
+            "Poverty -- Juvenile fiction",
+            "Siblings -- Juvenile fiction",
+            "Sunday school teachers -- Juvenile fiction",
+            "Youth and death -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/9091.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/9091.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/9091/9091-h/9091-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/9091/9091-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/9091/pg9091.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/9091/9091-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/9091/9091.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/9091.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/9091.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 9110,
+        "title": "Die Juden: Ein Lustspiel in einem Aufzuge verfertiget im Jahre 1749.",
+        "authors": [
+            {
+                "name": "Lessing, Gotthold Ephraim",
+                "birth_year": 1729,
+                "death_year": 1781
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Comedies"
+        ],
+        "bookshelves": [
+            "DE Drama",
+            "One Act Plays"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/9110.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/9110.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/9110/pg9110.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/9110/9110-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/9110.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/9110.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/9110.txt.utf-8"
+        },
+        "download_count": 46
+    }
+]

@@ -1,0 +1,1143 @@
+[
+    {
+        "id": 27112,
+        "title": "Children's Books and Their Illustrators",
+        "authors": [
+            {
+                "name": "White, Gleeson",
+                "birth_year": 1851,
+                "death_year": 1898
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children's literature",
+            "Illustrated books",
+            "Illustration of books",
+            "Illustrators"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27112.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27112.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27112/pg27112.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27112/27112.txt",
+            "image/png": "https://www.gutenberg.org/files/27112/27112l-page-images/c0001-image1.png",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/27112/27112-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/27112/27112-h/27112-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/27112.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27112.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/27112.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 27398,
+        "title": "\u96de\u808b\u7de8",
+        "authors": [
+            {
+                "name": "Zhuang, Chuo",
+                "birth_year": 1078,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "China -- History -- Song dynasty, 960-1279 -- Anecdotes"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27398.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27398.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27398/pg27398.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/27398/27398-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/27398.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27398.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 28399,
+        "title": "Four Plays of Gil Vicente",
+        "authors": [
+            {
+                "name": "Vicente, Gil",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Portuguese drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en",
+            "pt"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/28399.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/28399.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/28399/pg28399.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/28399/28399.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/28399/28399-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/28399/28399-h/28399-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/28399.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/28399.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 28558,
+        "title": "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians (Vol. 1 of 6)",
+        "authors": [
+            {
+                "name": "Rollin, Charles",
+                "birth_year": 1661,
+                "death_year": 1741
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "History, Ancient"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/28558.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/28558.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/28558/28558-final.zip",
+            "application/pdf": "https://www.gutenberg.org/files/28558/28558-pdf.pdf",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/28558/28558-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/28558/28558.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/28558/28558-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/28558/pg28558.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/28558.html.images",
+            "application/prs.tei": "https://www.gutenberg.org/files/28558/28558-tei/28558-tei.tei",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/28558/28558-h/28558-h.html",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/28558.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 28613,
+        "title": "Pioneers of Science",
+        "authors": [
+            {
+                "name": "Lodge, Oliver, Sir",
+                "birth_year": 1851,
+                "death_year": 1940
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Astronomers",
+            "Astronomy -- History",
+            "Tides"
+        ],
+        "bookshelves": [
+            "Astronomy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/28613.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/28613.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/28613/28613-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/28613/28613.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/28613/pg28613.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/28613/28613-h/28613-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/28613.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/28613.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/28613.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 29077,
+        "title": "Byzantine Churches in Constantinople: Their History and Architecture",
+        "authors": [
+            {
+                "name": "Van Millingen, Alexander",
+                "birth_year": 1840,
+                "death_year": 1915
+            },
+            {
+                "name": "Henderson, Arthur E. (Arthur Edward)",
+                "birth_year": 1870,
+                "death_year": null
+            },
+            {
+                "name": "Traquair, Ramsay",
+                "birth_year": 1874,
+                "death_year": 1952
+            },
+            {
+                "name": "George, Walter S.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Architecture, Byzantine",
+            "Church architecture -- Turkey -- Istanbul",
+            "Church buildings -- Turkey -- Istanbul"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29077.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/29077.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/29077/29077.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/29077/pg29077.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29077/29077-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/29077/29077-h/29077-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/29077.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/29077.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/29077.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 29247,
+        "title": "The Academic Questions, Treatise De Finibus, and Tusculan Disputations, of M.T. Cicero, With a Sketch of the Greek Philosophers Mentioned by Cicero",
+        "authors": [
+            {
+                "name": "Cicero, Marcus Tullius",
+                "birth_year": -106,
+                "death_year": -43
+            }
+        ],
+        "translators": [
+            {
+                "name": "Yonge, Charles Duke",
+                "birth_year": 1812,
+                "death_year": 1891
+            }
+        ],
+        "subjects": [
+            "Ethics -- Early works to 1800",
+            "Happiness -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29247.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/29247.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/29247/pg29247.cover.medium.jpg",
+            "application/prs.tei": "https://www.gutenberg.org/files/29247/29247-tei/29247-tei.tei",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/29247/29247.txt",
+            "application/pdf": "https://www.gutenberg.org/files/29247/29247-pdf.pdf",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29247/29247-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/29247/29247-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/29247/29247-h/29247-h.html",
+            "text/html": "https://www.gutenberg.org/ebooks/29247.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/29247.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 30008,
+        "title": "Le f\u00e9minisme fran\u00e7ais I: L'\u00e9mancipation individuelle et sociale de la femme",
+        "authors": [
+            {
+                "name": "Turgeon, Charles Marie Joseph",
+                "birth_year": 1855,
+                "death_year": 1934
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Women -- France",
+            "Women -- Social and moral questions"
+        ],
+        "bookshelves": [
+            "FR Sciences et Techniques"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30008.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30008.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30008/pg30008.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30008/30008-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30008/30008-h/30008-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/30008.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30008.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30008.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 30370,
+        "title": "Favourite Welsh Hymns: Translated into English",
+        "authors": [],
+        "translators": [
+            {
+                "name": "Morris, Joseph, of Narbeth, Pembrokeshire",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Hymns, Welsh -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30370.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30370.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30370/pg30370.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/30370/30370-h/30370-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30370/30370.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30370/30370-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/30370.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30370.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30370.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 30480,
+        "title": "The Humors of Falconbridge: A Collection of Humorous and Every Day Scenes",
+        "authors": [
+            {
+                "name": "Falconbridge",
+                "birth_year": 1818,
+                "death_year": 1854
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American wit and humor"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30480.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30480.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30480/pg30480.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30480/30480-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30480/30480-h/30480-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/30480.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30480/30480.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/30480.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30480.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 30799,
+        "title": "The Gn\u00f4sis of the Light",
+        "authors": [
+            {
+                "name": "Lamplugh, F.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Gnosticism"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30799.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30799.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30799/pg30799.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30799/30799.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30799/30799-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30799/30799-h/30799-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/30799/30799-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/30799.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30799.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 32668,
+        "title": "Black Diamonds: A Novel",
+        "authors": [
+            {
+                "name": "J\u00f3kai, M\u00f3r",
+                "birth_year": 1825,
+                "death_year": 1904
+            }
+        ],
+        "translators": [
+            {
+                "name": "Gerard, Frances A.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Hungarian fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32668.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32668.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32668/pg32668.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/32668/32668-0.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32668/32668-h/32668-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32668/32668.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32668/32668-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/32668.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32668.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 33896,
+        "title": "Dante. An essay. To which is added a translation of De Monarchia.",
+        "authors": [
+            {
+                "name": "Dante Alighieri",
+                "birth_year": 1265,
+                "death_year": 1321
+            },
+            {
+                "name": "Church, R. W. (Richard William)",
+                "birth_year": 1815,
+                "death_year": 1890
+            }
+        ],
+        "translators": [
+            {
+                "name": "Church, F. J. (Frederick John)",
+                "birth_year": 1854,
+                "death_year": 1888
+            }
+        ],
+        "subjects": [
+            "Church and state -- Early works to 1800",
+            "Dante Alighieri, 1265-1321",
+            "Italy -- Politics and government -- 476-1268"
+        ],
+        "bookshelves": [
+            "Banned Books from Anne Haight's list"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33896.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33896.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33896/33896-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33896/33896-h/33896-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33896/pg33896.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/33896.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33896/33896.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33896.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/33896.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 34157,
+        "title": "The Compleat Surgeon: or, the whole Art of Surgery explain'd in a most familiar Method.",
+        "authors": [
+            {
+                "name": "Le Clerc, M. (Charles Gabriel)",
+                "birth_year": 1644,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Surgery -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34157.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/34157.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34157/34157.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/34157/34157-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34157/34157-h/34157-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/34157/pg34157.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/34157.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/34157.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/34157.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 35310,
+        "title": "The Childrens' Story of the War, Volume 1 (of 10): From the Beginning of the War to the Landing of the British Army in France",
+        "authors": [
+            {
+                "name": "Parrott, Edward",
+                "birth_year": 1863,
+                "death_year": 1921
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "World War, 1914-1918 -- Juvenile literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35310.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35310.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35310/pg35310.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/35310/35310-h/35310-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/35310/35310-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35310.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35310.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 35398,
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Equation\" to \"Ethics\": Volume 9, Slice 7",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Encyclopedias and dictionaries"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35398.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35398.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35398/pg35398.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35398/35398.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35398/35398-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/35398/35398-h/35398-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/35398.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/35398.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35398.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 35566,
+        "title": "History of the Postage Stamps of the United States of America",
+        "authors": [
+            {
+                "name": "Tiffany, John K. (John Kerr)",
+                "birth_year": 1843,
+                "death_year": 1897
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Postage stamps -- United States"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35566.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35566.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/35566/35566-h/35566-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35566/35566.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35566/pg35566.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35566/35566-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35566.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/35566.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35566.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 35737,
+        "title": "The Little Treasure of Prayers: Being a Translation of the Epitome from the German Larger \"Treasure of Prayers\" [\"Gebets-Schatz\"] of the Evangelical Lutheran Church",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Lutheran Church -- Prayers and devotions",
+            "Prayers"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35737.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35737.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35737/35737-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35737/pg35737.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35737/35737.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/35737/35737-h/35737-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/35737.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/35737.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35737.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 35925,
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Foraminifera\" to \"Fox, Edward\": Volume 10, Slice 6",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Encyclopedias and dictionaries"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35925.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35925.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35925/35925.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35925/pg35925.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/35925/35925-h/35925-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35925/35925-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35925.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35925.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/35925.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 37520,
+        "title": "Surnames as a Science",
+        "authors": [
+            {
+                "name": "Ferguson, Robert",
+                "birth_year": null,
+                "death_year": 1898
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Names, Personal"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/37520.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/37520.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/37520/37520-h/37520-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/37520/37520-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/37520/37520.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/37520/pg37520.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/37520.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/37520.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/37520.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 37708,
+        "title": "The Magic Bed: A Book of East Indian Fairy-Tales",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Fairy tales -- India"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/37708.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/37708.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/37708/pg37708.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/37708/37708-h/37708-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/37708/37708.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/37708.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/37708.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/37708.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 38318,
+        "title": "George Cruikshank",
+        "authors": [
+            {
+                "name": "Chesson, W. H. (Wilfrid Hugh)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cruikshank, George, 1792-1878"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38318.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38318.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38318/pg38318.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38318/38318-h/38318-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38318/38318.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38318/38318-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38318.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/38318.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38318.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 39318,
+        "title": "Practical Bookbinding",
+        "authors": [
+            {
+                "name": "Adam, Paul",
+                "birth_year": 1849,
+                "death_year": 1931
+            }
+        ],
+        "translators": [
+            {
+                "name": "Maw, Thomas E. (Thomas Edward)",
+                "birth_year": 1873,
+                "death_year": 1925
+            }
+        ],
+        "subjects": [
+            "Bookbinding"
+        ],
+        "bookshelves": [
+            "Crafts"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39318.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39318.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39318/pg39318.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39318/39318.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39318/39318-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39318/39318-h/39318-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/39318.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/39318.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39318.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 39674,
+        "title": "Buffalo Land: Authentic Account of the Discoveries, Adventures, and Mishaps of a Scientific and Sporting Party in the Wild West",
+        "authors": [
+            {
+                "name": "Webb, W. E. (William Edward)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Hunting -- West (U.S.)",
+            "Paleontology -- Kansas",
+            "West (U.S.) -- Description and travel"
+        ],
+        "bookshelves": [
+            "Animal",
+            "Animals-Wild-Mammals",
+            "Animals-Wild-Trapping"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39674.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39674.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39674/39674-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39674/39674-h/39674-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39674/pg39674.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39674/39674.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/39674.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39674.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/39674.txt.utf-8"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 41282,
+        "title": "The Strange Adventures of Andrew Battell, of Leigh, in Angola and the Adjoining Regions",
+        "authors": [
+            {
+                "name": "Battell, Andrew",
+                "birth_year": 1560,
+                "death_year": 1613
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Angola -- Discovery and exploration",
+            "Congo (Democratic Republic) -- Discovery and exploration"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41282.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41282.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41282/41282-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/41282/41282-h/41282-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41282/pg41282.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41282/41282-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41282/41282.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41282.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41282.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 41580,
+        "title": "Haunted London",
+        "authors": [
+            {
+                "name": "Thornbury, Walter",
+                "birth_year": 1828,
+                "death_year": 1876
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "London (England) -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41580.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41580.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41580/pg41580.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41580/41580-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41580/41580-h/41580-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41580/41580.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41580/41580-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41580.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41580.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 42067,
+        "title": "The Golden Bough: A Study in Magic and Religion (Third Edition, Vol. 07 of 12)",
+        "authors": [
+            {
+                "name": "Frazer, James George",
+                "birth_year": 1854,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Magic",
+            "Mythology",
+            "Religion",
+            "Superstition"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42067.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42067.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/42067/42067-pdf.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42067/pg42067.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42067/42067-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/42067/42067-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/42067/42067-h/42067-h.html",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42067/42067.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/42067.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42067.rdf",
+            "application/pdf": "https://www.gutenberg.org/files/42067/42067-pdf.pdf",
+            "application/prs.tei": "https://www.gutenberg.org/files/42067/42067-tei/42067-tei.tei"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 42690,
+        "title": "The Mesmerist's Victim",
+        "authors": [
+            {
+                "name": "Dumas, Alexandre",
+                "birth_year": 1802,
+                "death_year": 1870
+            }
+        ],
+        "translators": [
+            {
+                "name": "Williams, Henry Llewellyn",
+                "birth_year": 1842,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction",
+            "Du Barry, Jeanne B\u00e9cu, comtesse, 1743-1793 -- Fiction",
+            "France -- History -- Louis XV, 1715-1774 -- Fiction",
+            "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42690.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42690.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/42690/42690-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42690/42690.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42690/pg42690.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42690/42690-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/42690/42690-h/42690-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/42690.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42690.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 43627,
+        "title": "Strange Stories from a Chinese Studio, Vol. 1 (of 2)",
+        "authors": [
+            {
+                "name": "Pu, Songling",
+                "birth_year": 1640,
+                "death_year": 1715
+            }
+        ],
+        "translators": [
+            {
+                "name": "Giles, Herbert Allen",
+                "birth_year": 1845,
+                "death_year": 1935
+            }
+        ],
+        "subjects": [
+            "China -- Social life and customs -- Fiction",
+            "Short stories, Chinese -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43627.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/43627.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/43627/43627-h/43627-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/43627/pg43627.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/43627/43627-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/43627/43627-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43627/43627.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/43627.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/43627.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 43790,
+        "title": "The Book of Cats: A Chit-chat Chronicle of Feline Facts and Fancies, Legendary, Lyrical, Medical, Mirthful and Miscellaneous",
+        "authors": [
+            {
+                "name": "Ross, Charles H. (Charles Henry)",
+                "birth_year": null,
+                "death_year": 1897
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cats -- Anecdotes"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43790.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/43790.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43790/43790.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/43790/pg43790.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/43790/43790-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/43790/43790-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/43790/43790-h/43790-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/43790.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/43790.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 44289,
+        "title": "An Outline of English Speech-craft",
+        "authors": [
+            {
+                "name": "Barnes, William",
+                "birth_year": 1801,
+                "death_year": 1886
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English language -- Grammar"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44289.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44289.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44289/pg44289.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/44289/44289-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/44289/44289-h/44289-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44289/44289-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/44289.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44289.rdf"
+        },
+        "download_count": 106
+    },
+    {
+        "id": 44648,
+        "title": "Braddock Road",
+        "authors": [
+            {
+                "name": "Lacock, John Kennedy",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Braddock's Campaign, 1755"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44648.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44648.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44648/pg44648.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/44648/44648-h/44648-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44648/44648-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44648/44648.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/44648.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44648.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/44648.txt.utf-8"
+        },
+        "download_count": 106
+    }
+]

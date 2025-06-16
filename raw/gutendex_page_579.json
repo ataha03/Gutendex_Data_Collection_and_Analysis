@@ -1,0 +1,1100 @@
+[
+    {
+        "id": 11413,
+        "title": "The Refugees: A Tale of Two Continents",
+        "authors": [
+            {
+                "name": "Doyle, Arthur Conan",
+                "birth_year": 1859,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- History -- To 1763 (New France) -- Fiction",
+            "France -- History -- Louis XIV, 1643-1715 -- Fiction",
+            "Historical fiction",
+            "Huguenots -- Fiction",
+            "Persecution -- Fiction"
+        ],
+        "bookshelves": [
+            "Historical Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11413.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11413.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/11413/11413-h/11413-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11413/pg11413.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11413/11413.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/11413.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/11413.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11413.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 11512,
+        "title": "O. Henry Memorial Award Prize Stories of 1921",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Short stories, American -- Periodicals"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11512.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11512.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11512/pg11512.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11512/11512.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11512/11512-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/11512.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/11512.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11512.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 11824,
+        "title": "U.S. Copyright Renewals, 1961 July - December",
+        "authors": [
+            {
+                "name": "Library of Congress. Copyright Office",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Copyright -- United States -- Catalogs"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11824.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11824.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11824/pg11824.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11824/11824-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/11824.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/11824.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11824.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 12062,
+        "title": "Lighted to Lighten: the Hope of India: A Study of Conditions among Women in India",
+        "authors": [
+            {
+                "name": "Van Doren, Alice B. (Alice Boucher)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "India -- Social conditions",
+            "Women -- India"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12062.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12062.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12062/pg12062.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12062/12062.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/12062.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/12062.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12062.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 12150,
+        "title": "North, South and Over the Sea",
+        "authors": [
+            {
+                "name": "Francis, M. E.",
+                "birth_year": null,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12150.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12150.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12150/12150-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/12150/12150-h/12150-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12150/pg12150.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12150/12150.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/12150.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/12150.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12150.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 12308,
+        "title": "Winning His Spurs: A Tale of the Crusades",
+        "authors": [
+            {
+                "name": "Henty, G. A. (George Alfred)",
+                "birth_year": 1832,
+                "death_year": 1902
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Crusades -- Third, 1189-1192 -- Fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12308.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12308.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12308/pg12308.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/12308/12308-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/12308/12308-h/12308-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/12308.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12308.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 12569,
+        "title": "Through the Mackenzie Basin: A Narrative of the Athabasca and Peace River Treaty Expedition of 1899",
+        "authors": [
+            {
+                "name": "Mair, Charles",
+                "birth_year": 1838,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Alberta -- Description and travel",
+            "Athabasca and Peace River treaty expedition, 1899",
+            "Birds -- Northwest, Canadian",
+            "Indians of North America -- Canada -- Treaties",
+            "Mammals -- Northwest, Canadian"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12569.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12569.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12569/12569.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12569/pg12569.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/12569/12569-h/12569-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/12569/12569-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/12569.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12569.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 13180,
+        "title": "The Tracer of Lost Persons",
+        "authors": [
+            {
+                "name": "Chambers, Robert W. (Robert William)",
+                "birth_year": 1865,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Courtship -- Fiction",
+            "Detective and mystery stories",
+            "Love stories",
+            "New York (N.Y.) -- Social life and customs -- Fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13180.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13180.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13180/13180.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/13180/13180-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13180/pg13180.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13180/13180-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13180/13180-h/13180-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/13180.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13180.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 13207,
+        "title": "Les Pardaillan \u2014 Tome 01",
+        "authors": [
+            {
+                "name": "Z\u00e9vaco, Michel",
+                "birth_year": 1860,
+                "death_year": 1918
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Knights and knighthood -- France -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13207.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13207.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13207/pg13207.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13207/13207-h/13207-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13207/13207-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/13207.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13207.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13207.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 13225,
+        "title": "A General History and Collection of Voyages and Travels \u2014 Volume 06: Arranged in Systematic Order: Forming a Complete History of the Origin and Progress of Navigation, Discovery, and Commerce, by Sea and Land, from the Earliest Ages to the Present Time",
+        "authors": [
+            {
+                "name": "Kerr, Robert",
+                "birth_year": 1755,
+                "death_year": 1813
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Voyages and travels"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13225.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13225.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13225/pg13225.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13225/13225.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13225/13225-h/13225-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/13225.html.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13225/13225-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/13225.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13225.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 13572,
+        "title": "The Son of Clemenceau, A Novel of Modern Love and Life",
+        "authors": [
+            {
+                "name": "Dumas, Alexandre",
+                "birth_year": 1824,
+                "death_year": 1895
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13572.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13572.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13572/13572.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13572/13572-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13572/13572-h/13572-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13572/pg13572.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/13572.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13572.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13572.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 13694,
+        "title": "Mince Pie",
+        "authors": [
+            {
+                "name": "Morley, Christopher",
+                "birth_year": 1890,
+                "death_year": 1957
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American essays -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13694.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13694.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13694/13694-h/13694-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13694/13694.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13694/pg13694.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13694/13694-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/13694.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13694.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13694.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 14079,
+        "title": "Sandy",
+        "authors": [
+            {
+                "name": "Rice, Alice Caldwell Hegan",
+                "birth_year": 1870,
+                "death_year": 1942
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14079.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14079.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14079/14079.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14079/pg14079.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14079/14079-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/14079.html.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14079/14079-h/14079-h.htm",
+            "text/plain": "https://www.gutenberg.org/ebooks/14079.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14079.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 14477,
+        "title": "The Inside Story of the Peace Conference",
+        "authors": [
+            {
+                "name": "Dillon, Emile Joseph",
+                "birth_year": 1855,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Paris Peace Conference (1919-1920)"
+        ],
+        "bookshelves": [
+            "World War I"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14477.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14477.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14477/pg14477.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14477/14477-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14477/14477.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14477/14477-h/14477-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/14477.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14477.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14477.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 14563,
+        "title": "Sheila of Big Wreck Cove: A Story of Cape Cod",
+        "authors": [
+            {
+                "name": "Cooper, James A.",
+                "birth_year": 1862,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cape Cod (Mass.) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14563.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14563.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14563/14563.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14563/14563-h/14563-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14563/pg14563.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14563/14563-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/14563.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14563.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14563.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 15675,
+        "title": "A Voyage to New Holland, Etc. in the Year 1699",
+        "authors": [
+            {
+                "name": "Dampier, William",
+                "birth_year": 1651,
+                "death_year": 1715
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Buccaneers -- Early works to 1800",
+            "Canary Islands -- Description and travel -- Early works to 1800",
+            "Natural history -- Pre-Linnean works",
+            "Salvador (Brazil) -- Description and travel -- Early works to 1800",
+            "Shark Bay (W.A.) -- Discovery and exploration -- Early works to 1800",
+            "Voyages and travels -- Early works to 1800",
+            "Voyages around the world -- Early works to 1800"
+        ],
+        "bookshelves": [
+            "Australia"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15675.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15675.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15675/pg15675.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15675/15675.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/15675/15675-h/15675-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/15675.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15675.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15675.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 15777,
+        "title": "A Voyage Towards the South Pole and Round the World, Volume 1",
+        "authors": [
+            {
+                "name": "Cook, James",
+                "birth_year": 1728,
+                "death_year": 1779
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Antarctica",
+            "Oceania -- Discovery and exploration -- Early works to 1800",
+            "Voyages around the world -- Early works to 1800"
+        ],
+        "bookshelves": [
+            "Travel"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15777.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15777.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15777/15777-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15777/pg15777.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15777/15777.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/15777.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/15777.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15777.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 16559,
+        "title": "The Life Story of an Old Rebel",
+        "authors": [
+            {
+                "name": "Denvir, John",
+                "birth_year": 1843,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Denvir, John, 1843-1916",
+            "Ireland -- Politics and government -- 1837-1901",
+            "Irish -- Great Britain -- History",
+            "Revolutionaries -- Ireland -- Biography"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16559.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16559.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16559/pg16559.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16559/16559.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16559/16559-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16559/16559-h/16559-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/16559.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16559.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16559.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 16595,
+        "title": "Charles Dickens and Music",
+        "authors": [
+            {
+                "name": "Lightwood, James T. (James Thomas)",
+                "birth_year": 1856,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dickens, Charles, 1812-1870 -- Knowledge -- Music",
+            "Music and literature"
+        ],
+        "bookshelves": [
+            "Music"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16595.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16595.epub3.images",
+            "audio/midi": "https://www.gutenberg.org/files/16595/16595-h/midi/figure_1.mid",
+            "application/octet-stream": "https://www.gutenberg.org/files/16595/16595-h/lilypond/fig_1.ly",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16595/pg16595.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16595/16595-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16595/16595.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16595/16595-h/16595-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/16595.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16595.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16595.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 16705,
+        "title": "A Wanderer in Venice",
+        "authors": [
+            {
+                "name": "Lucas, E. V. (Edward Verrall)",
+                "birth_year": 1868,
+                "death_year": 1938
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Art -- Italy -- Venice",
+            "Venice (Italy) -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16705.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16705.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16705/pg16705.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16705/16705-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16705/16705.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16705/16705-h/16705-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/16705.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16705.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16705.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 16757,
+        "title": "Life of John Milton",
+        "authors": [
+            {
+                "name": "Garnett, Richard",
+                "birth_year": 1835,
+                "death_year": 1906
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Milton, John, 1608-1674"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16757.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16757.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16757/pg16757.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16757/16757-h/16757-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16757/16757.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16757/16757-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/16757.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16757.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16757.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17084,
+        "title": "Guy Livingstone; or, 'Thorough'",
+        "authors": [
+            {
+                "name": "Lawrence, George A. (George Alfred)",
+                "birth_year": 1827,
+                "death_year": 1876
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17084.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17084.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17084/pg17084.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17084/17084.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17084/17084-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17084/17084-h/17084-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/17084.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17084.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17084.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17241,
+        "title": "Atlantis",
+        "authors": [
+            {
+                "name": "Hauptmann, Gerhart",
+                "birth_year": 1862,
+                "death_year": 1946
+            }
+        ],
+        "translators": [
+            {
+                "name": "Seltzer, Adele Szold",
+                "birth_year": 1876,
+                "death_year": 1940
+            },
+            {
+                "name": "Seltzer, Thomas",
+                "birth_year": 1873,
+                "death_year": 1943
+            }
+        ],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17241.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17241.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17241/17241-h/17241-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17241/17241.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17241/pg17241.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17241/17241-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/17241.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17241.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17241.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17343,
+        "title": "Brendan's Fabulous Voyage: A Lecture delivered on January 19, 1893, before the Scottish Society of Literature and Art",
+        "authors": [
+            {
+                "name": "Bute, John Patrick Crichton-Stuart, Marquess of",
+                "birth_year": 1847,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Brendan, Saint, the Voyager, approximately 483-577"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17343.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17343.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17343/pg17343.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17343/17343.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17343/17343-h/17343-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17343/17343-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/17343.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17343.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17343.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17587,
+        "title": "Field Hospital and Flying Column: Being the Journal of an English Nursing Sister in Belgium & Russia",
+        "authors": [
+            {
+                "name": "Thurstan, Violetta",
+                "birth_year": 1879,
+                "death_year": 1978
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "World War, 1914-1918 -- Hospitals, charities, etc.",
+            "World War, 1914-1918 -- Personal narratives"
+        ],
+        "bookshelves": [
+            "Women's Travel Journals",
+            "World War I"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17587.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17587.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17587/pg17587.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17587/17587.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17587/17587-h/17587-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17587/17587-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/17587.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17587.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17587.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17626,
+        "title": "The Lost Gospel and Its Contents: Or, The Author of \"Supernatural Religion\" Refuted by Himself",
+        "authors": [
+            {
+                "name": "Sadler, M. F. (Michael Ferrebee)",
+                "birth_year": 1819,
+                "death_year": 1895
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bible. Gospels -- Criticism, interpretation, etc.",
+            "Cassels, Walter Richard, 1826-1907. Supernatural religion",
+            "Supernatural"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17626.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17626.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17626/17626-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17626/17626.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17626/pg17626.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/17626.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/17626.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17626.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17768,
+        "title": "The Hundred Best English Poems",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "English poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17768.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17768.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17768/pg17768.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17768/17768.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17768/17768-h/17768-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17768/17768-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/17768.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17768.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17768.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 17792,
+        "title": "The Jamesons",
+        "authors": [
+            {
+                "name": "Freeman, Mary Eleanor Wilkins",
+                "birth_year": 1852,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "New England -- Social life and customs -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17792.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17792.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17792/pg17792.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/17792/17792-h/17792-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17792/17792.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/17792.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17792.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17792.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 18025,
+        "title": "The Story of Isaac Brock: Hero, Defender and Saviour of Upper Canada, 1812",
+        "authors": [
+            {
+                "name": "Nursey, Walter R.",
+                "birth_year": 1847,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Brock, Isaac, Sir, 1769-1812",
+            "Canada -- History -- 1763-1867",
+            "United States -- History -- War of 1812"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18025.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18025.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18025/pg18025.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18025/18025-h/18025-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18025/18025.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/18025.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/18025.txt.utf-8",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18025/18025-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18025.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 18062,
+        "title": "Stories of Ships and the Sea",
+        "authors": [
+            {
+                "name": "London, Jack",
+                "birth_year": 1876,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Sea stories, American",
+            "Ships -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18062.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18062.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18062/18062.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18062/18062-h/18062-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18062/pg18062.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18062/18062-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/18062.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/18062.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18062.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 18105,
+        "title": "Genesis",
+        "authors": [
+            {
+                "name": "Piper, H. Beam",
+                "birth_year": 1904,
+                "death_year": 1964
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18105.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18105.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18105/pg18105.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18105/18105.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18105/18105-h/18105-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/18105.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/18105.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18105.rdf"
+        },
+        "download_count": 57
+    },
+    {
+        "id": 18321,
+        "title": "Act\u00e9",
+        "authors": [
+            {
+                "name": "Dumas, Alexandre",
+                "birth_year": 1802,
+                "death_year": 1870
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Rome -- History -- Nero, 54-68 -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18321.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18321.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18321/pg18321.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18321/18321-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18321/18321-h/18321-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/18321.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/18321.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18321.rdf"
+        },
+        "download_count": 57
+    }
+]

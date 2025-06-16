@@ -1,0 +1,1089 @@
+[
+    {
+        "id": 671,
+        "title": "Phil, the Fiddler",
+        "authors": [
+            {
+                "name": "Alger, Horatio, Jr.",
+                "birth_year": 1832,
+                "death_year": 1899
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Child abuse -- Juvenile fiction",
+            "New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction",
+            "Runaways -- Juvenile fiction",
+            "Violinists -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/671.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/671.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/671/pg671.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/671/671.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/671/671-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/671/671-h/671-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/671.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/671.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1189,
+        "title": "The Message",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Marriage, Ellen",
+                "birth_year": 1865,
+                "death_year": 1946
+            }
+        ],
+        "subjects": [
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1189.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1189.epub3.images",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1189/1189-h/1189-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1189/pg1189.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1189/1189.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1189.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1189.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/1189.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1242,
+        "title": "Unconscious Comedians",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Wormeley, Katharine Prescott",
+                "birth_year": 1830,
+                "death_year": 1908
+            }
+        ],
+        "subjects": [
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1242.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1242.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1242/1242.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1242/pg1242.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1242/1242-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1242/1242-h/1242-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/1242.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1242.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1266,
+        "title": "Lavender and Old Lace",
+        "authors": [
+            {
+                "name": "Reed, Myrtle",
+                "birth_year": 1874,
+                "death_year": 1911
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American fiction -- 20th century",
+            "Love stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1266.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1266.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1266/1266-h/1266-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1266/1266.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1266/pg1266.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1266/1266-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1266.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1266.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1332,
+        "title": "Peter Pan in Kensington Gardens",
+        "authors": [
+            {
+                "name": "Barrie, J. M. (James Matthew)",
+                "birth_year": 1860,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fairies -- Fiction",
+            "Fantasy literature",
+            "Kensington Gardens (London, England) -- Fiction",
+            "Peter Pan (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1332.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1332.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1332/pg1332.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1332/1332-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1332/1332-h/1332-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1332/1332.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1332.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1332.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1387,
+        "title": "Mother",
+        "authors": [
+            {
+                "name": "Wister, Owen",
+                "birth_year": 1860,
+                "death_year": 1938
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Investments -- Fiction",
+            "Storytelling -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1387.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1387.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1387/1387-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1387/1387-h/1387-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1387/pg1387.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1387/1387.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1387.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1387.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1402,
+        "title": "Where the Blue Begins",
+        "authors": [
+            {
+                "name": "Morley, Christopher",
+                "birth_year": 1890,
+                "death_year": 1957
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Didactic fiction",
+            "Dogs -- Fiction",
+            "Fantasy fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1402.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1402.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1402/1402.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1402/pg1402.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1402/1402-h/1402-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1402/1402-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1402.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1402.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1623,
+        "title": "The New Magdalen",
+        "authors": [
+            {
+                "name": "Collins, Wilkie",
+                "birth_year": 1824,
+                "death_year": 1889
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Fiction",
+            "Impostors and imposture -- Fiction",
+            "Women ex-convicts -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1623.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1623.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1623/pg1623.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1623/1623-h/1623-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1623/1623.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1623/1623-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1623.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1623.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1812,
+        "title": "A Prince of Bohemia",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Bell, Clara",
+                "birth_year": 1834,
+                "death_year": 1927
+            }
+        ],
+        "subjects": [
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1812.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1812.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1812/pg1812.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1812/1812-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1812/1812.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1812/1812-h/1812-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/1812.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1812.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1857,
+        "title": "Initials Only",
+        "authors": [
+            {
+                "name": "Green, Anna Katharine",
+                "birth_year": 1846,
+                "death_year": 1935
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Detective and mystery stories",
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1857.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1857.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1857/pg1857.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1857/1857-h/1857-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1857/1857-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1857/1857.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1857.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1857.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 1940,
+        "title": "Christ in Flanders",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Marriage, Ellen",
+                "birth_year": 1865,
+                "death_year": 1946
+            }
+        ],
+        "subjects": [
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1940.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1940.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1940/1940.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1940/1940-h/1940-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1940/pg1940.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/1940.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1940.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/1940.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 2047,
+        "title": "The Lock and Key Library: the Most Interesting Stories of All Nations: French Novels",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Detective and mystery stories, French",
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [
+            "Short Stories"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2047.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2047.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2047/2047.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2047/pg2047.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2047.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/2047.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/2047.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 2547,
+        "title": "Half a Life-Time Ago",
+        "authors": [
+            {
+                "name": "Gaskell, Elizabeth Cleghorn",
+                "birth_year": 1810,
+                "death_year": 1865
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2547.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2547.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/2547.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2547/pg2547.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2547/2547-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2547.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 2648,
+        "title": "George Cruikshank",
+        "authors": [
+            {
+                "name": "Thackeray, William Makepeace",
+                "birth_year": 1811,
+                "death_year": 1863
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Caricatures and cartoons -- Great Britain",
+            "Cruikshank, George, 1792-1878",
+            "English wit and humor, Pictorial"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2648.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2648.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2648/pg2648.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/2648/2648-h/2648-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2648/2648.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/2648.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2648.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/2648.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 2697,
+        "title": "The Guardian Angel",
+        "authors": [
+            {
+                "name": "Holmes, Oliver Wendell",
+                "birth_year": 1809,
+                "death_year": 1894
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Mental illness -- Fiction",
+            "Mentally ill -- Fiction",
+            "Psychological fiction",
+            "Psychotherapy patients -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2697.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2697.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2697/pg2697.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/2697/2697-h/2697-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2697/2697-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/2697.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2697.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3017,
+        "title": "The Forerunner, Volume 1 (1909-1910)",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Women -- Periodicals"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3017.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3017.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3017/3017.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3017/pg3017.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3017.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/3017.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3017.txt.utf-8"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3096,
+        "title": "Beatrice",
+        "authors": [
+            {
+                "name": "Haggard, H. Rider (Henry Rider)",
+                "birth_year": 1856,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3096.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3096.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3096/pg3096.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3096/3096-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3096.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3096/3096-h/3096-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3096.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3363,
+        "title": "Fennel and Rue",
+        "authors": [
+            {
+                "name": "Howells, William Dean",
+                "birth_year": 1837,
+                "death_year": 1920
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Editors -- Fiction",
+            "Fan mail -- Fiction",
+            "Novelists -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3363.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3363.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3363/3363-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3363/pg3363.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3363/3363.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3363/3363-h/3363-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3363.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3363.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3464,
+        "title": "Tish : $b The chronicle of her escapades and excursions",
+        "authors": [
+            {
+                "name": "Rinehart, Mary Roberts",
+                "birth_year": 1876,
+                "death_year": 1958
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Carberry, Letitia (Tish, fictitious character) -- Fiction",
+            "Female friendship -- Fiction",
+            "Humorous stories, American",
+            "Middle-aged women -- Fiction",
+            "Single women -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/3464/3464-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3464/3464-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3464.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3464.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3464/pg3464.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/3464.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3464.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3464.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3753,
+        "title": "Peacock Pie, a Book of Rhymes",
+        "authors": [
+            {
+                "name": "De la Mare, Walter",
+                "birth_year": 1873,
+                "death_year": 1956
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children's poetry, English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3753.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3753.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3753/3753.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3753/pg3753.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/3753.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/3753.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3753.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3817,
+        "title": "To Let",
+        "authors": [
+            {
+                "name": "Galsworthy, John",
+                "birth_year": 1867,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Domestic fiction",
+            "England -- Social life and customs -- 19th century -- Fiction",
+            "England -- Social life and customs -- 20th century -- Fiction",
+            "Families -- England -- Fiction",
+            "Forsyte family (Fictitious characters) -- Fiction",
+            "Middle class -- England -- Fiction",
+            "Women -- England -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3817.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3817.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3817/3817.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3817/pg3817.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3817/3817-h/3817-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3817.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3817.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3817.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 3899,
+        "title": "Memoirs of the Court of St. Cloud (Being secret letters from a gentleman at Paris to a nobleman in London) \u2014 Complete",
+        "authors": [
+            {
+                "name": "Goldsmith, Lewis",
+                "birth_year": null,
+                "death_year": 1846
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- Court and courtiers",
+            "France -- History -- Consulate and First Empire, 1799-1815",
+            "France -- Kings and rulers -- Biography",
+            "Napoleon I, Emperor of the French, 1769-1821"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3899.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3899.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3899/3899-h/3899-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3899/pg3899.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3899/3899.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3899/3899-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3899.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3899.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4304,
+        "title": "Our Friend the Charlatan",
+        "authors": [
+            {
+                "name": "Gissing, George",
+                "birth_year": 1857,
+                "death_year": 1903
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English fiction -- 19th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4304.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4304.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4304/4304-h/4304-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4304/4304.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4304/pg4304.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/4304/4304-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4304.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4304.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4304.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4340,
+        "title": "The British Barbarians",
+        "authors": [
+            {
+                "name": "Allen, Grant",
+                "birth_year": 1848,
+                "death_year": 1899
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Social life and customs -- Fiction",
+            "Science fiction",
+            "Time travel -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4340.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4340.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4340/4340-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4340/pg4340.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/4340/4340-0.zip",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4340/4340-h/4340-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4340.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4340.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4340.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4513,
+        "title": "The Rainbow and the Rose",
+        "authors": [
+            {
+                "name": "Nesbit, E. (Edith)",
+                "birth_year": 1858,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English poetry -- 20th century"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4513.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4513.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4513/pg4513.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4513/4513.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/4513.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/4513.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4513.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4516,
+        "title": "Peter: A Novel of Which He is Not the Hero",
+        "authors": [
+            {
+                "name": "Smith, Francis Hopkinson",
+                "birth_year": 1838,
+                "death_year": 1915
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bank tellers -- Fiction",
+            "New York (N.Y.) -- Fiction",
+            "Wall Street (New York, N.Y.) -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4516.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4516.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4516/4516-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4516/4516.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4516/pg4516.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4516/4516-h/4516-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4516.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4516.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4611,
+        "title": "Where No Fear Was: A Book About Fear",
+        "authors": [
+            {
+                "name": "Benson, Arthur Christopher",
+                "birth_year": 1862,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fear"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4611.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4611.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4611/4611.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4611/pg4611.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4611/4611-h/4611-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4611.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4611.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4611.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4688,
+        "title": "Pages",
+        "authors": [
+            {
+                "name": "Mallarm\u00e9, St\u00e9phane",
+                "birth_year": 1842,
+                "death_year": 1898
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "French literature -- 19th century"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4688.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4688.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4688/pg4688.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/4688/4688-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4688.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4688.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4688.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4711,
+        "title": "Tom Swift in the City of Gold; Or, Marvelous Adventures Underground",
+        "authors": [
+            {
+                "name": "Appleton, Victor",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure and adventurers -- Juvenile fiction",
+            "Extinct cities -- Juvenile fiction",
+            "Mexico -- Juvenile fiction",
+            "Swift, Tom (Fictitious character) -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Book Series"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4711.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4711.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4711/pg4711.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4711/4711.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4711.html.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4711/4711-h/4711-h.htm",
+            "text/plain": "https://www.gutenberg.org/ebooks/4711.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4711.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 4787,
+        "title": "The Story of Julia Page",
+        "authors": [
+            {
+                "name": "Norris, Kathleen Thompson",
+                "birth_year": 1880,
+                "death_year": 1966
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Marriage -- Fiction",
+            "Runaway husbands -- Fiction",
+            "Social settlements -- Fiction",
+            "Women -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4787.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4787.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4787/pg4787.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/4787/4787-h/4787-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4787/4787.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4787.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4787.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4787.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5101,
+        "title": "Lives of the English Poets : Prior, Congreve, Blackmore, Pope",
+        "authors": [
+            {
+                "name": "Johnson, Samuel",
+                "birth_year": 1709,
+                "death_year": 1784
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English poetry -- 18th century -- History and criticism",
+            "English poetry -- Early modern, 1500-1700 -- History and criticism",
+            "Poets, English -- Biography -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5101.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5101.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/5101.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5101/pg5101.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5101/5101-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5101.rdf"
+        },
+        "download_count": 46
+    },
+    {
+        "id": 5257,
+        "title": "The Broad Highway",
+        "authors": [
+            {
+                "name": "Farnol, Jeffery",
+                "birth_year": 1878,
+                "death_year": 1952
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Kent (England) -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5257.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5257.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5257/5257.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5257/pg5257.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/5257.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5257.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5257.rdf"
+        },
+        "download_count": 46
+    }
+]

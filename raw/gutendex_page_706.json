@@ -1,0 +1,1110 @@
+[
+    {
+        "id": 1620,
+        "title": "The Lion and the Unicorn",
+        "authors": [
+            {
+                "name": "Davis, Richard Harding",
+                "birth_year": 1864,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Manners and customs -- Fiction",
+            "Short stories, American"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/plain": "https://www.gutenberg.org/ebooks/1620.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/1620/1620-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1620/1620-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1620.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1620.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1620/pg1620.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/1620.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1620.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 1627,
+        "title": "The Evil Genius: A Domestic Story",
+        "authors": [
+            {
+                "name": "Collins, Wilkie",
+                "birth_year": 1824,
+                "death_year": 1889
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Divorce -- Fiction",
+            "England -- Social life and customs -- 19th century -- Fiction",
+            "Ship captains -- Fiction",
+            "Women -- Social conditions -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1627.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1627.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1627/1627-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1627/1627-h/1627-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1627/pg1627.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/1627.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1627.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 1723,
+        "title": "Cow-Country",
+        "authors": [
+            {
+                "name": "Bower, B. M.",
+                "birth_year": 1871,
+                "death_year": 1940
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ranch life -- Fiction",
+            "Western stories"
+        ],
+        "bookshelves": [
+            "Western"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1723.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1723.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1723/pg1723.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1723/1723.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1723/1723-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1723/1723-h/1723-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/1723.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1723.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2108,
+        "title": "History of Friedrich II of Prussia \u2014 Volume 08",
+        "authors": [
+            {
+                "name": "Carlyle, Thomas",
+                "birth_year": 1795,
+                "death_year": 1881
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Frederick II, King of Prussia, 1712-1786",
+            "Prussia (Germany) -- History -- Frederick II, 1740-1786",
+            "Social problems"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2108.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2108.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2108/pg2108.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2108/2108.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/2108/2108-h/2108-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/2108.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2108.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/2108.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2234,
+        "title": "Sketches in Lavender, Blue and Green",
+        "authors": [
+            {
+                "name": "Jerome, Jerome K. (Jerome Klapka)",
+                "birth_year": 1859,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Manners and customs -- Fiction",
+            "Short stories, English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2234.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2234.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/2234.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2234/pg2234.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2234/2234.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2234.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/2234.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2260,
+        "title": "Titus Andronicus",
+        "authors": [
+            {
+                "name": "Shakespeare, William",
+                "birth_year": 1564,
+                "death_year": 1616
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Andronicus, Titus (Legendary character) -- Drama",
+            "Generals -- Drama",
+            "Goths -- Drama",
+            "Historical drama",
+            "Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama",
+            "Tragedies"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2260.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2260.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2260/2260.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2260/pg2260.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2260.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/2260.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/2260.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2514,
+        "title": "T. Tembarom",
+        "authors": [
+            {
+                "name": "Burnett, Frances Hodgson",
+                "birth_year": 1849,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "City and town life -- Fiction",
+            "Man-woman relationships -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2514.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2514.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2514/pg2514.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/2514/2514-h/2514-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2514/2514-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2514/2514.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/2514.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2514.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2602,
+        "title": "Queen Sheba's Ring",
+        "authors": [
+            {
+                "name": "Haggard, H. Rider (Henry Rider)",
+                "birth_year": 1856,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Africa, North -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2602.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2602.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/2602.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/2602/2602-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2602/pg2602.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/2602.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2602/2602-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2602.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 2884,
+        "title": "The Mason-Bees",
+        "authors": [
+            {
+                "name": "Fabre, Jean-Henri",
+                "birth_year": 1823,
+                "death_year": 1915
+            }
+        ],
+        "translators": [
+            {
+                "name": "Teixeira de Mattos, Alexander",
+                "birth_year": 1865,
+                "death_year": 1921
+            }
+        ],
+        "subjects": [
+            "Mason bees"
+        ],
+        "bookshelves": [
+            "Animals-Wild-Insects"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2884.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2884.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2884/pg2884.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/2884/2884-h/2884-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2884/2884.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/2884.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2884.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/2884.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3032,
+        "title": "The Fathers of the Constitution: A Chronicle of the Establishment of the Union",
+        "authors": [
+            {
+                "name": "Farrand, Max",
+                "birth_year": 1869,
+                "death_year": 1945
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Constitutional history -- United States",
+            "United States -- History -- Confederation, 1783-1789",
+            "United States -- Politics and government -- 1783-1789"
+        ],
+        "bookshelves": [
+            "Children's History",
+            "United States"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/3032/3032-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3032/3032-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3032.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3032.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3032/pg3032.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/3032.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3032.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/3032.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3058,
+        "title": "A Changed Man, and Other Tales",
+        "authors": [
+            {
+                "name": "Hardy, Thomas",
+                "birth_year": 1840,
+                "death_year": 1928
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Wessex (England) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3058.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3058.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/3058.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3058/pg3058.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3058/3058.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3058.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/3058.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3064,
+        "title": "R\u00f6mische Geschichte \u2014 Buch 5",
+        "authors": [
+            {
+                "name": "Mommsen, Theodor",
+                "birth_year": 1817,
+                "death_year": 1903
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Rome -- History"
+        ],
+        "bookshelves": [
+            "DE Sachbuch"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3064.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3064.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3064/pg3064.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3064/3064-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3064/3064.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3064/3064-h/3064-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3064.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3064.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3129,
+        "title": "The Story of Pocahontas",
+        "authors": [
+            {
+                "name": "Warner, Charles Dudley",
+                "birth_year": 1829,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Pocahontas, -1617",
+            "Powhatan Indians -- Biography",
+            "Powhatan women -- Biography"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3129.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3129.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3129/3129-h/3129-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3129/3129-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3129/pg3129.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/3129.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3129.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3263,
+        "title": "The Portygee",
+        "authors": [
+            {
+                "name": "Lincoln, Joseph Crosby",
+                "birth_year": 1870,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Grandparent and child -- Fiction",
+            "Spanish Americans -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3263.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3263.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3263/pg3263.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3263/3263-h/3263-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3263/3263-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3263/3263.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3263.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3263.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3306,
+        "title": "At Suvla Bay: Being the notes and sketches of scenes, characters and adventures of the Dardanelles campaign, made by John Hargrave (\"White Fox\") while serving with the 32nd field ambulance, X division, Mediterranean expeditionary force, during the great war.",
+        "authors": [
+            {
+                "name": "Hargrave, John",
+                "birth_year": 1894,
+                "death_year": 1982
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula -- Personal narratives, British",
+            "World War, 1914-1918 -- Medical care",
+            "World War, 1914-1918 -- Personal narratives, British"
+        ],
+        "bookshelves": [
+            "World War I"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3306.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3306.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3306/pg3306.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3306/3306-h/3306-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3306/3306.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3306/3306-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3306.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3306.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3492,
+        "title": "Homespun Tales",
+        "authors": [
+            {
+                "name": "Wiggin, Kate Douglas Smith",
+                "birth_year": 1856,
+                "death_year": 1923
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Short stories, American"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3492.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3492.kf8.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3492/3492-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3492/pg3492.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3492/3492.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3492.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/3492.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3492/3492-h/3492-h.htm"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3639,
+        "title": "Diary of a Pedestrian in Cashmere and Thibet",
+        "authors": [
+            {
+                "name": "Knight, W. H. (William Henry)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Jammu and Kashmir (India) -- Description and travel",
+            "Knight, W. H. (William Henry) -- Travel -- China -- Tibet Autonomous Region",
+            "Knight, W. H. (William Henry) -- Travel -- India -- Jammu and Kashmir",
+            "Tibet Autonomous Region (China) -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3639.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3639.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/3639.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/3639/3639-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3639/pg3639.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3639/3639-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/3639.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3639.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 3715,
+        "title": "The Parenticide Club",
+        "authors": [
+            {
+                "name": "Bierce, Ambrose",
+                "birth_year": 1842,
+                "death_year": 1913
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Horror tales, American",
+            "Murderers -- Fiction",
+            "Parricide -- Fiction",
+            "Short stories, American"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3715.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3715.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3715/pg3715.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3715/3715-h/3715-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3715/3715.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3715.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3715.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3715.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4038,
+        "title": "Imaginary Portraits",
+        "authors": [
+            {
+                "name": "Pater, Walter",
+                "birth_year": 1839,
+                "death_year": 1894
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Courts and courtiers -- Fiction",
+            "Europe -- History -- Fiction",
+            "Short stories, English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4038.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4038.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4038/pg4038.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4038/4038-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4038/4038-h/4038-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4038.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4038.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4038.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4058,
+        "title": "Marius the Epicurean \u2014 Volume 2",
+        "authors": [
+            {
+                "name": "Pater, Walter",
+                "birth_year": 1839,
+                "death_year": 1894
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bildungsromans",
+            "Christian fiction",
+            "Christianity and other religions -- Roman -- Fiction",
+            "Historical fiction",
+            "Rome -- Fiction",
+            "Young men -- Fiction"
+        ],
+        "bookshelves": [
+            "Historical Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4058.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4058.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/4058.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4058/pg4058.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/4058/4058-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4058/4058-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/4058.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4058.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4256,
+        "title": "Stammering, Its Cause and Cure",
+        "authors": [
+            {
+                "name": "Bogue, Benjamin Nathaniel",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Stuttering"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4256.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4256.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4256/pg4256.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4256/4256.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4256/4256-h/4256-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4256.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4256.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4256.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4342,
+        "title": "Organic Gardener's Composting",
+        "authors": [
+            {
+                "name": "Solomon, Steve",
+                "birth_year": 1942,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Compost",
+            "Organic gardening",
+            "Vegetable gardening"
+        ],
+        "bookshelves": [
+            "Horticulture"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4342.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4342.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4342/pg4342.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/4342/4342.zip",
+            "text/html": "https://www.gutenberg.org/ebooks/4342.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4342.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4342/4342.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4342.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4356,
+        "title": "Sky Island: Being the further exciting adventures of Trot and Cap'n Bill after their visit to the sea fairies",
+        "authors": [
+            {
+                "name": "Baum, L. Frank (Lyman Frank)",
+                "birth_year": 1856,
+                "death_year": 1919
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fantasy literature",
+            "Flight -- Juvenile fiction",
+            "Islands -- Juvenile fiction",
+            "Queens -- Juvenile fiction",
+            "Voyages, Imaginary"
+        ],
+        "bookshelves": [
+            "Children's Literature",
+            "Fantasy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4356.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4356.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4356/pg4356.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/4356/4356-h/4356-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4356/4356.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4356.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4356.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4356.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4426,
+        "title": "Rhoda Fleming \u2014 Complete",
+        "authors": [
+            {
+                "name": "Meredith, George",
+                "birth_year": 1828,
+                "death_year": 1909
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English fiction -- 19th century",
+            "Farm life -- Fiction",
+            "Great Britain -- Social life and customs -- 19th century -- Fiction",
+            "Middle class -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4426.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4426.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4426/4426-h/4426-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4426/pg4426.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4426/4426-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4426/4426.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4426.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4426.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4620,
+        "title": "The Wedding Guest: A Friend of the Bride and Bridegroom",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Didactic fiction",
+            "Marriage -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4620.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4620.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/4620/4620-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4620/4620.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4620/pg4620.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/4620.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/4620.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4620.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 4781,
+        "title": "The Hohenzollerns in America: With the Bolsheviks in Berlin and Other Impossibilities",
+        "authors": [
+            {
+                "name": "Leacock, Stephen",
+                "birth_year": 1869,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canadian wit and humor"
+        ],
+        "bookshelves": [
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4781.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4781.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4781/pg4781.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4781/4781.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4781/4781-h/4781-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/4781.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/4781.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4781.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 5079,
+        "title": "Ziska: The Problem of a Wicked Soul",
+        "authors": [
+            {
+                "name": "Corelli, Marie",
+                "birth_year": 1855,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Egypt -- Fiction",
+            "Reincarnation -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5079.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5079.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/5079.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/5079/5079-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5079/5079-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5079/pg5079.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/5079.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5079.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 5080,
+        "title": "Magnum Bonum; Or, Mother Carey's Brood",
+        "authors": [
+            {
+                "name": "Yonge, Charlotte M. (Charlotte Mary)",
+                "birth_year": 1823,
+                "death_year": 1901
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Domestic fiction",
+            "England -- Social life and customs -- 19th century -- Fiction",
+            "Religious fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5080.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5080.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5080/pg5080.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5080/5080.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5080/5080-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/5080/5080-h/5080-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5080/5080-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5080.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5080.rdf"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 5640,
+        "title": "B\u00e1r\u00f3 Podmaniczky P\u00e1l \u00e9s a norv\u00e9g Biblia: Elbesz\u00e9l\u00e9s a 18 nyelv\u00fc nagyap\u00e1r\u00f3l 77 nyelven \u00e9s rov\u00e1s\u00edr\u00e1ssal",
+        "authors": [
+            {
+                "name": "Kutas, Ilona",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Short stories",
+            "Translations"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en",
+            "hu"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5640.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5640.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5640/pg5640.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/5640.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5640/readme.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5640.rdf",
+            "application/pdf": "https://www.gutenberg.org/files/5640/5640-p.pdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5640.txt.utf-8",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5640/5640-8.txt"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 5794,
+        "title": "Rosa Alchemica",
+        "authors": [
+            {
+                "name": "Yeats, W. B. (William Butler)",
+                "birth_year": 1865,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Alchemists -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5794.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5794.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5794/pg5794.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5794/5794.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/5794/5794-h/5794-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/5794.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5794.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5794.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 5819,
+        "title": "The Gilded Age, Part 2.",
+        "authors": [
+            {
+                "name": "Twain, Mark",
+                "birth_year": 1835,
+                "death_year": 1910
+            },
+            {
+                "name": "Warner, Charles Dudley",
+                "birth_year": 1829,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Businessmen -- Fiction",
+            "Legislators -- Fiction",
+            "Political corruption -- Fiction",
+            "Political fiction",
+            "Satire",
+            "Speculation -- Fiction",
+            "Washington (D.C.) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5819.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5819.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5819/5819.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5819/pg5819.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5819/5819-h/5819-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/5819.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5819.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/5819.txt.utf-8"
+        },
+        "download_count": 48
+    },
+    {
+        "id": 6210,
+        "title": "The Trail of the Sword, Complete",
+        "authors": [
+            {
+                "name": "Parker, Gilbert",
+                "birth_year": 1862,
+                "death_year": 1932
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- History -- To 1763 (New France) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6210.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6210.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6210/pg6210.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6210/6210.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/6210/6210-h/6210-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/6210/6210-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/6210.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6210.rdf"
+        },
+        "download_count": 48
+    }
+]

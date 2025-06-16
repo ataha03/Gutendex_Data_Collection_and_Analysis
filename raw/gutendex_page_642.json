@@ -1,0 +1,1085 @@
+[
+    {
+        "id": 66321,
+        "title": "Rachel and the Seven Wonders",
+        "authors": [
+            {
+                "name": "Syrett, Netta",
+                "birth_year": 1865,
+                "death_year": 1943
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Girls -- Juvenile fiction",
+            "Magicians -- Juvenile fiction",
+            "Seven Wonders of the World -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66321.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66321.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66321.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66321/66321-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66321/pg66321.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66321/66321-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66321.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/66321.txt.utf-8"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 66391,
+        "title": "A Book of Marionettes",
+        "authors": [
+            {
+                "name": "Joseph, Helen Haiman",
+                "birth_year": 1888,
+                "death_year": 1978
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Marionettes",
+            "Puppet theater"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66391.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66391.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66391.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66391/66391-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66391/pg66391.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/66391.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66391.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66391/66391-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 66616,
+        "title": "Elementary Course in Woodwork: Designed for use in high and technical schools, with one hundred and thirty-four illustrations: First Edition",
+        "authors": [
+            {
+                "name": "Ross, George Alexander",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Woodwork (Manual training)"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66616.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66616.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66616.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66616/66616-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66616/pg66616.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66616.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/66616.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66616/66616-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 66713,
+        "title": "Selling Point",
+        "authors": [
+            {
+                "name": "Arkawy, Norman",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Robots -- Fiction",
+            "Science fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66713.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66713.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66713.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66713/pg66713.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/66713/66713-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/66713.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66713.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66713/66713-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 66768,
+        "title": "A Town Is Drowning",
+        "authors": [
+            {
+                "name": "Pohl, Frederik",
+                "birth_year": 1919,
+                "death_year": 2013
+            },
+            {
+                "name": "Kornbluth, C. M. (Cyril M.)",
+                "birth_year": 1923,
+                "death_year": 1958
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Floods -- Pennsylvania -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66768.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66768.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66768.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66768/66768-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66768/pg66768.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/66768.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66768.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66768/66768-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 66812,
+        "title": "The Lake Regions of Central Africa: A Picture of Exploration, Vol. 1",
+        "authors": [
+            {
+                "name": "Burton, Richard Francis, Sir",
+                "birth_year": 1821,
+                "death_year": 1890
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Africa, Central -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66812.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66812.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66812.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66812/66812-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66812/pg66812.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66812.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/66812.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66812/66812-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 67297,
+        "title": "Storia della Repubblica di Firenze v. 3/3",
+        "authors": [
+            {
+                "name": "Capponi, Gino",
+                "birth_year": 1792,
+                "death_year": 1876
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Florence (Italy) -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "it"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67297.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/67297.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/67297.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/67297/67297-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/67297/pg67297.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/67297.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/67297.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67297/67297-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 67622,
+        "title": "No More Parades: A novel",
+        "authors": [
+            {
+                "name": "Ford, Ford Madox",
+                "birth_year": 1873,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Great Britain -- History -- George V, 1910-1936 -- Fiction",
+            "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67622.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/67622.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/67622.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/67622/67622-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/67622/pg67622.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/67622.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/67622.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67622/67622-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68386,
+        "title": "Book of parlor tricks: How to perform them",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Magic tricks",
+            "Tricks"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68386.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68386.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68386.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/68386/68386-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/68386.txt.utf-8",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68386/pg68386.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68386.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68386/68386-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68686,
+        "title": "Critical difference",
+        "authors": [
+            {
+                "name": "Leinster, Murray",
+                "birth_year": 1896,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Climate change mitigation -- Fiction",
+            "Life on other planets -- Fiction",
+            "Man-woman relationships -- Fiction",
+            "Science fiction",
+            "Space colonies -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68686.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68686.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68686.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/68686/68686-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68686/pg68686.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/68686.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68686.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68686/68686-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68711,
+        "title": "The handy manual: A veritable mine of useful and interesting statistics, information, etc.",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Reference works"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68711.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68711.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68711.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68711/pg68711.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68711.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68711.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68711/68711-0.txt",
+            "application/octet-stream": "https://www.gutenberg.org/files/68711/68711-0.zip"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68742,
+        "title": "The works of the Rev. John Wesley, Vol. 05 (of 32)",
+        "authors": [
+            {
+                "name": "Wesley, John",
+                "birth_year": 1703,
+                "death_year": 1791
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Methodist Church",
+            "Theology -- Early works to 1800",
+            "Theology -- History -- 18th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68742.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68742.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68742.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68742/pg68742.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68742.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68742.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/68742/68742-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68742/68742-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68850,
+        "title": "When the movies were young",
+        "authors": [
+            {
+                "name": "Arvidson, Linda",
+                "birth_year": 1884,
+                "death_year": 1949
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Motion pictures -- United States -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68850.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68850.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68850.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68850/pg68850.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68850.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68850.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/68850/68850-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68850/68850-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68935,
+        "title": "Insula thesauraria",
+        "authors": [
+            {
+                "name": "Stevenson, Robert Louis",
+                "birth_year": 1850,
+                "death_year": 1894
+            }
+        ],
+        "translators": [
+            {
+                "name": "Avellanus, Arcadius",
+                "birth_year": 1851,
+                "death_year": 1935
+            }
+        ],
+        "subjects": [
+            "Pirates -- Fiction",
+            "Sea stories",
+            "Treasure Island (Imaginary place) -- Fiction",
+            "Treasure troves -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "la"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68935.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68935.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68935.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68935/pg68935.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68935.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68935.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/68935/68935-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68935/68935-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68960,
+        "title": "Final blackout",
+        "authors": [
+            {
+                "name": "Hubbard, L. Ron (La Fayette Ron)",
+                "birth_year": 1911,
+                "death_year": 1986
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction",
+            "War stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68960.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68960.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68960.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68960/pg68960.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68960.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68960.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/68960/68960-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68960/68960-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 68983,
+        "title": "Cook book of tested receipes",
+        "authors": [
+            {
+                "name": "Cary, Ida Lee",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cookbooks",
+            "Cooking, American"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68983.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68983.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68983.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68983/pg68983.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68983.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68983.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/68983/68983-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68983/68983-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69426,
+        "title": "History of a literary radical, and other essays",
+        "authors": [
+            {
+                "name": "Bourne, Randolph Silliman",
+                "birth_year": 1886,
+                "death_year": 1918
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American essays -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69426/pg69426.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69426.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69426.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69426.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69426.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69426.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69426/69426-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69426/69426-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69441,
+        "title": "Narrative, of a five years' expedition against the Revolted Negroes of Surinam, in Guiana on the Wild Coast of South America; from the year 1772 to 1777 ... Volume 2 (of 2)",
+        "authors": [
+            {
+                "name": "Stedman, John Gabriel",
+                "birth_year": 1744,
+                "death_year": 1797
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indians of South America -- Guiana",
+            "Slavery -- Suriname -- History -- 18th century",
+            "Stedman, John Gabriel, 1744-1797 -- Travel -- Suriname",
+            "Suriname -- Description and travel",
+            "Suriname -- History -- To 1814"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/69441/69441-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69441/pg69441.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69441.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69441/69441-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/69441.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69441.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69441.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69441.html.images"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69530,
+        "title": "The humour of Spain.",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Spanish wit and humor"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69530/pg69530.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69530.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69530.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69530.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69530.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69530.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69530/69530-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69530/69530-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69574,
+        "title": "Excavations at the LoDaisKa Site in the Denver, Colorado area",
+        "authors": [
+            {
+                "name": "Irwin, H. T. (Henry Thomas Johnson)",
+                "birth_year": null,
+                "death_year": 1978
+            },
+            {
+                "name": "Irwin-Williams, Cynthia",
+                "birth_year": 1936,
+                "death_year": 1990
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Denver (Colo.) -- Antiquities",
+            "Indians of North America -- Colorado -- Denver Region -- Antiquities",
+            "Pawnee Indians",
+            "Ute Indians"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69574/pg69574.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69574.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69574.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69574.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69574.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69574.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69574/69574-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69574/69574-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69615,
+        "title": "King Arthur in history and legend",
+        "authors": [
+            {
+                "name": "Jones, William Lewis",
+                "birth_year": 1866,
+                "death_year": 1922
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Arthur, King",
+            "Arthurian romances -- History and criticism"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69615/pg69615.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69615.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69615.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69615.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69615.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69615.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69615/69615-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69615/69615-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69645,
+        "title": "Turckse slavernie",
+        "authors": [
+            {
+                "name": "Aranda, Emanuel d'",
+                "birth_year": 1602,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Slavery -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "nl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69645/pg69645.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69645.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69645.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69645.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69645.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69645.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69645/69645-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69645/69645-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69897,
+        "title": "Women artists in all ages and countries",
+        "authors": [
+            {
+                "name": "Ellet, E. F. (Elizabeth Fries)",
+                "birth_year": 1818,
+                "death_year": 1877
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Women artists"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/69897/69897-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69897/pg69897.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69897.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69897/69897-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/69897.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69897.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69897.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69897.html.images"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69913,
+        "title": "Les liaisons dangereuses, volume 2 (of 2): or, Letters collected in a private society and published for the instruction of others",
+        "authors": [
+            {
+                "name": "Laclos, Choderlos de",
+                "birth_year": 1741,
+                "death_year": 1803
+            }
+        ],
+        "translators": [
+            {
+                "name": "Dowson, Ernest Christopher",
+                "birth_year": 1867,
+                "death_year": 1900
+            }
+        ],
+        "subjects": [
+            "Aristocracy (Social class) -- Fiction",
+            "Epistolary fiction",
+            "France -- Fiction",
+            "Man-woman relationships -- Fiction",
+            "Mock-heroic literature",
+            "Seduction -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69913/pg69913.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69913.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69913.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69913.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69913.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69913.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69913/69913-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69913/69913-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 69986,
+        "title": "The Highland bagpipe : $b its history, literature, and music: with some account of the traditions, superstitions, and anecdotes relating to the instrument and its tunes",
+        "authors": [
+            {
+                "name": "Manson, W. L. (William Laird)",
+                "birth_year": 1869,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bagpipe"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69986/pg69986.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69986.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69986.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69986.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69986.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69986.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69986/69986-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69986/69986-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70098,
+        "title": "Handbook of Old Burial Hill, Plymouth, Massachusetts: $b its history, its famous dead, and its quaint epitaphs",
+        "authors": [
+            {
+                "name": "Perkins, Frank H.",
+                "birth_year": 1854,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Burial Hill (Plymouth, Mass.)",
+            "Cemeteries -- Massachusetts -- Plymouth",
+            "Epitaphs -- Massachusetts -- Plymouth",
+            "Plymouth (Mass.) -- Genealogy"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70098/pg70098.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70098.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70098.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70098.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70098.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70098.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70098/70098-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70098/70098-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70205,
+        "title": "Designs for Crazy Daisy Winder : $b Crochet Time Cut in Half",
+        "authors": [
+            {
+                "name": "Hewlett, Esther Parnell",
+                "birth_year": 1895,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Crocheting -- Patterns"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70205/pg70205.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70205.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70205.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70205.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70205.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70205.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70205/70205-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70205/70205-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70574,
+        "title": "Little Jack Rabbit's big blue book",
+        "authors": [
+            {
+                "name": "Cory, David",
+                "birth_year": 1872,
+                "death_year": 1966
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals -- Juvenile fiction",
+            "Children's stories",
+            "Rabbits -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70574/pg70574.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70574.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70574.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70574.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70574.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70574.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70574/70574-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70574/70574-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70657,
+        "title": "Prayer and praying men",
+        "authors": [
+            {
+                "name": "Bounds, Edward M. (Edward McKendree)",
+                "birth_year": 1835,
+                "death_year": 1913
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bible -- Prayers",
+            "Prayer -- Christianity"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70657/pg70657.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70657.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70657.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70657.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70657.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70657.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70657/70657-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70657/70657-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70734,
+        "title": "The skeleton crew : $b or, Wildfire Ned",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English fiction -- 19th century",
+            "Horror tales",
+            "Penny dreadfuls"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70734/pg70734.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70734.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70734.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70734.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70734.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70734.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70734/70734-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70734/70734-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70832,
+        "title": "The valley of lost herds",
+        "authors": [
+            {
+                "name": "Tuttle, W. C. (Wilbur C.)",
+                "birth_year": 1883,
+                "death_year": 1969
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cattle stealing -- Fiction",
+            "Ranchers -- Fiction",
+            "Western stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70832/pg70832.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70832.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70832.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70832.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70832.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70832.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70832/70832-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70832/70832-0.txt"
+        },
+        "download_count": 53
+    },
+    {
+        "id": 70835,
+        "title": "Shakespeare's environment",
+        "authors": [
+            {
+                "name": "Stopes, C. C. (Charlotte Carmichael)",
+                "birth_year": 1840,
+                "death_year": 1929
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Shakespeare, William, 1564-1616 -- Contemporary England",
+            "Shakespeare, William, 1564-1616 -- Friends and associates",
+            "Shakespeare, William, 1564-1616 -- Homes and haunts"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70835/pg70835.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70835.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70835.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70835.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70835.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70835.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70835/70835-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70835/70835-0.txt"
+        },
+        "download_count": 53
+    }
+]

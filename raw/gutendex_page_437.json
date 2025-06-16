@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1957,
+        "title": "Beatrix",
+        "authors": [
+            {
+                "name": "Balzac, Honor\u00e9 de",
+                "birth_year": 1799,
+                "death_year": 1850
+            }
+        ],
+        "translators": [
+            {
+                "name": "Wormeley, Katharine Prescott",
+                "birth_year": 1830,
+                "death_year": 1908
+            }
+        ],
+        "subjects": [
+            "Brittany (France) -- Fiction",
+            "France -- Social life and customs -- 19th century -- Fiction",
+            "French fiction -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1957.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1957.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1957/pg1957.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1957/1957.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1957/1957-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1957.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1957/1957-h/1957-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1957.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 2773,
+        "title": "Fraternity",
+        "authors": [
+            {
+                "name": "Galsworthy, John",
+                "birth_year": 1867,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Social life and customs -- 20th century -- Fiction",
+            "London (England) -- Fiction",
+            "Upper class families -- England -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2773.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2773.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/2773/2773-h/2773-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2773/pg2773.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2773/2773-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/2773.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2773.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 3659,
+        "title": "The Rosary",
+        "authors": [
+            {
+                "name": "Barclay, Florence L. (Florence Louisa)",
+                "birth_year": 1862,
+                "death_year": 1921
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Artists -- Fiction",
+            "England -- Fiction",
+            "Love stories",
+            "Rich people -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3659.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3659.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3659/3659-h/3659-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3659/pg3659.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3659/3659.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3659.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/3659.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3659.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 4979,
+        "title": "Blacky the Crow",
+        "authors": [
+            {
+                "name": "Burgess, Thornton W. (Thornton Waldo)",
+                "birth_year": 1874,
+                "death_year": 1965
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals -- Juvenile fiction",
+            "Crows -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4979.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4979.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4979/4979-h/4979-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4979/pg4979.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4979/4979-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4979/4979.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4979.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4979.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 5115,
+        "title": "The George Sand-Gustave Flaubert Letters",
+        "authors": [
+            {
+                "name": "Flaubert, Gustave",
+                "birth_year": 1821,
+                "death_year": 1880
+            },
+            {
+                "name": "Sand, George",
+                "birth_year": 1804,
+                "death_year": 1876
+            }
+        ],
+        "translators": [
+            {
+                "name": "McKenzie, Aim\u00e9e L. (Aim\u00e9e Leffingwell)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Flaubert, Gustave, 1821-1880 -- Correspondence",
+            "Novelists, French -- 19th century -- Correspondence",
+            "Sand, George, 1804-1876 -- Correspondence"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5115.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5115.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5115/pg5115.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5115/5115.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5115.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5115.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5115.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 5829,
+        "title": "The Moneychangers",
+        "authors": [
+            {
+                "name": "Sinclair, Upton",
+                "birth_year": 1878,
+                "death_year": 1968
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Capitalists and financiers -- Fiction",
+            "Didactic fiction",
+            "Financial crises -- Fiction",
+            "New York (N.Y.) -- Fiction",
+            "Rich people -- Fiction",
+            "Socialites -- Fiction",
+            "Speculation -- Fiction",
+            "Wall Street (New York, N.Y.) -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5829.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5829.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5829/5829-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5829/5829-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/5829/5829-h/5829-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5829/pg5829.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5829/5829.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/5829.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5829.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6635,
+        "title": "A Romance of Billy-Goat Hill",
+        "authors": [
+            {
+                "name": "Rice, Alice Caldwell Hegan",
+                "birth_year": 1870,
+                "death_year": 1942
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Kentucky -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6635.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6635.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/6635/6635-h/6635-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6635/pg6635.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/6635/6635-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6635/6635.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/6635.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6635.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6657,
+        "title": "The Theology of Holiness",
+        "authors": [
+            {
+                "name": "Clark, Dougan",
+                "birth_year": 1828,
+                "death_year": 1896
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Holiness",
+            "Sanctification"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/6657/6657-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6657/6657-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6657.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6657.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6657/pg6657.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/6657.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6657.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/6657.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6803,
+        "title": "Algonquin Legends of New England",
+        "authors": [
+            {
+                "name": "Leland, Charles Godfrey",
+                "birth_year": 1824,
+                "death_year": 1903
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Algonquian Indians -- Legends",
+            "Algonquian mythology",
+            "Indians of North America -- Folklore",
+            "Legends -- New England"
+        ],
+        "bookshelves": [
+            "Folklore",
+            "Native America"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6803.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6803.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6803/pg6803.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6803/6803.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6803.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6803.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6803.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6824,
+        "title": "Mary Anerley: A Yorkshire Tale",
+        "authors": [
+            {
+                "name": "Blackmore, R. D. (Richard Doddridge)",
+                "birth_year": 1825,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Yorkshire (England) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6824.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6824.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6824/pg6824.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/6824/6824-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/6824/6824-h/6824-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6824/6824.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/6824.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6824.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6836,
+        "title": "Three Men and a Maid",
+        "authors": [
+            {
+                "name": "Wodehouse, P. G. (Pelham Grenville)",
+                "birth_year": 1881,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Humorous stories"
+        ],
+        "bookshelves": [
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6836.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6836.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6836/pg6836.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6836/6836.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6836.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/6836.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/6836.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6877,
+        "title": "The Head of Kay's",
+        "authors": [
+            {
+                "name": "Wodehouse, P. G. (Pelham Grenville)",
+                "birth_year": 1881,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Schools -- Fiction"
+        ],
+        "bookshelves": [
+            "Humor",
+            "School Stories"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6877.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6877.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6877/pg6877.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/6877/6877-h/6877-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6877/6877.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/6877.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6877.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/6877.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 6980,
+        "title": "Tales of St. Austin's",
+        "authors": [
+            {
+                "name": "Wodehouse, P. G. (Pelham Grenville)",
+                "birth_year": 1881,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Humorous stories",
+            "Schools -- Fiction"
+        ],
+        "bookshelves": [
+            "Humor",
+            "School Stories"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6980.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/6980.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/6980/pg6980.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6980/6980.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/6980/6980-h/6980-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/6980.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/6980.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/6980.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 8095,
+        "title": "Awful Disclosures of the Hotel Dieu Nunnery of Montreal: Containing, Also, Many Incidents Never before Published",
+        "authors": [
+            {
+                "name": "Monk, Maria",
+                "birth_year": 1816,
+                "death_year": 1849
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ex-nuns -- Qu\u00e9bec (Province) -- Biography",
+            "H\u00f4tel-Dieu de Montr\u00e9al -- Biography",
+            "Monk, Maria, 1816-1849"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8095.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8095.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8095/pg8095.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8095/8095-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8095/8095.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/8095.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8095.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/8095.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 8690,
+        "title": "American Institutions and Their Influence",
+        "authors": [
+            {
+                "name": "Tocqueville, Alexis de",
+                "birth_year": 1805,
+                "death_year": 1859
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Democracy",
+            "United States -- Politics and government"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8690.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8690.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8690/pg8690.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/8690/8690-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/8690/8690-h/8690-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8690/8690.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/8690.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8690.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/8690.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 8991,
+        "title": "The Fur Country: Or, Seventy Degrees North Latitude",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            }
+        ],
+        "translators": [
+            {
+                "name": "D'Anvers, N.",
+                "birth_year": null,
+                "death_year": 1933
+            }
+        ],
+        "subjects": [
+            "Earthquakes -- Fiction",
+            "Fur traders -- Fiction",
+            "Northwest Territories -- Fiction",
+            "Survival -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8991.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8991.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8991/pg8991.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/8991/8991-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/8991/8991-h/8991-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/8991.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8991.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10055,
+        "title": "Hamburgische Dramaturgie",
+        "authors": [
+            {
+                "name": "Lessing, Gotthold Ephraim",
+                "birth_year": 1729,
+                "death_year": 1781
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Aristotle, 384 BC-322 BC. Poetics",
+            "Drama -- Technique"
+        ],
+        "bookshelves": [
+            "DE Drama"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10055.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/10055.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/10055/pg10055.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/10055/10055-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10055.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/10055.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/10055.txt.utf-8"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10065,
+        "title": "The Constitution of the United States: A Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution",
+        "authors": [
+            {
+                "name": "Beck, James M. (James Montgomery)",
+                "birth_year": 1861,
+                "death_year": 1936
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Constitutional law -- United States",
+            "United States. Constitution"
+        ],
+        "bookshelves": [
+            "United States",
+            "United States Law"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10065.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/10065.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/10065/pg10065.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/10065/10065-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/10065.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10065.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/10065.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10065/10065.txt"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10173,
+        "title": "Hungarian Rhapsody No. 2, Part 1",
+        "authors": [
+            {
+                "name": "Edison Concert Band",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Band music, Arranged"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10173.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/10173/10173-m/10173-m-001.mp3",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10173/10173-m/10173-m-readme.txt"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10414,
+        "title": "I Love You, California: March Song",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "California -- Songs and music",
+            "Popular music -- 1911-1920",
+            "State songs -- California"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10414.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/10414/10414-m/10414-m-001.mp3",
+            "text/plain": "https://www.gutenberg.org/files/10414/10414-m.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10414/10414-m/10414-m-readme.txt"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10415,
+        "title": "Nights of Gladness: Waltz",
+        "authors": [
+            {
+                "name": "National Promenade Band",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Popular instrumental music -- 1911-1920",
+            "Waltzes"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10415.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/10415/10415-m/10415-m-001.mp3",
+            "text/plain": "https://www.gutenberg.org/files/10415/10415-m.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10415/10415-m/10415-m-readme.txt"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 10535,
+        "title": "Jingle Bells: Or, The One Horse Open Sleigh",
+        "authors": [
+            {
+                "name": "Pierpont, James",
+                "birth_year": 1822,
+                "death_year": 1893
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Christmas music"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/prs.tex": "https://www.gutenberg.org/files/10535/10535-t/10535-t.tex",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/10535.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10535/10535.txt",
+            "audio/mpeg": "https://www.gutenberg.org/files/10535/10535-m/10535-m.mp3",
+            "audio/midi": "https://www.gutenberg.org/files/10535/10535-mid/10535-mid.mid",
+            "application/octet-stream": "https://www.gutenberg.org/files/10535/10535-ly/10535.ly",
+            "application/postscript": "https://www.gutenberg.org/files/10535/10535-t/10535-frontis.eps",
+            "application/pdf": "https://www.gutenberg.org/files/10535/10535-pdf.pdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 11504,
+        "title": "Further Foolishness",
+        "authors": [
+            {
+                "name": "Leacock, Stephen",
+                "birth_year": 1869,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canada -- Humor",
+            "Canadian wit and humor"
+        ],
+        "bookshelves": [
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11504.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11504.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11504/pg11504.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/11504/11504-h/11504-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11504/11504.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/11504.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/11504.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11504.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 11700,
+        "title": "J. S. Le Fanu's Ghostly Tales, Volume 2",
+        "authors": [
+            {
+                "name": "Le Fanu, Joseph Sheridan",
+                "birth_year": 1814,
+                "death_year": 1873
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ghost stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11700.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11700.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/11700.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11700/pg11700.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11700/11700.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11700/11700-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/11700.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11700.rdf",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/11700/11700-h/11700-h.htm"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 11715,
+        "title": "The Eyes of the World",
+        "authors": [
+            {
+                "name": "Wright, Harold Bell",
+                "birth_year": 1872,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Artists -- Fiction",
+            "California -- Fiction",
+            "Legacies -- Fiction",
+            "Painters -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11715.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11715.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/11715.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11715/pg11715.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11715/11715-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11715/11715.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/11715.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11715.rdf",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/11715/11715-h/11715-h.htm"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 12004,
+        "title": "Essays on some unsettled Questions of Political Economy",
+        "authors": [
+            {
+                "name": "Mill, John Stuart",
+                "birth_year": 1806,
+                "death_year": 1873
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Economics"
+        ],
+        "bookshelves": [
+            "Philosophy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12004.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12004.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12004/12004-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12004/pg12004.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/12004/12004-h/12004-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/12004.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/12004.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12004.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 12572,
+        "title": "The World's Greatest Books \u2014 Volume 10 \u2014 Lives and Letters",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Biography"
+        ],
+        "bookshelves": [
+            "Harvard Classics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12572.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12572.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12572/pg12572.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12572/12572-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12572/12572.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/12572.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/12572.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12572.rdf",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/12572/12572-h/12572-h.htm"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 12742,
+        "title": "Minstrelsy of the Scottish border, Volume 1",
+        "authors": [
+            {
+                "name": "Scott, Walter",
+                "birth_year": 1771,
+                "death_year": 1832
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ballads, Scots -- Scotland -- Scottish Borders -- Texts",
+            "Scottish Borders (England and Scotland) -- Poetry",
+            "Scottish Borders (England and Scotland) -- Songs and music",
+            "Scottish Borders (Scotland) -- Poetry",
+            "Scottish Borders (Scotland) -- Songs and music"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12742.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12742.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12742/12742.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/12742/12742-h/12742-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12742/pg12742.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/12742.html.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12742/12742-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/12742.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12742.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 13264,
+        "title": "Zalaca\u00edn El Aventurero: (Historia de las buenas andanzas y fortunas de Mart\u00edn Zalaca\u00edn el Aventurero)",
+        "authors": [
+            {
+                "name": "Baroja, P\u00edo",
+                "birth_year": 1872,
+                "death_year": 1956
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Spain -- History -- Carlist War, 1873-1876 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13264.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13264.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13264/13264.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13264/pg13264.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13264/13264-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/13264.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/13264.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13264.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 13475,
+        "title": "\u0152uvres de Napol\u00e9on Bonaparte, Tome V.",
+        "authors": [
+            {
+                "name": "Napoleon I, Emperor of the French",
+                "birth_year": 1769,
+                "death_year": 1821
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- History -- 1789-1815 -- Sources"
+        ],
+        "bookshelves": [
+            "FR Guerres",
+            "France"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13475.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13475.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13475/13475-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13475/pg13475.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13475/13475-h/13475-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/13475.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13475.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13475.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 13775,
+        "title": "Every Step in Canning: The Cold-Pack Method",
+        "authors": [
+            {
+                "name": "Gray, Grace Viall",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Canning and preserving"
+        ],
+        "bookshelves": [
+            "Cookbooks and Cooking"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13775.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13775.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13775/pg13775.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13775/13775.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13775/13775-h/13775-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13775/13775-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/13775.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13775.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13775.rdf"
+        },
+        "download_count": 74
+    },
+    {
+        "id": 13820,
+        "title": "Unhappy Far-Off Things",
+        "authors": [
+            {
+                "name": "Dunsany, Lord",
+                "birth_year": 1878,
+                "death_year": 1957
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "World War, 1914-1918 -- France"
+        ],
+        "bookshelves": [
+            "Fantasy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13820.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13820.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13820/pg13820.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13820/13820-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13820/13820.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/13820.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/13820.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13820.rdf"
+        },
+        "download_count": 74
+    }
+]

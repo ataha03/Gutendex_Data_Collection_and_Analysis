@@ -1,0 +1,1090 @@
+[
+    {
+        "id": 19734,
+        "title": "The Fairy Book: The Best Popular Stories Selected and Rendered Anew",
+        "authors": [
+            {
+                "name": "Craik, Dinah Maria Mulock",
+                "birth_year": 1826,
+                "death_year": 1887
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fairy tales",
+            "Folklore"
+        ],
+        "bookshelves": [
+            "Children's Myths, Fairy Tales, etc."
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19734.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/19734.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/19734/pg19734.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/19734/19734-h/19734-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/19734/19734.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/19734/19734-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/19734.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/19734.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/19734.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 20723,
+        "title": "Little Cinderella",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fairy tales"
+        ],
+        "bookshelves": [
+            "Children's Picture Books"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/20723.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/20723.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/20723/pg20723.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/20723/20723-page-images.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/20723/20723.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/20723/20723-h/20723-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/20723.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/20723.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/20723.txt.utf-8"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 20973,
+        "title": "Le tour du monde en quatre-vingts jours",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Voyages around the world -- Fiction"
+        ],
+        "bookshelves": [
+            "FR Litt\u00e9rature"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/20973.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/20973/mp3/20973-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/20973/m4b/20973-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/20973/ogg/20973-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/20973/20973-index.html",
+            "text/plain": "https://www.gutenberg.org/files/20973/20973-readme.txt"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 21175,
+        "title": "The Rosary",
+        "authors": [
+            {
+                "name": "Barclay, Florence L. (Florence Louisa)",
+                "birth_year": 1862,
+                "death_year": 1921
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Fiction",
+            "Rich people -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/21175.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/21175/mp3/21175-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/21175/m4b/21175-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/21175/ogg/21175-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/21175/21175-index.html",
+            "text/plain": "https://www.gutenberg.org/files/21175/21175-readme.txt"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 22436,
+        "title": "The Prisoner of Zenda",
+        "authors": [
+            {
+                "name": "Hope, Anthony",
+                "birth_year": 1863,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "British -- Foreign countries -- Fiction",
+            "Impostors and imposture -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/22436.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/22436/mp3/22436-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/22436/m4b/22436-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/22436/ogg/22436-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/22436/22436-index.html",
+            "text/plain": "https://www.gutenberg.org/files/22436/22436-readme.txt"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 22767,
+        "title": "Pagan Passions",
+        "authors": [
+            {
+                "name": "Garrett, Randall",
+                "birth_year": 1927,
+                "death_year": 1987
+            },
+            {
+                "name": "Janifer, Laurence M.",
+                "birth_year": 1933,
+                "death_year": 2002
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/22767.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/22767.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/22767/pg22767.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/22767/22767-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/22767/22767-h/22767-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/22767/22767.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/22767.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/22767.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/22767.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 23210,
+        "title": "Missing Link",
+        "authors": [
+            {
+                "name": "Herbert, Frank",
+                "birth_year": 1920,
+                "death_year": 1986
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction",
+            "Short stories"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/23210.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/23210.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/23210/23210.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/23210/23210-h/23210-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/23210/pg23210.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/23210/23210-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/23210.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/23210.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 24351,
+        "title": "The Triumph Of Night: 1916",
+        "authors": [
+            {
+                "name": "Wharton, Edith",
+                "birth_year": 1862,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Psychological fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24351.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/24351.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/24351/pg24351.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/24351/24351-h/24351-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/24351/24351-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24351/24351.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/24351.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/24351.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 24424,
+        "title": "La Renaissance de la litt\u00e9rature h\u00e9bra\u00efque (1743-1885)",
+        "authors": [
+            {
+                "name": "Slouschz, Nahum",
+                "birth_year": 1872,
+                "death_year": 1966
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Hebrew literature, Modern -- History and criticism"
+        ],
+        "bookshelves": [
+            "FR Peuples et Soci\u00e9t\u00e9s"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24424.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/24424.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/24424/24424-h/24424-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/24424/pg24424.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/24424/24424-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/24424/24424-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/24424.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/24424.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 25053,
+        "title": "The Temptation of St. Antony; Or, A Revelation of the Soul",
+        "authors": [
+            {
+                "name": "Flaubert, Gustave",
+                "birth_year": 1821,
+                "death_year": 1880
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Anthony, of Egypt, Saint, approximately 250-355 or 356 -- Fiction",
+            "Biographical fiction",
+            "Christian fiction",
+            "Christian saints -- Fiction",
+            "Egypt -- Fiction"
+        ],
+        "bookshelves": [
+            "Banned Books from Anne Haight's list"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25053.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25053.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25053/pg25053.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25053/25053.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25053/25053-h/25053-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/25053/25053-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/25053.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/25053.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25053.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 25223,
+        "title": "\u4fd7\u8a71\u50be\u8ac7",
+        "authors": [
+            {
+                "name": "Shao, Binru",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Chinese fiction -- Qing dynasty, 1644-1912"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25223.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25223.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25223/pg25223.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/25223/25223-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/25223.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25223.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 25303,
+        "title": "The Bad Boy at Home, and His Experiences in Trying to Become an Editor: 1885",
+        "authors": [
+            {
+                "name": "Victor, Metta Victoria Fuller",
+                "birth_year": 1831,
+                "death_year": 1885
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American wit and humor",
+            "Diary fiction",
+            "Newspapers -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25303.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25303.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25303/pg25303.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/25303/25303-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/25303/25303-h/25303-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25303/25303.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/25303.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25303.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 25550,
+        "title": "The Defiant Agents",
+        "authors": [
+            {
+                "name": "Norton, Andre",
+                "birth_year": 1912,
+                "death_year": 2005
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction",
+            "Space and time -- Fiction",
+            "Time travel -- Fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction",
+            "Science Fiction by Women"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25550.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25550.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25550/25550-h/25550-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25550/25550.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25550/pg25550.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/25550/25550-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/25550.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25550.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/25550.txt.utf-8"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 25880,
+        "title": "American Poetry, 1922: A Miscellany",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "American poetry -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25880.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25880.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25880/pg25880.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25880/25880.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25880/25880-h/25880-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/25880/25880-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/25880.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/25880.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25880.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 26574,
+        "title": "The Extraordinary Adventures of Ars\u00e8ne Lupin, Gentleman-Burglar",
+        "authors": [
+            {
+                "name": "Leblanc, Maurice",
+                "birth_year": 1864,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories, French -- Translations into English",
+            "Burglars -- Fiction",
+            "Lupin, Ars\u00e8ne (Fictitious character) -- Fiction",
+            "Mystery and detective stories",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/26574.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/26574/mp3/26574-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/26574/m4b/26574-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/26574/ogg/26574-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/26574/26574_index.html",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26574/26574_readme.txt"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 27332,
+        "title": "\u5f8c\u897f\u6e38\u8a18",
+        "authors": [
+            {
+                "name": "Biao, Xuahua",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [],
+        "bookshelves": [],
+        "languages": [
+            "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27332.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27332.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/27332/27332-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27332/pg27332.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/27332.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27332.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 27431,
+        "title": "The Adventures of Daniel Boone: the Kentucky rifleman",
+        "authors": [
+            {
+                "name": "Hawks, Francis L. (Francis Lister)",
+                "birth_year": 1798,
+                "death_year": 1866
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boone, Daniel, 1734-1820",
+            "Frontier and pioneer life -- Kentucky",
+            "Kentucky -- History -- To 1792"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27431.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27431.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27431/pg27431.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/27431/27431-h/27431-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27431/27431.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/27431.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27431.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/27431.txt.utf-8"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 27604,
+        "title": "A history of the Japanese people : $b from the earliest times to the end of the Meiji era",
+        "authors": [
+            {
+                "name": "Kikuchi, Dairoku",
+                "birth_year": 1855,
+                "death_year": 1917
+            },
+            {
+                "name": "Brinkley, F. (Frank)",
+                "birth_year": 1841,
+                "death_year": 1912
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Japan -- Civilization",
+            "Japan -- History"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27604.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27604.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27604/pg27604.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/27604/27604-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27604/27604.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/27604.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/27604.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27604.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 27782,
+        "title": "Le tour de la France par deux enfants: Devoir et Patrie",
+        "authors": [
+            {
+                "name": "Bruno, G.",
+                "birth_year": 1833,
+                "death_year": 1923
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- Description and travel",
+            "French language -- Readers"
+        ],
+        "bookshelves": [
+            "FR Education et Enseignement"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27782.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27782.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/27782/27782-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27782/pg27782.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/27782/27782-h/27782-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/27782.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/27782.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27782.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 29154,
+        "title": "Harper's Young People, September 28, 1880: An Illustrated Weekly",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children's periodicals, American"
+        ],
+        "bookshelves": [
+            "Harper's Young People"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29154.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/29154.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/29154/pg29154.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/29154/29154-h/29154-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29154/29154-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/29154/29154.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/29154.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/29154.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/29154.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 30302,
+        "title": "The Benefactress",
+        "authors": [
+            {
+                "name": "Von Arnim, Elizabeth",
+                "birth_year": 1866,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/30302/30302-8.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30302/30302-8.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30302.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30302.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30302/pg30302.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/30302.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30302.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30302.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 30488,
+        "title": "The Green Helmet and Other Poems",
+        "authors": [
+            {
+                "name": "Yeats, W. B. (William Butler)",
+                "birth_year": 1865,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English poetry -- Irish authors"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30488.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30488.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30488/30488.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30488/pg30488.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30488/30488-h/30488-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/30488.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30488.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30488.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 30756,
+        "title": "The Stones of Venice, Volume 3 (of 3)",
+        "authors": [
+            {
+                "name": "Ruskin, John",
+                "birth_year": 1819,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Architecture -- Italy -- Venice"
+        ],
+        "bookshelves": [
+            "Italy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/30756/30756-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30756/30756-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30756.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30756.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30756/pg30756.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/30756.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30756.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30756.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 32091,
+        "title": "Down-Adown-Derry: A Book of Fairy Poems",
+        "authors": [
+            {
+                "name": "De la Mare, Walter",
+                "birth_year": 1873,
+                "death_year": 1956
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children -- Conduct of life -- Juvenile poetry",
+            "Children's poetry",
+            "Conduct of life -- Juvenile poetry",
+            "Fairy poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32091.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32091.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32091/pg32091.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32091/32091.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32091/32091-h/32091-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32091/32091-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/32091.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/32091.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32091.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 32241,
+        "title": "Dickens' Stories About Children Every Child Can Read",
+        "authors": [
+            {
+                "name": "Dickens, Charles",
+                "birth_year": 1812,
+                "death_year": 1870
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children -- Juvenile fiction",
+            "Children's stories, English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32241.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32241.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32241/pg32241.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32241/32241-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32241/32241-h/32241-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32241/32241.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/32241.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/32241.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32241.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 33271,
+        "title": "The Riddle of the Night",
+        "authors": [
+            {
+                "name": "Hanshew, Thomas W.",
+                "birth_year": 1857,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cleek, Hamilton (Fictitious character) -- Fiction",
+            "Detective and mystery stories",
+            "Murder -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33271.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33271.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33271/33271-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33271/33271.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33271/pg33271.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33271/33271-h/33271-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/33271.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/33271.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33271.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 33614,
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Bohemia\" to \"Borgia, Francis\": Volume 4, Slice 2",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Encyclopedias and dictionaries"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33614.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33614.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33614/pg33614.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33614/33614-h/33614-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33614/33614.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33614/33614-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/33614.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/33614.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33614.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 33907,
+        "title": "One-Act Plays by Modern Authors",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "American drama",
+            "English drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33907.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33907.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33907/pg33907.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33907/33907.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33907/33907-h/33907-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33907/33907-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/33907.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33907.rdf",
+            "audio/midi": "https://www.gutenberg.org/files/33907/33907-h/music/redhairedman.mid",
+            "text/plain": "https://www.gutenberg.org/ebooks/33907.txt.utf-8"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 34076,
+        "title": "Fox Trapping: A Book of Instruction Telling How to Trap, Snare, Poison and Shoot: A Valuable Book for Trappers",
+        "authors": [
+            {
+                "name": "Harding, A. R. (Arthur Robert)",
+                "birth_year": 1871,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fox trapping"
+        ],
+        "bookshelves": [
+            "Animal",
+            "Animals-Wild-Trapping"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34076.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/34076.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/34076/pg34076.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34076/34076-h/34076-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34076/34076.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/34076.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/34076.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/34076.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 34384,
+        "title": "The Philippine Islands, 1493-1898, Volume 42, 1670-1700: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Demarcation line of Alexander VI",
+            "Missions -- Philippines",
+            "Philippines -- Discovery and exploration",
+            "Philippines -- History -- Sources"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/plain": "https://www.gutenberg.org/ebooks/34384.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/34384/34384-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34384/34384-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34384.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/34384.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/34384/pg34384.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/34384.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/34384.rdf"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 34570,
+        "title": "Ginseng and Other Medicinal Plants: A Book of Valuable Information for Growers as Well as Collectors of Medicinal Roots, Barks, Leaves, Etc.",
+        "authors": [
+            {
+                "name": "Harding, A. R. (Arthur Robert)",
+                "birth_year": 1871,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Ginseng",
+            "Materia medica, Vegetable",
+            "Medicinal plants -- United States"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34570.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/34570.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34570/34570.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/34570/pg34570.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34570/34570-h/34570-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/34570.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/34570.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/34570.txt.utf-8"
+        },
+        "download_count": 108
+    },
+    {
+        "id": 35630,
+        "title": "A Philosophical Dictionary, Volume 10",
+        "authors": [
+            {
+                "name": "Voltaire",
+                "birth_year": 1694,
+                "death_year": 1778
+            }
+        ],
+        "translators": [
+            {
+                "name": "Fleming, William F.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Criticism (Philosophy)",
+            "Philosophy -- Dictionaries"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35630.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35630.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35630/pg35630.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/35630/35630-0.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35630/35630-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35630/35630.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/35630/35630-h/35630-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/35630.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35630.rdf"
+        },
+        "download_count": 108
+    }
+]

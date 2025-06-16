@@ -1,0 +1,1191 @@
+[
+    {
+        "id": 21,
+        "title": "Aesop's Fables: Translated by George Fyler Townsend",
+        "authors": [
+            {
+                "name": "Aesop",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Townsend, George Fyler",
+                "birth_year": 1814,
+                "death_year": 1900
+            }
+        ],
+        "subjects": [
+            "Aesop's fables -- Translations into English",
+            "Fables, Greek -- Translations into English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/21.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/21.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/21.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/21/pg21.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/21/21-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/21.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/21/21-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/21.rdf"
+        },
+        "download_count": 2165
+    },
+    {
+        "id": 834,
+        "title": "The Memoirs of Sherlock Holmes",
+        "authors": [
+            {
+                "name": "Doyle, Arthur Conan",
+                "birth_year": 1859,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Detective and mystery stories, English",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+            "Detective Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/834.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/834.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/834.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/834/834-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/834/pg834.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/834.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/834/834-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/834.rdf"
+        },
+        "download_count": 2163
+    },
+    {
+        "id": 27761,
+        "title": "Hamlet, Prince of Denmark",
+        "authors": [
+            {
+                "name": "Shakespeare, William",
+                "birth_year": 1564,
+                "death_year": 1616
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Denmark -- Drama",
+            "Fathers -- Death -- Drama",
+            "Hamlet (Legendary character) -- Drama",
+            "Kings and rulers -- Succession -- Drama",
+            "Murder victims' families -- Drama",
+            "Princes -- Drama",
+            "Revenge -- Drama",
+            "Tragedies"
+        ],
+        "bookshelves": [
+            "Best Books Ever Listings"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27761.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27761.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/27761/pg27761.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/27761/27761-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27761/27761.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/27761/27761-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/27761/27761-h/27761-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/27761.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27761.rdf"
+        },
+        "download_count": 2163
+    },
+    {
+        "id": 52319,
+        "title": "The Genealogy of Morals: The Complete Works, Volume Thirteen, edited by Dr. Oscar Levy.",
+        "authors": [
+            {
+                "name": "Nietzsche, Friedrich Wilhelm",
+                "birth_year": 1844,
+                "death_year": 1900
+            }
+        ],
+        "translators": [
+            {
+                "name": "Samuel, Horace Barnett",
+                "birth_year": 1883,
+                "death_year": 1950
+            },
+            {
+                "name": "Kennedy, J. M. (John McFarland)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Ethics"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52319.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52319.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52319/pg52319.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/52319/52319-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/52319.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52319.rdf"
+        },
+        "download_count": 2163
+    },
+    {
+        "id": 910,
+        "title": "White Fang",
+        "authors": [
+            {
+                "name": "London, Jack",
+                "birth_year": 1876,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Canada, Northern -- Fiction",
+            "Wolfdogs -- Fiction"
+        ],
+        "bookshelves": [
+            "Adventure",
+            "Movie Books"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/910.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/910.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/910.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/910/910-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/910/pg910.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/910/910-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/910.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/910.rdf"
+        },
+        "download_count": 2157
+    },
+    {
+        "id": 1063,
+        "title": "The Cask of Amontillado",
+        "authors": [
+            {
+                "name": "Poe, Edgar Allan",
+                "birth_year": 1809,
+                "death_year": 1849
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Horror tales, American",
+            "Revenge -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1063.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1063.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1063/pg1063.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/1063/1063-h/1063-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1063/1063.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1063.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/1063.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1063.rdf"
+        },
+        "download_count": 2157
+    },
+    {
+        "id": 3618,
+        "title": "Arms and the Man",
+        "authors": [
+            {
+                "name": "Shaw, Bernard",
+                "birth_year": 1856,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bulgaria -- Drama",
+            "Italians -- Bulgaria -- Drama",
+            "Love -- Drama",
+            "Man-woman relationships -- Drama",
+            "Serbo-Bulgarian War, 1885 -- Drama",
+            "Soldiers -- Bulgaria -- Drama",
+            "War -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3618.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3618.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/3618.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3618/pg3618.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/3618/3618-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3618/3618-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/3618.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3618.rdf"
+        },
+        "download_count": 2156
+    },
+    {
+        "id": 139,
+        "title": "The Lost World",
+        "authors": [
+            {
+                "name": "Doyle, Arthur Conan",
+                "birth_year": 1859,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Challenger, Professor (Fictitious character) -- Fiction",
+            "Dinosaurs -- Fiction",
+            "Fantasy fiction",
+            "Prehistoric peoples -- Fiction",
+            "South America -- Fiction"
+        ],
+        "bookshelves": [
+            "Science Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/139.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/139.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/139/139-h/139-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/139/pg139.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/139/139.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/139.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/139.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/139.rdf"
+        },
+        "download_count": 2140
+    },
+    {
+        "id": 19994,
+        "title": "The Aesop for Children: With pictures by Milo Winter",
+        "authors": [
+            {
+                "name": "Aesop",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Aesop's fables -- Adaptations",
+            "Fables",
+            "Folklore"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19994.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/19994.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/19994/pg19994.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/19994/19994-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/19994/19994-h/19994-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/19994/19994.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/19994.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/19994.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/19994.rdf"
+        },
+        "download_count": 2124
+    },
+    {
+        "id": 29728,
+        "title": "Cookery and Dining in Imperial Rome",
+        "authors": [
+            {
+                "name": "Apicius",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Vehling, Joseph Dommers",
+                "birth_year": 1879,
+                "death_year": 1950
+            }
+        ],
+        "subjects": [
+            "Cookbooks",
+            "Cooking, Roman -- Early works to 1800"
+        ],
+        "bookshelves": [
+            "Cookbooks and Cooking"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29728.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/29728.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/29728/pg29728.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29728/29728-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/29728/29728-h/29728-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/29728/29728.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/29728/29728-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/29728.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/29728.rdf"
+        },
+        "download_count": 2117
+    },
+    {
+        "id": 71666,
+        "title": "You can't scare me!",
+        "authors": [
+            {
+                "name": "Farrell, Henry",
+                "birth_year": 1920,
+                "death_year": 2006
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fantasy fiction",
+            "Science fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71666/pg71666.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71666.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71666.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71666.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71666.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71666.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71666/71666-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71666/71666-0.txt"
+        },
+        "download_count": 2109
+    },
+    {
+        "id": 3176,
+        "title": "The Innocents Abroad",
+        "authors": [
+            {
+                "name": "Twain, Mark",
+                "birth_year": 1835,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Europe -- Description and travel",
+            "Middle East -- Description and travel",
+            "Voyages and travels"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3176.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/3176.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/3176/3176-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3176/3176-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/3176.txt.utf-8",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3176.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3176/pg3176.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3176.rdf"
+        },
+        "download_count": 2108
+    },
+    {
+        "id": 35690,
+        "title": "Omens and Superstitions of Southern India",
+        "authors": [
+            {
+                "name": "Thurston, Edgar",
+                "birth_year": 1855,
+                "death_year": 1935
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dravidians -- Folklore",
+            "Folklore -- India",
+            "Occultism -- India, South",
+            "Omens",
+            "Superstition -- India, South"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35690.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35690.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35690/pg35690.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/35690/35690-h/35690-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35690/35690-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35690/35690.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35690.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35690.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/35690.txt.utf-8"
+        },
+        "download_count": 2104
+    },
+    {
+        "id": 9105,
+        "title": "Reflections; or Sentences and Moral Maxims",
+        "authors": [
+            {
+                "name": "La Rochefoucauld, Fran\u00e7ois duc de",
+                "birth_year": 1613,
+                "death_year": 1680
+            }
+        ],
+        "translators": [
+            {
+                "name": "Friswell, J. Hain (James Hain)",
+                "birth_year": 1825,
+                "death_year": 1878
+            },
+            {
+                "name": "Willis Bund, J. W. (John William)",
+                "birth_year": 1843,
+                "death_year": 1928
+            }
+        ],
+        "subjects": [
+            "Maxims"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/9105.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/9105.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/9105/pg9105.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/9105/9105-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/9105/9105.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/9105/9105-h/9105-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/9105.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/9105.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/9105.txt.utf-8"
+        },
+        "download_count": 2096
+    },
+    {
+        "id": 52263,
+        "title": "The Twilight of the Idols; or, How to Philosophize with the Hammer. The Antichrist: Complete Works, Volume Sixteen",
+        "authors": [
+            {
+                "name": "Nietzsche, Friedrich Wilhelm",
+                "birth_year": 1844,
+                "death_year": 1900
+            }
+        ],
+        "translators": [
+            {
+                "name": "Ludovici, Anthony M. (Anthony Mario)",
+                "birth_year": 1882,
+                "death_year": 1971
+            }
+        ],
+        "subjects": [
+            "Philosophy"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52263.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/52263.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/52263.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/52263/52263-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/52263/pg52263.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/52263.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52263/52263-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/52263.rdf"
+        },
+        "download_count": 2089
+    },
+    {
+        "id": 24022,
+        "title": "A Christmas Carol",
+        "authors": [
+            {
+                "name": "Dickens, Charles",
+                "birth_year": 1812,
+                "death_year": 1870
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Christmas stories",
+            "Ghost stories",
+            "London (England) -- Fiction",
+            "Misers -- Fiction",
+            "Poor families -- Fiction",
+            "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+            "Sick children -- Fiction"
+        ],
+        "bookshelves": [
+            "Children's Literature",
+            "Christmas"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24022.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/24022.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/24022/pg24022.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/24022/24022-8.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/24022/24022-0.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/24022/24022-h/24022-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/24022.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24022/24022.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/24022.rdf"
+        },
+        "download_count": 2086
+    },
+    {
+        "id": 4276,
+        "title": "North and South",
+        "authors": [
+            {
+                "name": "Gaskell, Elizabeth Cleghorn",
+                "birth_year": 1810,
+                "death_year": 1865
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bildungsromans",
+            "Children of clergy -- Fiction",
+            "Didactic fiction",
+            "England, Northern -- Fiction",
+            "Mothers and daughters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4276.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4276.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4276/pg4276.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/4276/4276-h/4276-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4276/4276-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/4276.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4276.rdf"
+        },
+        "download_count": 2085
+    },
+    {
+        "id": 4705,
+        "title": "A Treatise of Human Nature",
+        "authors": [
+            {
+                "name": "Hume, David",
+                "birth_year": 1711,
+                "death_year": 1776
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Knowledge, Theory of"
+        ],
+        "bookshelves": [
+            "Philosophy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4705.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/4705.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/4705.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/4705/4705-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/4705.txt.utf-8",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/4705/pg4705.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4705/4705-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/4705.rdf"
+        },
+        "download_count": 2085
+    },
+    {
+        "id": 55387,
+        "title": "One Hundred Proofs That the Earth Is Not a Globe",
+        "authors": [
+            {
+                "name": "Carpenter, William",
+                "birth_year": 1830,
+                "death_year": 1896
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Earth (Planet) -- Miscellanea"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55387.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/55387.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/55387/pg55387.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/55387/55387-h/55387-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/55387/55387.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/55387.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/55387.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/55387.txt.utf-8"
+        },
+        "download_count": 2063
+    },
+    {
+        "id": 18247,
+        "title": "The Last Man",
+        "authors": [
+            {
+                "name": "Shelley, Mary Wollstonecraft",
+                "birth_year": 1797,
+                "death_year": 1851
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "End of the world -- Fiction",
+            "Epidemics -- Fiction",
+            "Science fiction",
+            "Twenty-first century -- Fiction"
+        ],
+        "bookshelves": [
+            "Precursors of Science Fiction",
+            "Science Fiction by Women"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18247.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/18247.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18247.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18247/pg18247.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/18247/18247-0.zip",
+            "text/plain": "https://www.gutenberg.org/ebooks/18247.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18247/18247-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18247.rdf"
+        },
+        "download_count": 2060
+    },
+    {
+        "id": 50922,
+        "title": "Perpetual Peace: A Philosophical Essay",
+        "authors": [
+            {
+                "name": "Kant, Immanuel",
+                "birth_year": 1724,
+                "death_year": 1804
+            }
+        ],
+        "translators": [
+            {
+                "name": "Smith, Mary Campbell",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Peace"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50922.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50922.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50922/pg50922.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50922/50922-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/50922.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/50922/50922-h/50922-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50922.rdf"
+        },
+        "download_count": 2043
+    },
+    {
+        "id": 13726,
+        "title": "Apology, Crito, and Phaedo of Socrates",
+        "authors": [
+            {
+                "name": "Plato",
+                "birth_year": -428,
+                "death_year": -348
+            }
+        ],
+        "translators": [
+            {
+                "name": "Cary, Henry",
+                "birth_year": 1804,
+                "death_year": 1870
+            }
+        ],
+        "subjects": [
+            "Socrates, 470 BC-399 BC"
+        ],
+        "bookshelves": [
+            "Harvard Classics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13726.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13726.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13726/13726-h/13726-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13726/13726-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13726/pg13726.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/13726.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13726/13726.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/13726.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13726.rdf"
+        },
+        "download_count": 2042
+    },
+    {
+        "id": 59,
+        "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+        "authors": [
+            {
+                "name": "Descartes, Ren\u00e9",
+                "birth_year": 1596,
+                "death_year": 1650
+            }
+        ],
+        "translators": [
+            {
+                "name": "Veitch, John",
+                "birth_year": 1829,
+                "death_year": 1894
+            }
+        ],
+        "subjects": [
+            "Methodology",
+            "Science -- Methodology"
+        ],
+        "bookshelves": [
+            "Harvard Classics",
+            "Philosophy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/59.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/59.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/59.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/59/59-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/59/pg59.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/59/59-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/59.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/59.rdf"
+        },
+        "download_count": 2035
+    },
+    {
+        "id": 146,
+        "title": "A Little Princess: Being the whole story of Sara Crewe now told for the first time",
+        "authors": [
+            {
+                "name": "Burnett, Frances Hodgson",
+                "birth_year": 1849,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boarding schools -- Juvenile fiction",
+            "Girls -- Juvenile fiction",
+            "London (England) -- Juvenile fiction",
+            "Orphans -- Juvenile fiction",
+            "Schools -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Literature",
+            "School Stories"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/146.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/146.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/146/pg146.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/146/146.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/146/146-h/146-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/146.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/146.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/146.rdf"
+        },
+        "download_count": 2032
+    },
+    {
+        "id": 376,
+        "title": "A Journal of the Plague Year: Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London",
+        "authors": [
+            {
+                "name": "Defoe, Daniel",
+                "birth_year": null,
+                "death_year": 1731
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Great Fire, London, England, 1666 -- Fiction",
+            "Historical fiction",
+            "London (England) -- History -- 17th century -- Fiction",
+            "Plague -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/plain": "https://www.gutenberg.org/ebooks/376.txt.utf-8",
+            "application/octet-stream": "https://www.gutenberg.org/files/376/376-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/376/376-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/376.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/376.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/376/pg376.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/376.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/376.rdf"
+        },
+        "download_count": 2031
+    },
+    {
+        "id": 2232,
+        "title": "The Duchess of Malfi",
+        "authors": [
+            {
+                "name": "Webster, John",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English drama -- 17th century",
+            "Retribution -- Drama",
+            "Siblings -- Drama",
+            "Tragedies"
+        ],
+        "bookshelves": [
+            "Harvard Classics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2232.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/2232.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/2232/pg2232.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2232/2232.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/2232/2232-h/2232-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/2232.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/2232.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/2232.txt.utf-8"
+        },
+        "download_count": 2031
+    },
+    {
+        "id": 71592,
+        "title": "Survival factor",
+        "authors": [
+            {
+                "name": "De Vet, Charles V.",
+                "birth_year": 1911,
+                "death_year": 1997
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Life on other planets -- Fiction",
+            "Science fiction",
+            "Short stories",
+            "Space ships -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71592/pg71592.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71592.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71592.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71592.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71592.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71592.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71592/71592-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71592/71592-0.txt"
+        },
+        "download_count": 2023
+    },
+    {
+        "id": 1642,
+        "title": "Euthyphro",
+        "authors": [
+            {
+                "name": "Plato",
+                "birth_year": -428,
+                "death_year": -348
+            }
+        ],
+        "translators": [
+            {
+                "name": "Jowett, Benjamin",
+                "birth_year": 1817,
+                "death_year": 1893
+            }
+        ],
+        "subjects": [
+            "Classical literature",
+            "Philosophy, Ancient",
+            "Piety -- Early works to 1800",
+            "Socrates, 470 BC-399 BC"
+        ],
+        "bookshelves": [
+            "Philosophy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1642.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1642.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1642/pg1642.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1642/1642.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1642/1642-h/1642-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/1642.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1642.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/1642.txt.utf-8"
+        },
+        "download_count": 2020
+    },
+    {
+        "id": 503,
+        "title": "The Blue Fairy Book",
+        "authors": [
+            {
+                "name": "Lang, Andrew",
+                "birth_year": 1844,
+                "death_year": 1912
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fairy tales",
+            "Folklore"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/503.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/503.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/503/pg503.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/503/503.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/503/503-h/503-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/503/503-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/503.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/503.rdf"
+        },
+        "download_count": 2010
+    },
+    {
+        "id": 3186,
+        "title": "The Mysterious Stranger, and Other Stories",
+        "authors": [
+            {
+                "name": "Twain, Mark",
+                "birth_year": 1835,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Humorous stories, American",
+            "Short stories",
+            "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+            "Best Books Ever Listings"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3186.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3186.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/3186/3186-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3186/pg3186.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/3186/3186-h/3186-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/3186.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3186.rdf"
+        },
+        "download_count": 2010
+    },
+    {
+        "id": 68283,
+        "title": "The call of Cthulhu",
+        "authors": [
+            {
+                "name": "Lovecraft, H. P. (Howard Phillips)",
+                "birth_year": 1890,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cthulhu (Fictitious character) -- Fiction",
+            "Horror tales"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68283.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68283.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68283.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/68283/68283-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68283/pg68283.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/68283.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68283.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68283/68283-0.txt"
+        },
+        "download_count": 2002
+    },
+    {
+        "id": 8300,
+        "title": "The Bible, Douay-Rheims, Complete: The Challoner Revision",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Bible"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/8300/8300-h.zip",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8300.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8300.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/8300.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8300/pg8300.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8300/8300-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8300.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/8300.txt.utf-8"
+        },
+        "download_count": 1991
+    }
+]

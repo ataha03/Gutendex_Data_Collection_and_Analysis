@@ -1,0 +1,1090 @@
+[
+    {
+        "id": 11925,
+        "title": "Elementare Arithmetik und Algebra",
+        "authors": [
+            {
+                "name": "Schubert, Hermann",
+                "birth_year": 1848,
+                "death_year": 1911
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Algebra",
+            "Mathematics"
+        ],
+        "bookshelves": [
+            "DE Sachbuch",
+            "Mathematics"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11925/pg11925.cover.medium.jpg",
+            "application/prs.tex": "https://www.gutenberg.org/files/11925/11925-t.tex",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11925.rdf",
+            "application/pdf": "https://www.gutenberg.org/files/11925/11925-p.pdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 64387,
+        "title": "Egyptian Art: Studies",
+        "authors": [
+            {
+                "name": "Maspero, G. (Gaston)",
+                "birth_year": 1846,
+                "death_year": 1916
+            }
+        ],
+        "translators": [
+            {
+                "name": "Lee, Elizabeth",
+                "birth_year": 1857,
+                "death_year": 1920
+            }
+        ],
+        "subjects": [
+            "Art, Egyptian",
+            "Egypt -- Antiquities",
+            "Sculpture, Egyptian"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/64387.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/64387.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/64387.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/64387/pg64387.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/64387/64387-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/64387.rdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 64420,
+        "title": "Jonah of the Jove-Run",
+        "authors": [
+            {
+                "name": "Bradbury, Ray",
+                "birth_year": 1920,
+                "death_year": 2012
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Older men -- Fiction",
+            "Psychic ability -- Fiction",
+            "Science fiction",
+            "Short stories",
+            "Space ships -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/64420.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/64420.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/64420/pg64420.cover.medium.jpg",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/64420/64420-h/64420-h.htm",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/64420/64420-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/64420.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/64420.rdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 64703,
+        "title": "Tested Recipes: Waterless Cooking for Better Meals, Better Health",
+        "authors": [
+            {
+                "name": "Tested Recipe Institute (New York, N.Y.)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cooking, American",
+            "Cookware"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/64703.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/64703.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/64703/pg64703.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/64703/64703-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/64703/64703-h/64703-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/64703.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/64703.rdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 65444,
+        "title": "Die beiden Freundinnen und ihr Giftmord",
+        "authors": [
+            {
+                "name": "D\u00f6blin, Alfred",
+                "birth_year": 1878,
+                "death_year": 1957
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Klein, Elli",
+            "Murder -- Germany -- Berlin -- Case studies",
+            "Nebbe, Grete",
+            "Poisoners -- Germany -- Berlin -- History -- 20th century",
+            "Trials (Murder) -- Germany -- Berlin -- History -- 20th century",
+            "Women murderers -- Germany -- Berlin -- History -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65444.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/65444.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/65444/65444-h/65444-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/65444/pg65444.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/65444/65444-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/65444.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/65444.rdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 65921,
+        "title": "Highways and Byways in Lincolnshire",
+        "authors": [
+            {
+                "name": "Rawnsley, W. F. (Willingham Franklin)",
+                "birth_year": 1845,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Lincolnshire (England) -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65921.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/65921.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/65921/65921-h/65921-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/65921/pg65921.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/65921/65921-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/65921.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/65921.rdf"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 65965,
+        "title": "The Jade Story Book; Stories from the Orient",
+        "authors": [
+            {
+                "name": "Coussens, Penrhyn Wingfield",
+                "birth_year": 1873,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Tales -- Asia"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65965.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/65965.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/65965/pg65965.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/65965/65965-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/65965/65965-h/65965-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/65965.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/65965.html.images"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 66743,
+        "title": "The Sacred Beetle, and Others",
+        "authors": [
+            {
+                "name": "Fabre, Jean-Henri",
+                "birth_year": 1823,
+                "death_year": 1915
+            }
+        ],
+        "translators": [
+            {
+                "name": "Teixeira de Mattos, Alexander",
+                "birth_year": 1865,
+                "death_year": 1921
+            }
+        ],
+        "subjects": [
+            "Beetles"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66743.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66743.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66743.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66743/66743-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66743/pg66743.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/66743.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66743.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66743/66743-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 66846,
+        "title": "\"1914\"",
+        "authors": [
+            {
+                "name": "Oxenham, John",
+                "birth_year": 1852,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66846.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66846.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66846.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/66846/66846-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66846/pg66846.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/66846.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66846.rdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66846/66846-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 66902,
+        "title": "Los desposados: Historia milanesa del siglo XVII - Tomo 1",
+        "authors": [
+            {
+                "name": "Manzoni, Alessandro",
+                "birth_year": 1785,
+                "death_year": 1873
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Historical fiction",
+            "Italian fiction -- Translations into Spanish",
+            "Italy -- History -- 1559-1789 -- Fiction",
+            "Milan (Italy) -- Fiction",
+            "Plague -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66902.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/66902.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/66902.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/66902/pg66902.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/66902/66902-0.zip",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/66902.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/66902.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66902/66902-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 67370,
+        "title": "From Missouri",
+        "authors": [
+            {
+                "name": "Grey, Zane",
+                "birth_year": 1872,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cowboys -- Fiction",
+            "Man-woman relationships -- Fiction",
+            "Ranch life -- Fiction",
+            "Western stories",
+            "Women teachers -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67370.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/67370.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/67370.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/67370/pg67370.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/67370/67370-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67370/67370-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/67370.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/67370.txt.utf-8"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 67925,
+        "title": "The Prose Works of Percy Bysshe Shelley, Vol. 1 [of 2]",
+        "authors": [
+            {
+                "name": "Shelley, Percy Bysshe",
+                "birth_year": 1792,
+                "death_year": 1822
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English prose literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67925.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/67925.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/67925.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/67925/67925-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/67925/pg67925.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/67925.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/67925.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67925/67925-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 68120,
+        "title": "Army Pulse Radiation Facility",
+        "authors": [
+            {
+                "name": "U.S. Army Ballistic Research Laboratory",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Army Pulse Radiation Facility"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68120.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/68120.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/68120.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/68120/68120-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/68120/pg68120.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/68120.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/68120.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68120/68120-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 69502,
+        "title": "Hans Holbein the Younger, Volume 2 (of 2)",
+        "authors": [
+            {
+                "name": "Chamberlain, Arthur B. (Arthur Bensley)",
+                "birth_year": null,
+                "death_year": 1931
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Holbein, Hans, 1497-1543 -- Criticism and interpretation",
+            "Painters -- Germany -- Biography"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69502/pg69502.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69502.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69502.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69502.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69502.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69502.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69502/69502-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69502/69502-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 69733,
+        "title": "Memory",
+        "authors": [
+            {
+                "name": "Sturgeon, Theodore",
+                "birth_year": 1918,
+                "death_year": 1985
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Business intelligence -- Fiction",
+            "Man-woman relationships -- Fiction",
+            "Science fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69733/pg69733.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69733.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69733.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69733.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69733.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69733.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69733/69733-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69733/69733-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 69817,
+        "title": "A kiss for Cinderella: A comedy",
+        "authors": [
+            {
+                "name": "Barrie, J. M. (James Matthew)",
+                "birth_year": 1860,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Comedies",
+            "Fantasy drama",
+            "London (England) -- Drama",
+            "Man-woman relationships -- Drama",
+            "World War, 1914-1918 -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/69817/pg69817.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/69817.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/69817.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69817.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/69817.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/69817.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/69817/69817-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69817/69817-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 70247,
+        "title": "Second landing",
+        "authors": [
+            {
+                "name": "Leinster, Murray",
+                "birth_year": 1896,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Human-alien encounters -- Fiction",
+            "Outer space -- Exploration -- Fiction",
+            "Science fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70247/pg70247.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70247.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70247.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70247.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70247.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70247.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70247/70247-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70247/70247-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 70318,
+        "title": "Indian Nature Myths",
+        "authors": [
+            {
+                "name": "Cowles, Julia Darrow",
+                "birth_year": 1862,
+                "death_year": 1919
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indian mythology -- North America -- Juvenile literature",
+            "Indians of North America -- Folklore -- Juvenile literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70318/pg70318.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70318.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70318.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70318.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70318.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70318.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70318/70318-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70318/70318-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 70391,
+        "title": "Martians, keep out!",
+        "authors": [
+            {
+                "name": "Leiber, Fritz",
+                "birth_year": 1910,
+                "death_year": 1992
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Earth (Planet) -- Fiction",
+            "Journalists -- Fiction",
+            "Martians -- Fiction",
+            "Science fiction",
+            "Short stories",
+            "Slavery -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70391/pg70391.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70391.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70391.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70391.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70391.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70391.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70391/70391-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70391/70391-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 70836,
+        "title": "Too close fisted, and other stories",
+        "authors": [
+            {
+                "name": "Lamb, Ruth",
+                "birth_year": 1829,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Domestic fiction, English",
+            "Short stories, English"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70836/pg70836.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70836.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70836.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70836.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70836.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70836.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70836/70836-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70836/70836-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 70928,
+        "title": "A book of Christmas verse",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Carols",
+            "Christmas -- Poetry",
+            "Christmas poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/70928/pg70928.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/70928.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/70928.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70928.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/70928.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/70928.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/70928/70928-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70928/70928-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71081,
+        "title": "An account of a useful discovery to distill double the usual quantity of sea-water, by blowing showers of air up through the distilling liquor : $b and an account of the great benefit of ventilators in many instances, in preserving the health and lives of people, in slave and other transport ships ... also an account of the good effect of blowing showers of air up through milk, thereby to cure the ill taste which is occasioned by some kinds of food of cows.",
+        "authors": [
+            {
+                "name": "Hales, Stephen",
+                "birth_year": 1677,
+                "death_year": 1761
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Seawater -- Distillation",
+            "Ships -- Heating and ventilation"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71081/pg71081.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71081.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71081.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71081.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71081.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71081.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71081/71081-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71081/71081-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71141,
+        "title": "The legend of Perseus, Volume 3 (of 3) : $b Andromeda. Medusa.",
+        "authors": [
+            {
+                "name": "Hartland, Edwin Sidney",
+                "birth_year": 1848,
+                "death_year": 1927
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Andromeda, Princess, daughter of Cepheus, King of Ethiopia (Mythological character)",
+            "Folklore -- Classification",
+            "Medusa (Gorgon)",
+            "Perseus (Greek mythological character)",
+            "Rites and ceremonies"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71141/pg71141.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71141.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71141.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71141.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71141.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71141.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71141/71141-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71141/71141-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71199,
+        "title": "Les voix qui crient dans le d\u00e9sert : $b souvenirs d'Afrique",
+        "authors": [
+            {
+                "name": "Psichari, Ernest",
+                "birth_year": 1883,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Africa -- Description and travel",
+            "Africa, West -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71199/pg71199.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71199.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71199.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71199.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71199.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71199.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71199/71199-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71199/71199-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71244,
+        "title": "Nelly : $b or, The best inheritance.",
+        "authors": [
+            {
+                "name": "Guernsey, Lucy Ellen",
+                "birth_year": 1826,
+                "death_year": 1899
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Christian life -- Juvenile fiction",
+            "Faith -- Juvenile fiction",
+            "Grandmothers -- Juvenile fiction",
+            "Honesty -- Juvenile fiction",
+            "Intergenerational relations -- Juvenile fiction",
+            "Irish Americans -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71244/pg71244.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71244.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71244.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71244.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71244.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71244.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71244/71244-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71244/71244-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71259,
+        "title": "A tour through Holland : $b along the right and left banks of the Rhine, to the south of Germany, in the summer and autumn of 1806",
+        "authors": [
+            {
+                "name": "Carr, John, Sir",
+                "birth_year": 1772,
+                "death_year": 1832
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Netherlands -- Description and travel",
+            "Rhine River Valley -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71259/pg71259.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71259.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71259.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71259.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71259.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71259.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71259/71259-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71259/71259-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71262,
+        "title": "The magazine of history with notes and queries, Vol. II, No. 6, December 1905",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "History -- Periodicals",
+            "United States -- History -- Periodicals"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71262/pg71262.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71262.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71262.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71262.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71262.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71262.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71262/71262-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71262/71262-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 71377,
+        "title": "Maurice and the bay mare",
+        "authors": [
+            {
+                "name": "Knibbs, Henry Herbert",
+                "birth_year": 1874,
+                "death_year": 1945
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Horsemen and horsewomen -- Fiction",
+            "Horses -- Fiction",
+            "Short stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71377/pg71377.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71377.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71377.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71377.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71377.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71377.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71377/71377-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71377/71377-0.txt"
+        },
+        "download_count": 64
+    },
+    {
+        "id": 448,
+        "title": "The Psychology of Revolution",
+        "authors": [
+            {
+                "name": "Le Bon, Gustave",
+                "birth_year": 1841,
+                "death_year": 1931
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "France -- History -- Revolution, 1789-1799 -- Causes",
+            "Revolutions",
+            "Social psychology"
+        ],
+        "bookshelves": [
+            "Psychology"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/448.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/448.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/448/pg448.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/448/448.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/448.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/448.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/448.rdf"
+        },
+        "download_count": 63
+    },
+    {
+        "id": 563,
+        "title": "The Planet Mars and Its Inhabitants, a Psychic Revelation",
+        "authors": [
+            {
+                "name": "Kennon, J. L.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Mars (Planet) -- Miscellanea",
+            "Spiritualism"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/563.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/563.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/563/pg563.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/563/563-h/563-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/563/563.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/563.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/563.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/563.rdf"
+        },
+        "download_count": 63
+    },
+    {
+        "id": 1078,
+        "title": "The Scouts of the Valley",
+        "authors": [
+            {
+                "name": "Altsheler, Joseph A. (Joseph Alexander)",
+                "birth_year": 1862,
+                "death_year": 1919
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Chemung River Valley (N.Y. and Pa.) -- Fiction",
+            "Historical fiction",
+            "Wyoming Valley (Pa.) -- Fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1078.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1078.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1078/1078-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1078/1078.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1078/1078-h/1078-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1078/pg1078.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/1078.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1078.rdf"
+        },
+        "download_count": 63
+    },
+    {
+        "id": 1118,
+        "title": "Much Ado about Nothing",
+        "authors": [
+            {
+                "name": "Shakespeare, William",
+                "birth_year": 1564,
+                "death_year": 1616
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Comedies",
+            "Conspiracies -- Drama",
+            "Courtship -- Drama",
+            "Messina (Italy) -- Drama",
+            "Rejection (Psychology) -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1118.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1118.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1118/1118.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1118/pg1118.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1118.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/1118.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/1118.txt.utf-8"
+        },
+        "download_count": 63
+    }
+]

@@ -1,0 +1,1142 @@
+[
+    {
+        "id": 11853,
+        "title": "U.S. Copyright Renewals, 1976 January - June",
+        "authors": [
+            {
+                "name": "Library of Congress. Copyright Office",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Copyright -- United States -- Catalogs"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11853.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11853.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11853/11853-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11853/pg11853.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/11853.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/11853.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11853.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 12051,
+        "title": "Dick Sand: A Captain at Fifteen",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Cooks -- Fiction",
+            "Enslaved persons -- Fiction",
+            "Sailors -- Fiction",
+            "Ship captains -- Fiction",
+            "Voyages and travels -- Fiction",
+            "Whales -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12051.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12051.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12051/pg12051.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12051/12051.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12051/12051-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/12051.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/12051.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12051.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 12272,
+        "title": "The History of Puerto Rico: From the Spanish Discovery to the American Occupation",
+        "authors": [
+            {
+                "name": "Van Middeldyk, R. A. (Rudolph Adams)",
+                "birth_year": 1832,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Puerto Rico -- History"
+        ],
+        "bookshelves": [
+            "Children's History"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12272.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12272.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12272/12272-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12272/12272.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12272/pg12272.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/12272.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/12272.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12272.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 12414,
+        "title": "The Inferno",
+        "authors": [
+            {
+                "name": "Barbusse, Henri",
+                "birth_year": 1873,
+                "death_year": 1935
+            }
+        ],
+        "translators": [
+            {
+                "name": "O'Brien, Edward J. (Edward Joseph)",
+                "birth_year": 1890,
+                "death_year": 1941
+            }
+        ],
+        "subjects": [
+            "France -- Fiction",
+            "Voyeurism -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12414.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12414.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12414/pg12414.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12414/12414-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12414/12414.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/12414.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/12414.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12414.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 12462,
+        "title": "A Compilation of the Messages and Papers of the Presidents. Volume 6, part 1: Abraham Lincoln",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Lincoln, Abraham, 1809-1865",
+            "Presidents -- United States",
+            "United States -- History -- Sources",
+            "United States -- Politics and government"
+        ],
+        "bookshelves": [
+            "US Civil War"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12462.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12462.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12462/pg12462.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/12462/12462-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/12462/12462-h/12462-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12462/12462.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/12462.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/12462.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12462.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 12538,
+        "title": "Account of a Tour in Normandy, Volume 2",
+        "authors": [
+            {
+                "name": "Turner, Dawson",
+                "birth_year": 1775,
+                "death_year": 1858
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Architecture -- France -- Normandy",
+            "Normandy (France) -- Antiquities",
+            "Normandy (France) -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/12538/12538-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/12538/12538-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12538.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/12538.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/12538/pg12538.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/12538.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/12538.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/12538.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 13089,
+        "title": "The Making of Arguments",
+        "authors": [
+            {
+                "name": "Gardiner, J. H. (John Hays)",
+                "birth_year": 1863,
+                "death_year": 1913
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Debates and debating"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13089.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13089.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13089/13089.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13089/13089-h/13089-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13089/pg13089.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13089/13089-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/13089.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13089.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13089.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 13603,
+        "title": "The Hawaiian Romance Of Laieikawai",
+        "authors": [
+            {
+                "name": "Haleole, S. N.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Beckwith, Martha Warren",
+                "birth_year": 1871,
+                "death_year": 1959
+            }
+        ],
+        "subjects": [
+            "Tales -- Hawaii"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13603.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13603.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13603/pg13603.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13603/13603.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/13603/13603-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/13603.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/13603.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13603.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 13648,
+        "title": "More Nonsense",
+        "authors": [
+            {
+                "name": "Lear, Edward",
+                "birth_year": 1812,
+                "death_year": 1888
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Humorous poetry, English",
+            "Limericks, Juvenile",
+            "Nonsense verses, English"
+        ],
+        "bookshelves": [
+            "Children's Picture Books",
+            "Children's Verse",
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13648.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/13648.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13648/13648.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/13648/13648-h/13648-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/13648/pg13648.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/13648.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/13648.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/13648.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 14203,
+        "title": "Varied Types",
+        "authors": [
+            {
+                "name": "Chesterton, G. K. (Gilbert Keith)",
+                "birth_year": 1874,
+                "death_year": 1936
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Biography",
+            "Essays",
+            "Literature, Modern -- 19th century -- History and criticism"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14203.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14203.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14203/pg14203.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14203/14203.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14203/14203-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14203/14203-h/14203-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/14203.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14203.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14203.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 14735,
+        "title": "Political Thought in England from Locke to Bentham",
+        "authors": [
+            {
+                "name": "Laski, Harold J. (Harold Joseph)",
+                "birth_year": 1893,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Political science -- Great Britain -- History"
+        ],
+        "bookshelves": [
+            "Politics",
+            "United Kingdom"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14735.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14735.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14735/pg14735.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14735/14735.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14735/14735-h/14735-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14735/14735-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/14735.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14735.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14735.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 14888,
+        "title": "The Inheritors",
+        "authors": [
+            {
+                "name": "Conrad, Joseph",
+                "birth_year": 1857,
+                "death_year": 1924
+            },
+            {
+                "name": "Ford, Ford Madox",
+                "birth_year": 1873,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14888.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14888.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14888/pg14888.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14888/14888-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14888/14888.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/14888/14888-h/14888-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/14888.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14888.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14888.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 14971,
+        "title": "History of Holland",
+        "authors": [
+            {
+                "name": "Edmundson, George",
+                "birth_year": 1848,
+                "death_year": 1930
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Netherlands -- History"
+        ],
+        "bookshelves": [
+            "Children's History"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14971.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/14971.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/14971/pg14971.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14971/14971-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14971/14971.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/14971/14971-h/14971-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/14971.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/14971.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/14971.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15319,
+        "title": "The government class book: Designed for the instruction of youth in the principles of constitutional government and the rights and duties of citizens.",
+        "authors": [
+            {
+                "name": "Young, Andrew W. (Andrew White)",
+                "birth_year": 1802,
+                "death_year": 1877
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "United States -- Politics and government -- Handbooks, manuals, etc."
+        ],
+        "bookshelves": [
+            "United States"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15319.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15319.epub3.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/15319/15319-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15319/15319.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15319/15319-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15319/pg15319.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15319/15319-h/15319-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/15319.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15319.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15343,
+        "title": "A Little Book for Christmas",
+        "authors": [
+            {
+                "name": "Brady, Cyrus Townsend",
+                "birth_year": 1861,
+                "death_year": 1920
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Christmas",
+            "Christmas stories"
+        ],
+        "bookshelves": [
+            "Children's Fiction",
+            "Christmas"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15343.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15343.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/15343/15343-h/15343-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15343/pg15343.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/15343/15343-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15343.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15343.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15458,
+        "title": "Essai sur la litt\u00e9rature merveilleuse des noirs, suivi de Contes indig\u00e8nes de l'Ouest africain fran\u00e7ais - Tome premier",
+        "authors": [
+            {
+                "name": "Equilbecq, Fran\u00e7ois-Victor",
+                "birth_year": 1872,
+                "death_year": 1917
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Tales -- Africa, French-speaking West"
+        ],
+        "bookshelves": [
+            "FR Peuples et Soci\u00e9t\u00e9s"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15458.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15458.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15458/pg15458.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15458/15458-h/15458-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15458/15458-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15458.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15458.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15458.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15547,
+        "title": "The Life of Robert Louis Stevenson for Boys and Girls",
+        "authors": [
+            {
+                "name": "Overton, Jacqueline",
+                "birth_year": 1887,
+                "death_year": 1954
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Stevenson, Robert Louis, 1850-1894"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15547.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15547.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15547/pg15547.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15547/15547.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15547/15547-h/15547-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15547/15547-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15547.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15547.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15547.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15742,
+        "title": "Punch, or the London Charivari, Volume 103, November 12, 1892",
+        "authors": [
+            {
+                "name": "Various",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English wit and humor -- Periodicals"
+        ],
+        "bookshelves": [
+            "Punch"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/15742/15742-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15742/15742-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15742.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15742.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15742/pg15742.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/15742.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15742.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15742.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15778,
+        "title": "The Honorable Miss: A Story of an Old-Fashioned Town",
+        "authors": [
+            {
+                "name": "Meade, L. T.",
+                "birth_year": 1854,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Small cities -- Juvenile fiction",
+            "Young women -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15778.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15778.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15778/pg15778.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15778/15778-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15778/15778-h/15778-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15778/15778.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15778.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15778.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15778.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 15836,
+        "title": "Expositions of Holy Scripture: Ezekiel, Daniel, and the Minor Prophets. St. Matthew Chapters I to VIII",
+        "authors": [
+            {
+                "name": "Maclaren, Alexander",
+                "birth_year": 1826,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bible -- Commentaries",
+            "Bible. Ezekiel -- Commentaries",
+            "Bible. Matthew I-VIII -- Commentaries",
+            "Bible. Minor Prophets -- Commentaries"
+        ],
+        "bookshelves": [
+            "Christianity"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15836.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15836.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15836/15836.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15836/pg15836.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15836/15836-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/15836.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/15836.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15836.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 16183,
+        "title": "In Indian Mexico (1908)",
+        "authors": [
+            {
+                "name": "Starr, Frederick",
+                "birth_year": 1858,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indians of Mexico",
+            "Mexico -- Description and travel",
+            "Starr, Frederick, 1858-1933"
+        ],
+        "bookshelves": [
+            "Native America"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16183.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16183.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16183/16183-h/16183-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16183/pg16183.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16183/16183.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16183/16183-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/16183.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16183.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16183.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 16344,
+        "title": "The Waif of the \"Cynthia\"",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            },
+            {
+                "name": "Laurie, Andr\u00e9",
+                "birth_year": 1844,
+                "death_year": 1909
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Arctic regions -- Discovery and exploration -- Fiction",
+            "Foundlings -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16344.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16344.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16344/pg16344.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16344/16344.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16344/16344-h/16344-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16344/16344-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/16344.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16344.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16344.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 16488,
+        "title": "Debussy's Pell\u00e9as et M\u00e9lisande: A Guide to the Opera with Musical Examples from the Score",
+        "authors": [
+            {
+                "name": "Gilman, Lawrence",
+                "birth_year": 1878,
+                "death_year": 1939
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Debussy, Claude, 1862-1918. Pell\u00e9as et M\u00e9lisande",
+            "Opera"
+        ],
+        "bookshelves": [
+            "Opera"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16488.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16488.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16488/pg16488.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16488/16488-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16488/16488-h/16488-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16488/16488.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/16488.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16488.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16488.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 16545,
+        "title": "King Alfred of England: Makers of History",
+        "authors": [
+            {
+                "name": "Abbott, Jacob",
+                "birth_year": 1803,
+                "death_year": 1879
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Alfred, King of England, 849-899 -- Juvenile literature",
+            "Great Britain -- History -- Alfred, 871-899 -- Juvenile literature"
+        ],
+        "bookshelves": [
+            "United Kingdom"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16545.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16545.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16545/pg16545.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16545/16545-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16545/16545.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16545/16545-h/16545-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/16545.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16545.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16545.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 16551,
+        "title": "The Girl of the Golden West",
+        "authors": [
+            {
+                "name": "Belasco, David",
+                "birth_year": 1853,
+                "death_year": 1931
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "California -- Fiction",
+            "Western stories",
+            "Women pioneers -- Fiction"
+        ],
+        "bookshelves": [
+            "Opera"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16551.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16551.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16551/pg16551.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16551/16551-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16551/16551.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16551/16551-h/16551-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/16551.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16551.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16551.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17111,
+        "title": "The Meaning of the War: Life & Matter in Conflict",
+        "authors": [
+            {
+                "name": "Bergson, Henri",
+                "birth_year": 1859,
+                "death_year": 1941
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "National characteristics, German",
+            "World War, 1914-1918"
+        ],
+        "bookshelves": [
+            "World War I"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17111.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17111.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17111/17111.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17111/17111-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17111/17111-h/17111-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17111/pg17111.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/17111.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17111.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17111.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17246,
+        "title": "The Quest of the Simple Life",
+        "authors": [
+            {
+                "name": "Dawson, W. J. (William James)",
+                "birth_year": 1854,
+                "death_year": 1928
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Country life"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17246.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17246.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17246/pg17246.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17246/17246-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17246/17246.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/17246.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/17246.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17246.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17327,
+        "title": "History of Egypt, Chald\u00e6a, Syria, Babylonia, and Assyria, Volume 7 (of 12)",
+        "authors": [
+            {
+                "name": "Maspero, G. (Gaston)",
+                "birth_year": 1846,
+                "death_year": 1916
+            }
+        ],
+        "translators": [
+            {
+                "name": "McClure, M. L.",
+                "birth_year": null,
+                "death_year": 1918
+            }
+        ],
+        "subjects": [
+            "Civilization, Ancient",
+            "Egypt -- History -- To 640 A.D.",
+            "History, Ancient",
+            "Middle East -- History"
+        ],
+        "bookshelves": [
+            "Egypt"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17327.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17327.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17327/17327.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17327/17327-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17327/pg17327.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17327/17327-h/17327-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/17327.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17327.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17327.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17491,
+        "title": "La Tribuna",
+        "authors": [
+            {
+                "name": "Pardo Baz\u00e1n, Emilia, condesa de",
+                "birth_year": 1852,
+                "death_year": 1921
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Political satire, Spanish",
+            "Spain -- Social life and customs -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17491.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17491.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/17491/17491-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17491/pg17491.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17491/17491-h/17491-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/17491.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17491.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17491.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17521,
+        "title": "Everychild : $b A story which the old may interpret to the young and which the young may interpret to the old",
+        "authors": [
+            {
+                "name": "Dodge, Louis",
+                "birth_year": 1870,
+                "death_year": 1952
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fairy tales",
+            "Fantasy literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17521.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17521.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17521/17521.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17521/pg17521.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/17521.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17521.txt.utf-8",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17521/17521-h/17521-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17521.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 17987,
+        "title": "The Mound Builders",
+        "authors": [
+            {
+                "name": "Bryce, George",
+                "birth_year": 1844,
+                "death_year": 1931
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indians of North America -- Manitoba -- Antiquities",
+            "Manitoba -- Antiquities",
+            "Mound-builders -- Manitoba"
+        ],
+        "bookshelves": [
+            "Archaeology",
+            "Native America"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17987.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/17987.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17987/17987.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/17987/17987-h/17987-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/17987/pg17987.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/17987.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/17987.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/17987.rdf"
+        },
+        "download_count": 59
+    },
+    {
+        "id": 18196,
+        "title": "Life and public services of John Quincy Adams, sixth President of the United States, with the eulogy delivered before the Legislature of New York",
+        "authors": [
+            {
+                "name": "Seward, William H. (William Henry)",
+                "birth_year": 1801,
+                "death_year": 1872
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adams, John Quincy, 1767-1848",
+            "Presidents -- United States -- Biography",
+            "United States -- Politics and government -- 1825-1829"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18196.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18196.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18196/18196.txt",
+            "application/msword": "https://www.gutenberg.org/files/18196/18196-doc.doc",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18196/pg18196.cover.medium.jpg",
+            "application/pdf": "https://www.gutenberg.org/files/18196/18196-pdf.pdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/18196.txt.utf-8",
+            "text/html": "https://www.gutenberg.org/ebooks/18196.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18196.rdf"
+        },
+        "download_count": 59
+    }
+]

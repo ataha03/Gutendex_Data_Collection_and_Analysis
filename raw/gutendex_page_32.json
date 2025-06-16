@@ -1,0 +1,1153 @@
+[
+    {
+        "id": 50280,
+        "title": "Latin Phrase-Book",
+        "authors": [
+            {
+                "name": "Meissner, Carl",
+                "birth_year": 1830,
+                "death_year": null
+            }
+        ],
+        "translators": [
+            {
+                "name": "Auden, H. W. (Henry William)",
+                "birth_year": 1867,
+                "death_year": 1940
+            }
+        ],
+        "subjects": [
+            "Latin language -- Idioms",
+            "Latin language -- Terms and phrases"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "la"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/50280.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/50280.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/50280/50280-h/50280-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/50280/pg50280.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/50280/50280-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/50280.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/50280.rdf"
+        },
+        "download_count": 767
+    },
+    {
+        "id": 3021,
+        "title": "A Boy's Will",
+        "authors": [
+            {
+                "name": "Frost, Robert",
+                "birth_year": 1874,
+                "death_year": 1963
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "American poetry -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3021.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/3021.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3021/3021-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/3021/pg3021.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3021/3021-h/3021-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3021/3021.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/3021.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/3021.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/3021.txt.utf-8"
+        },
+        "download_count": 766
+    },
+    {
+        "id": 25393,
+        "title": "\u65bd\u516c\u6848",
+        "authors": [
+            {
+                "name": "Anonymous",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Detective and mystery stories, Chinese",
+            "Shi, Shilun, -1722 -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25393.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25393.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25393/pg25393.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/25393/25393-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25393.rdf",
+            "text/html": "https://www.gutenberg.org/ebooks/25393.html.images"
+        },
+        "download_count": 766
+    },
+    {
+        "id": 41975,
+        "title": "A Dictionary of the First or Oldest Words in the English Language: From the Semi-Saxon Period of A.D. 1250 to 1300",
+        "authors": [
+            {
+                "name": "Coleridge, Herbert",
+                "birth_year": 1830,
+                "death_year": 1861
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "English language -- Middle English, 1100-1500 -- Glossaries, vocabularies, etc."
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41975.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41975.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/41975/41975-h/41975-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41975/pg41975.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41975/41975-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41975.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41975.rdf"
+        },
+        "download_count": 766
+    },
+    {
+        "id": 8164,
+        "title": "My Man Jeeves",
+        "authors": [
+            {
+                "name": "Wodehouse, P. G. (Pelham Grenville)",
+                "birth_year": 1881,
+                "death_year": 1975
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "England -- Fiction",
+            "Humorous stories",
+            "Jeeves (Fictitious character) -- Fiction",
+            "Single men -- Fiction",
+            "Valets -- Fiction",
+            "Wooster, Bertie (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+            "Humor"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8164.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/8164.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/8164.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/8164/8164-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/8164/pg8164.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/8164.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8164/8164-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/8164.rdf"
+        },
+        "download_count": 765
+    },
+    {
+        "id": 16287,
+        "title": "Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals",
+        "authors": [
+            {
+                "name": "James, William",
+                "birth_year": 1842,
+                "death_year": 1910
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "College students -- Conduct of life",
+            "Educational psychology",
+            "Teachers -- Professional ethics"
+        ],
+        "bookshelves": [
+            "Psychology"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16287.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/16287.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/16287/pg16287.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16287/16287.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16287/16287-h/16287-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/16287/16287-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/16287.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/16287.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/16287.rdf"
+        },
+        "download_count": 763
+    },
+    {
+        "id": 36722,
+        "title": "The Revision Revised: Three Articles Reprinted from the \"Quarterly Review.\" I. The New Greek Text. II. The New English Version. III. Westcott and Hort's New Textual Theory. To Which is Added a Reply to Bishop Ellicott's Pamphlet in Defence of the Revisers and Their Greek Text of the New Testament: Including a Vindication of the Traditional Reading of 1 Timothy III. 16.",
+        "authors": [
+            {
+                "name": "Burgon, John William",
+                "birth_year": 1813,
+                "death_year": 1888
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Bible. New Testament -- English -- Criticism, Textual",
+            "Bible. New Testament -- English -- Versions -- Revised -- Controversial literature",
+            "Bible. New Testament -- English -- Versions -- Revised -- Criticism, interpretation, etc.",
+            "Ellicott, C. J. (Charles John), 1819-1905"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36722.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/36722.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/36722/pg36722.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/36722/36722-8.txt",
+            "application/pdf": "https://www.gutenberg.org/files/36722/36722-pdf.pdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36722/36722.txt",
+            "application/octet-stream": "https://www.gutenberg.org/files/36722/36722-tei.zip",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/36722/36722-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/36722/36722-h/36722-h.html",
+            "text/html": "https://www.gutenberg.org/ebooks/36722.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/36722.rdf",
+            "application/prs.tei": "https://www.gutenberg.org/files/36722/36722-tei/36722-tei.tei"
+        },
+        "download_count": 763
+    },
+    {
+        "id": 37884,
+        "title": "Folk-Tales of the Khasis",
+        "authors": [
+            {
+                "name": "Rafy, Mrs.",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Khasi (Indic people) -- Folklore"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/37884.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/37884.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/37884/pg37884.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/37884/37884.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/37884.html.images",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/37884/37884-h/37884-h.htm",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/37884.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/37884.txt.utf-8"
+        },
+        "download_count": 763
+    },
+    {
+        "id": 41085,
+        "title": "The New Life (La Vita Nuova)",
+        "authors": [
+            {
+                "name": "Dante Alighieri",
+                "birth_year": 1265,
+                "death_year": 1321
+            }
+        ],
+        "translators": [
+            {
+                "name": "Rossetti, Dante Gabriel",
+                "birth_year": 1828,
+                "death_year": 1882
+            }
+        ],
+        "subjects": [
+            "Italian literature -- Translations into English"
+        ],
+        "bookshelves": [
+            "Italy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41085.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41085.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/41085.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41085/pg41085.cover.medium.jpg",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/41085/41085-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41085/41085.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41085/41085-8.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41085.rdf"
+        },
+        "download_count": 763
+    },
+    {
+        "id": 58212,
+        "title": "The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties.",
+        "authors": [
+            {
+                "name": "Shirley, Evelyn Philip",
+                "birth_year": 1812,
+                "death_year": 1882
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Great Britain -- Genealogy",
+            "Heraldry -- Great Britain",
+            "Nobility -- Great Britain"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58212.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/58212.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/58212/pg58212.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/58212/58212-h/58212-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/58212/58212-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/58212.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/58212.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/58212.rdf"
+        },
+        "download_count": 763
+    },
+    {
+        "id": 45524,
+        "title": "The Open Boat and Other Stories",
+        "authors": [
+            {
+                "name": "Crane, Stephen",
+                "birth_year": 1871,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Short stories, American",
+            "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/45524.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/45524.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/45524.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/45524/45524-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/45524/pg45524.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/45524/45524-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/45524.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/45524.rdf"
+        },
+        "download_count": 762
+    },
+    {
+        "id": 33447,
+        "title": "The Pencil of Nature",
+        "authors": [
+            {
+                "name": "Talbot, William Henry Fox",
+                "birth_year": 1800,
+                "death_year": 1877
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Photography -- Early works to 1850"
+        ],
+        "bookshelves": [
+            "Photography"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33447.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33447.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/33447/33447-tei.zip",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/33447/33447-h/33447-h.html",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33447/33447-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33447/pg33447.cover.medium.jpg",
+            "application/pdf": "https://www.gutenberg.org/files/33447/33447-pdf.pdf",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33447/33447.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/33447.html.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/33447/33447-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33447.rdf",
+            "application/prs.tei": "https://www.gutenberg.org/files/33447/33447-tei/33447-tei.tei"
+        },
+        "download_count": 761
+    },
+    {
+        "id": 1097,
+        "title": "Mrs. Warren's Profession",
+        "authors": [
+            {
+                "name": "Shaw, Bernard",
+                "birth_year": 1856,
+                "death_year": 1950
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Great Britain -- Social conditions -- 19th century -- Drama",
+            "Prostitutes -- Great Britain -- Drama",
+            "Prostitution -- Great Britain -- Drama",
+            "Working class women -- Great Britain -- Drama"
+        ],
+        "bookshelves": [
+            "Banned Books from Anne Haight's list"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1097.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1097.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1097/1097.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1097/1097-0.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/1097/1097-h/1097-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1097/pg1097.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/1097.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1097.rdf"
+        },
+        "download_count": 759
+    },
+    {
+        "id": 28289,
+        "title": "The Essays of \"George Eliot\": Complete",
+        "authors": [
+            {
+                "name": "Eliot, George",
+                "birth_year": 1819,
+                "death_year": 1880
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Literature -- History and criticism"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/28289.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/28289.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/28289.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/28289/pg28289.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/28289/28289.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/28289/28289-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/28289.rdf"
+        },
+        "download_count": 759
+    },
+    {
+        "id": 71677,
+        "title": "The Cambridge natural history, Vol. 01 (of 10)",
+        "authors": [
+            {
+                "name": "Hickson, Sydney J. (Sydney John)",
+                "birth_year": 1859,
+                "death_year": 1940
+            },
+            {
+                "name": "Hartog, Marcus",
+                "birth_year": 1851,
+                "death_year": 1924
+            },
+            {
+                "name": "MacBride, E. W. (Ernest William)",
+                "birth_year": 1866,
+                "death_year": 1940
+            },
+            {
+                "name": "Sollas, Igerna Br\u00fcnhilda Johnson",
+                "birth_year": 1877,
+                "death_year": 1965
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71677/pg71677.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71677.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71677.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71677.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71677.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71677.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71677/71677-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71677/71677-0.txt"
+        },
+        "download_count": 758
+    },
+    {
+        "id": 1676,
+        "title": "Alcibiades I",
+        "authors": [
+            {
+                "name": "Plato (spurious and doubtful works)",
+                "birth_year": -428,
+                "death_year": -348
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Alcibiades",
+            "Classical literature",
+            "Socrates, 470 BC-399 BC",
+            "Virtue -- Early works to 1800"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1676.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1676.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1676/pg1676.cover.medium.jpg",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1676/1676-h/1676-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1676/1676.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/1676.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1676.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/1676.txt.utf-8"
+        },
+        "download_count": 757
+    },
+    {
+        "id": 5500,
+        "title": "The Advancement of Learning",
+        "authors": [
+            {
+                "name": "Bacon, Francis",
+                "birth_year": 1561,
+                "death_year": 1626
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Knowledge, Theory of -- Early works to 1800",
+            "Learning -- Philosophy -- Early works to 1800",
+            "Logic -- Early works to 1800",
+            "Science -- Methodology -- Early works to 1800"
+        ],
+        "bookshelves": [
+            "Banned Books from Anne Haight's list"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5500.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5500.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/5500.html.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5500/pg5500.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5500/5500-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/5500.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5500.rdf"
+        },
+        "download_count": 757
+    },
+    {
+        "id": 30017,
+        "title": "My Father's Dragon",
+        "authors": [
+            {
+                "name": "Gannett, Ruth Stiles",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals -- Fiction",
+            "Dragons -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30017.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30017.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30017/30017-h/30017-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30017/30017.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30017/pg30017.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/30017.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30017.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30017.rdf"
+        },
+        "download_count": 757
+    },
+    {
+        "id": 42988,
+        "title": "Nursing as Caring: A Model for Transforming Practice",
+        "authors": [
+            {
+                "name": "Boykin, Anne",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Schoenhofer, Savina O'Bryan",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Caring",
+            "Empathy",
+            "Nursing -- Philosophy",
+            "Nursing models"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42988.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42988.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42988/pg42988.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42988/42988-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/42988/42988-h/42988-h.htm",
+            "application/octet-stream": "https://www.gutenberg.org/files/42988/42988-doc.zip",
+            "text/html": "https://www.gutenberg.org/ebooks/42988.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42988/42988.txt",
+            "application/msword": "https://www.gutenberg.org/files/42988/42988-doc.doc",
+            "text/plain": "https://www.gutenberg.org/ebooks/42988.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42988.rdf",
+            "application/pdf": "https://www.gutenberg.org/files/42988/42988-pdf.pdf"
+        },
+        "download_count": 757
+    },
+    {
+        "id": 71564,
+        "title": "Luke's wife",
+        "authors": [
+            {
+                "name": "Garratt, Evelyn R.",
+                "birth_year": 1854,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Clergy -- Fiction",
+            "Conduct of life -- Fiction",
+            "England -- Fiction",
+            "Families -- Fiction",
+            "Spouses of clergy -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71564/pg71564.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71564.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71564.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71564.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71564.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71564.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71564/71564-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71564/71564-0.txt"
+        },
+        "download_count": 757
+    },
+    {
+        "id": 71594,
+        "title": "Uncle Wiggily on the farm : $b Or, How he hunted for eggs and was cause for alarm; and Bully and Bawly, the froggie boys; also how Uncle Wiggily helped nurse Jane with the house cleaning",
+        "authors": [
+            {
+                "name": "Garis, Howard Roger",
+                "birth_year": 1873,
+                "death_year": 1962
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals -- Juvenile fiction",
+            "Farm life -- Juvenile fiction",
+            "Frogs -- Juvenile fiction",
+            "House cleaning -- Juvenile fiction",
+            "Rabbits -- Juvenile fiction",
+            "Uncle Wiggily (Fictitious character) -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71594/pg71594.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71594.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71594.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71594.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71594.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71594.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71594/71594-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71594/71594-0.txt"
+        },
+        "download_count": 756
+    },
+    {
+        "id": 71653,
+        "title": "Pittsburgh : $b a sketch of its early social life",
+        "authors": [
+            {
+                "name": "Dahlinger, Charles W. (Charles William)",
+                "birth_year": 1858,
+                "death_year": 1935
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Pittsburgh (Pa.) -- Social life and customs"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71653/pg71653.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71653.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71653.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71653.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71653.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71653.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71653/71653-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71653/71653-0.txt"
+        },
+        "download_count": 755
+    },
+    {
+        "id": 71637,
+        "title": "The enemy",
+        "authors": [
+            {
+                "name": "Wilson, Richard",
+                "birth_year": 1920,
+                "death_year": 1987
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Science fiction",
+            "Short stories",
+            "War stories"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/71637/pg71637.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/71637.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/71637.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71637.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/71637.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/71637.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/71637/71637-h.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71637/71637-0.txt"
+        },
+        "download_count": 754
+    },
+    {
+        "id": 34099,
+        "title": "In Stahlgewittern, aus dem Tagebuch eines Sto\u00dftruppf\u00fchrers",
+        "authors": [
+            {
+                "name": "J\u00fcnger, Ernst",
+                "birth_year": 1895,
+                "death_year": 1998
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "J\u00fcnger, Ernst, 1895-1998",
+            "Soldiers -- Germany -- Diaries",
+            "World War, 1914-1918 -- Personal narratives, German"
+        ],
+        "bookshelves": [
+            "DE Prosa"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34099.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/34099.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/34099/pg34099.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34099/34099-h/34099-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/34099/34099-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/34099.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/34099.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/34099.txt.utf-8"
+        },
+        "download_count": 753
+    },
+    {
+        "id": 35249,
+        "title": "A Japanese Boy",
+        "authors": [
+            {
+                "name": "Shiukichi, Shigemi",
+                "birth_year": 1865,
+                "death_year": 1928
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Japan -- Social life and customs -- 1868-1912",
+            "Shiukichi, Shigemi, 1865-1928"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35249.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35249.epub3.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/35249/35249-h/35249-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/35249/35249-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/35249/pg35249.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35249/35249.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/35249/35249-0.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35249.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35249.rdf"
+        },
+        "download_count": 753
+    },
+    {
+        "id": 18141,
+        "title": "\u00a1Cai\u00f1gat Cayo!: Sa ma\u00f1ga masasamang libro,t, casulatan",
+        "authors": [
+            {
+                "name": "Rodriguez, Fr. Jos\u00e9",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Rizal, Jos\u00e9, 1861-1896"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "tl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18141.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/18141.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/18141/18141-h/18141-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18141/18141-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/18141/pg18141.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/18141.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/18141.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/18141.rdf"
+        },
+        "download_count": 752
+    },
+    {
+        "id": 21531,
+        "title": "Woodwork Joints: How They Are Set Out, How Made and Where Used.",
+        "authors": [
+            {
+                "name": "Fairham, William",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Carpentry",
+            "Woodwork"
+        ],
+        "bookshelves": [
+            "Crafts",
+            "Technology",
+            "Woodwork"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/21531.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/21531.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/21531/pg21531.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/21531/21531-h/21531-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/21531/21531-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/21531/21531.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/21531.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/21531.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/21531.rdf"
+        },
+        "download_count": 752
+    },
+    {
+        "id": 15147,
+        "title": "Beeton's Book of Needlework",
+        "authors": [
+            {
+                "name": "Beeton, Mrs. (Isabella Mary)",
+                "birth_year": 1836,
+                "death_year": 1865
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Crocheting",
+            "Knitting",
+            "Lace and lace making",
+            "Needlework -- Patterns"
+        ],
+        "bookshelves": [
+            "Crafts",
+            "Technology"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15147.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15147.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15147/pg15147.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15147/15147-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15147/15147-h/15147-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15147/15147.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15147.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15147.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15147.rdf"
+        },
+        "download_count": 751
+    },
+    {
+        "id": 35830,
+        "title": "The 2010 CIA World Factbook",
+        "authors": [
+            {
+                "name": "United States. Central Intelligence Agency",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Geography -- Handbooks, manuals, etc.",
+            "Political science -- Handbooks, manuals, etc.",
+            "Political statistics -- Handbooks, manuals, etc.",
+            "World politics -- Handbooks, manuals, etc."
+        ],
+        "bookshelves": [
+            "CIA World Factbooks"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35830.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/35830.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/files/35830/refmaps/africa.jpg",
+            "image/gif": "https://www.gutenberg.org/files/35830/flags/aa-lgflag.gif",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35830/35830.txt",
+            "application/octet-stream": "https://www.gutenberg.org/files/35830/35830-images.zip",
+            "text/plain": "https://www.gutenberg.org/files/35830/35830-readme.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/35830.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/35830.rdf",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/35830.txt.utf-8"
+        },
+        "download_count": 751
+    },
+    {
+        "id": 63203,
+        "title": "Faust: A Tragedy",
+        "authors": [
+            {
+                "name": "Goethe, Johann Wolfgang von",
+                "birth_year": 1749,
+                "death_year": 1832
+            }
+        ],
+        "translators": [
+            {
+                "name": "Blackie, John Stuart",
+                "birth_year": 1809,
+                "death_year": 1895
+            }
+        ],
+        "subjects": [
+            "Faust, -approximately 1540 -- Drama",
+            "Tragedies"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/63203.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/63203.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/63203.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/63203/63203-0.zip",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/63203/pg63203.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/63203/63203-0.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/63203.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/63203.rdf"
+        },
+        "download_count": 751
+    },
+    {
+        "id": 11666,
+        "title": "The Conjure Woman",
+        "authors": [
+            {
+                "name": "Chesnutt, Charles W. (Charles Waddell)",
+                "birth_year": 1858,
+                "death_year": 1932
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "African Americans -- Fiction",
+            "Southern States -- Social life and customs -- Fiction"
+        ],
+        "bookshelves": [
+            "African American Writers"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11666.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11666.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/11666.html.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11666/11666.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11666/pg11666.cover.medium.jpg",
+            "text/plain": "https://www.gutenberg.org/ebooks/11666.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11666.rdf",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/11666/11666-h/11666-h.htm"
+        },
+        "download_count": 749
+    },
+    {
+        "id": 15845,
+        "title": "Florante at Laura",
+        "authors": [
+            {
+                "name": "Balagtas, Francisco",
+                "birth_year": 1788,
+                "death_year": 1862
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Tagalog poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "tl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15845.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/15845.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/15845/pg15845.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/15845/15845-h/15845-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15845/15845-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/15845.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/15845.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/15845.rdf"
+        },
+        "download_count": 749
+    }
+]

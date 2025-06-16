@@ -1,0 +1,1151 @@
+[
+    {
+        "id": 21440,
+        "title": "Allan Quatermain",
+        "authors": [
+            {
+                "name": "Haggard, H. Rider (Henry Rider)",
+                "birth_year": 1856,
+                "death_year": 1925
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adventure stories",
+            "Africa -- Fiction",
+            "Fantasy fiction",
+            "Hunting guides -- Fiction",
+            "Quatermain, Allan (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/21440.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/21440/mp3/21440-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/21440/m4b/21440-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/21440/ogg/21440-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/21440/21440-index.html",
+            "text/plain": "https://www.gutenberg.org/files/21440/21440-readme.txt"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 22680,
+        "title": "The Biglow Papers",
+        "authors": [
+            {
+                "name": "Lowell, James Russell",
+                "birth_year": 1819,
+                "death_year": 1891
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Mexican War, 1846-1848 -- Poetry",
+            "Slavery -- United States -- Poetry"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/22680.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/22680.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/22680/pg22680.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/22680/22680-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/22680/22680.txt",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/22680/22680-0.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/22680/22680-h/22680-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/22680.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/22680.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 22968,
+        "title": "Nederlandsche Volkskunde",
+        "authors": [
+            {
+                "name": "Schrijnen, Jos.",
+                "birth_year": 1869,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Belgium -- Social life and customs",
+            "Folklore -- Belgium",
+            "Folklore -- Netherlands",
+            "Netherlands -- Social life and customs"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "nl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/22968.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/22968.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/22968.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/22968/pg22968.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/22968/22968-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/22968.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/22968.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 23846,
+        "title": "The Flag Replaced on Sumter: A Personal Narrative",
+        "authors": [
+            {
+                "name": "Spicer, William A.",
+                "birth_year": 1845,
+                "death_year": 1913
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Fort Sumter (Charleston, S.C.)"
+        ],
+        "bookshelves": [
+            "US Civil War"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/23846.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/23846.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/23846/23846-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/23846/23846.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/23846/23846-h/23846-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/23846/pg23846.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/23846.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/23846.rdf",
+            "audio/midi": "https://www.gutenberg.org/files/23846/23846-h/music/victory.midi",
+            "text/plain": "https://www.gutenberg.org/ebooks/23846.txt.utf-8",
+            "application/pdf": "https://www.gutenberg.org/files/23846/23846-h/music/victory.pdf",
+            "text/xml": "https://www.gutenberg.org/files/23846/23846-h/music/victory.xml"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 24772,
+        "title": "Sara Crewe; Or, What Happened at Miss Minchin's",
+        "authors": [
+            {
+                "name": "Burnett, Frances Hodgson",
+                "birth_year": 1849,
+                "death_year": 1924
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boarding schools -- Juvenile fiction",
+            "Girls -- Juvenile fiction",
+            "London (England) -- Juvenile fiction",
+            "Orphans -- Juvenile fiction",
+            "Schools -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24772.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/24772.epub3.images",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/24772/24772-h/24772-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24772/24772.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/24772/24772-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/24772/pg24772.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/24772.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/24772.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/24772.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 25529,
+        "title": "The Adventures of Danny Meadow Mouse",
+        "authors": [
+            {
+                "name": "Burgess, Thornton W. (Thornton Waldo)",
+                "birth_year": 1874,
+                "death_year": 1965
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Animals -- Juvenile fiction",
+            "Mice -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Book Series"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25529.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25529.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25529/25529.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25529/pg25529.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25529/25529-h/25529-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/25529.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25529.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/25529.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 25808,
+        "title": "History of Friedrich II. of Prussia: Frederick The Great\u2014Complete Table of Contents: 22 Volumes",
+        "authors": [
+            {
+                "name": "Carlyle, Thomas",
+                "birth_year": 1795,
+                "death_year": 1881
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Frederick II, King of Prussia, 1712-1786",
+            "Indexes",
+            "Prussia (Germany) -- History -- Frederick II, 1740-1786",
+            "Social problems"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/octet-stream": "https://www.gutenberg.org/files/25808/25808-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25808/25808-0.txt",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25808.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25808.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25808/pg25808.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/25808.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/25808.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25808.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 25948,
+        "title": "Fifty-Two Stories For Girls",
+        "authors": [],
+        "translators": [],
+        "subjects": [
+            "Children's stories",
+            "Conduct of life -- Juvenile fiction",
+            "Girls -- Conduct of life -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25948.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25948.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25948/pg25948.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/25948/25948-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25948/25948.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25948/25948-h/25948-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/25948.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25948.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/25948.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 26221,
+        "title": "The Golden Road",
+        "authors": [
+            {
+                "name": "Montgomery, L. M. (Lucy Maud)",
+                "birth_year": 1874,
+                "death_year": 1942
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Authorship -- Juvenile fiction",
+            "Children's stories, Canadian",
+            "Prince Edward Island -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/26221.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/26221/mp3/26221-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/26221/m4b/26221-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/26221/ogg/26221-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/26221/26221-index.html",
+            "text/plain": "https://www.gutenberg.org/files/26221/26221-readme.txt"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 26458,
+        "title": "Age of Innocence",
+        "authors": [
+            {
+                "name": "Wharton, Edith",
+                "birth_year": 1862,
+                "death_year": 1937
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Domestic fiction",
+            "Love stories",
+            "Married people -- Fiction",
+            "New York (N.Y.) -- Fiction",
+            "Separated people -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction",
+            "Upper class -- Fiction"
+        ],
+        "bookshelves": [
+            "Bestsellers, American, 1895-1923"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/26458.rdf",
+            "audio/mpeg": "https://www.gutenberg.org/files/26458/mp3/26458-01.mp3",
+            "audio/mp4": "https://www.gutenberg.org/files/26458/m4b/26458-01.m4b",
+            "audio/ogg": "https://www.gutenberg.org/files/26458/ogg/26458-01.ogg",
+            "text/html": "https://www.gutenberg.org/files/26458/26458_index.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26458/26458_readme.txt"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 26556,
+        "title": "Myths and Marvels of Astronomy",
+        "authors": [
+            {
+                "name": "Proctor, Richard A. (Richard Anthony)",
+                "birth_year": 1837,
+                "death_year": 1888
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Astronomy"
+        ],
+        "bookshelves": [
+            "Astronomy"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26556.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/26556.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/26556/pg26556.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26556/26556.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/26556/26556-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/26556/26556-h/26556-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/26556.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/26556.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/26556.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 26603,
+        "title": "The Later Cave-Men",
+        "authors": [
+            {
+                "name": "Dopp, Katharine Elizabeth",
+                "birth_year": 1863,
+                "death_year": 1944
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Archaeology -- Juvenile literature",
+            "Cave dwellers -- Juvenile literature"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26603.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/26603.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26603/26603.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/26603/26603-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/26603/26603-h/26603-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/26603/pg26603.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/26603.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/26603.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/26603.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 27559,
+        "title": "The 2004 CIA World Factbook",
+        "authors": [
+            {
+                "name": "United States. Central Intelligence Agency",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Geography -- Handbooks, manuals, etc.",
+            "Political science -- Handbooks, manuals, etc.",
+            "Political statistics -- Handbooks, manuals, etc.",
+            "World politics -- Handbooks, manuals, etc."
+        ],
+        "bookshelves": [
+            "CIA World Factbooks"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27559.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/27559.epub3.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/27559/27559-images.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27559/27559.txt",
+            "image/jpeg": "https://www.gutenberg.org/files/27559/reference_maps/jpg/africa.jpg",
+            "image/gif": "https://www.gutenberg.org/files/27559/flags/aa-flag.gif",
+            "text/html": "https://www.gutenberg.org/ebooks/27559.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/27559.rdf",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/27559.txt.utf-8",
+            "text/plain": "https://www.gutenberg.org/files/27559/27559-README.txt"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 29719,
+        "title": "Dichtertje - De Uitvreter - Titaantjes",
+        "authors": [
+            {
+                "name": "Nescio",
+                "birth_year": 1881,
+                "death_year": 1961
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dutch fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "nl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29719.kf8.images",
+            "text/html": "https://www.gutenberg.org/ebooks/29719.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/29719.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/29719/pg29719.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29719/29719-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/29719.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/29719.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 30280,
+        "title": "Vida y obras de don Diego Vel\u00e1zquez",
+        "authors": [
+            {
+                "name": "Pic\u00f3n, Jacinto Octavio",
+                "birth_year": 1852,
+                "death_year": 1923
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Vel\u00e1zquez, Diego, 1599-1660"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30280.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/30280.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/30280/pg30280.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30280/30280-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30280/30280-h/30280-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/30280.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/30280.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/30280.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 31186,
+        "title": "What Shall We Do Now?: Five Hundred Games and Pastimes",
+        "authors": [
+            {
+                "name": "Fisher, Dorothy Canfield",
+                "birth_year": 1879,
+                "death_year": 1958
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Amusements",
+            "Games"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31186.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/31186.epub3.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/31186/31186-h/31186-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/31186/pg31186.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31186/31186.txt",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31186/31186-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/31186.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/31186.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/31186.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 31771,
+        "title": "Si Klegg, Book 1: His Transformation from a Raw Recruit to a Veteran",
+        "authors": [
+            {
+                "name": "McElroy, John",
+                "birth_year": 1846,
+                "death_year": 1929
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Indiana -- History -- Civil War, 1861-1865 -- Fiction",
+            "United States -- History -- Civil War, 1861-1865 -- Fiction"
+        ],
+        "bookshelves": [
+            "US Civil War"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31771.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/31771.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/31771/pg31771.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31771/31771-8.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/31771/31771-h/31771-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/31771.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/31771.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/31771.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 32023,
+        "title": "The Boy's Voice: A Book of Practical Information on The Training of Boys' Voices For Church Choirs, &c.",
+        "authors": [
+            {
+                "name": "Curwen, J. Spencer (John Spencer)",
+                "birth_year": 1847,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Choirboys -- Training of -- England",
+            "Choirs (Music)",
+            "Singing",
+            "Voice culture"
+        ],
+        "bookshelves": [
+            "Music"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32023.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32023.epub3.images",
+            "audio/midi": "https://www.gutenberg.org/files/32023/32023-h/music/004.mid",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32023/32023-h/32023-h.htm",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32023/pg32023.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32023/32023.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/32023.html.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32023/32023-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/32023.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32023.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 32747,
+        "title": "Travels in Tartary, Thibet, and China during the years 1844-5-6. Volume 1",
+        "authors": [
+            {
+                "name": "Huc, Evariste R\u00e9gis",
+                "birth_year": 1813,
+                "death_year": 1860
+            }
+        ],
+        "translators": [
+            {
+                "name": "Hazlitt, William",
+                "birth_year": 1811,
+                "death_year": 1893
+            }
+        ],
+        "subjects": [
+            "Asia, Central -- Description and travel",
+            "China -- Description and travel",
+            "Tibet Autonomous Region (China) -- Description and travel"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32747.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32747.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/32747.html.images",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/32747/32747-0.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32747/32747.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32747/pg32747.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32747.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 32950,
+        "title": "Camp and Trail",
+        "authors": [
+            {
+                "name": "White, Stewart Edward",
+                "birth_year": 1873,
+                "death_year": 1946
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Camping"
+        ],
+        "bookshelves": [
+            "Camping"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32950.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32950.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32950/32950-8.txt",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32950/32950.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32950/pg32950.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32950/32950-h/32950-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/32950.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/32950.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32950.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 32977,
+        "title": "From Sea to Sea; Letters of Travel",
+        "authors": [
+            {
+                "name": "Kipling, Rudyard",
+                "birth_year": 1865,
+                "death_year": 1936
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Asia -- Description and travel",
+            "Kipling, Rudyard, 1865-1936 -- Travel",
+            "United States -- Description and travel",
+            "Voyages and travels"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32977.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/32977.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/32977/pg32977.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32977/32977.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/32977/32977-h/32977-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/32977/32977-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/32977.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/32977.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/32977.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 33527,
+        "title": "Whales, Dolphins, and Porpoises of the Western North Atlantic: A Guide to Their Identification",
+        "authors": [
+            {
+                "name": "Caldwell, David Keller",
+                "birth_year": 1928,
+                "death_year": null
+            },
+            {
+                "name": "Leatherwood, Stephen",
+                "birth_year": null,
+                "death_year": null
+            },
+            {
+                "name": "Winn, Howard Elliott",
+                "birth_year": 1926,
+                "death_year": null
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Cetacea -- North Atlantic Ocean -- Identification",
+            "Mammals -- North Atlantic Ocean"
+        ],
+        "bookshelves": [
+            "Animal",
+            "Animals-Wild-Mammals"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33527.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33527.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33527/33527.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33527/pg33527.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33527/33527-8.txt",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/33527/33527-h/33527-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/33527.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/33527.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33527.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 33541,
+        "title": "Galgenlieder nebst dem 'Gingganz'",
+        "authors": [
+            {
+                "name": "Morgenstern, Christian",
+                "birth_year": 1871,
+                "death_year": 1914
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "German poetry -- 20th century"
+        ],
+        "bookshelves": [
+            "DE Lyrik"
+        ],
+        "languages": [
+            "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33541.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/33541.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33541/pg33541.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/33541/33541-page-images.zip",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/33541/33541-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/33541/33541-h/33541-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/33541.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/33541.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33541.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 36018,
+        "title": "At Boarding School with the Tucker Twins",
+        "authors": [
+            {
+                "name": "Speed, Nell",
+                "birth_year": 1878,
+                "death_year": 1913
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Boarding schools -- Juvenile fiction",
+            "Friendship -- Juvenile fiction",
+            "Students -- Social life and customs -- Juvenile fiction",
+            "Twins -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36018.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/36018.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/36018/pg36018.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/36018/36018-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/36018/36018-h/36018-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36018/36018.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/36018.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/36018.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/36018.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 36279,
+        "title": "Wood and Garden: Notes and thoughts, practical and critical, of a working amateur",
+        "authors": [
+            {
+                "name": "Jekyll, Gertrude",
+                "birth_year": 1843,
+                "death_year": 1932
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Flower gardening",
+            "Flower gardening -- England",
+            "Landscape gardening",
+            "Landscape gardening -- England"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36279.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/36279.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/36279/pg36279.cover.medium.jpg",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36279/36279.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/36279/36279-h/36279-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/36279.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/36279.rdf",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/36279/36279-8.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/36279.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 38804,
+        "title": "The Works of Robert G. Ingersoll, Vol. 04 (of 12): Dresden Edition\u2014Lectures",
+        "authors": [
+            {
+                "name": "Ingersoll, Robert Green",
+                "birth_year": 1833,
+                "death_year": 1899
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Free thought"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38804.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/38804.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/38804/pg38804.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38804/38804-8.txt",
+            "text/html; charset=us-ascii": "https://www.gutenberg.org/files/38804/38804-h/38804-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38804/38804.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/38804.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/38804.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/38804.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 39049,
+        "title": "Old-Time Gardens, Newly Set Forth",
+        "authors": [
+            {
+                "name": "Earle, Alice Morse",
+                "birth_year": 1851,
+                "death_year": 1911
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Gardens",
+            "Landscape gardening"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39049.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39049.epub3.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39049/39049.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39049/39049-h/39049-h.htm",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/39049/39049-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39049/pg39049.cover.medium.jpg",
+            "text/html": "https://www.gutenberg.org/ebooks/39049.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/39049.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39049.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 39755,
+        "title": "The Story of Peter Pan, Retold from the fairy play by Sir James Barrie",
+        "authors": [
+            {
+                "name": "Barrie, J. M. (James Matthew)",
+                "birth_year": 1860,
+                "death_year": 1937
+            },
+            {
+                "name": "O'Connor, Daniel",
+                "birth_year": 1880,
+                "death_year": 1951
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Children -- Juvenile fiction",
+            "Fairies -- Juvenile fiction",
+            "Fairy tales",
+            "Fantasy literature",
+            "Mermaids -- Juvenile fiction",
+            "Pirates -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39755.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/39755.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/39755/pg39755.cover.medium.jpg",
+            "audio/midi": "https://www.gutenberg.org/files/39755/39755-h/midi/music1.mid",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/39755/39755-h/39755-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39755/39755.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/39755.html.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/39755.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/39755.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 41179,
+        "title": "Portage Paths: The Keys of the Continent",
+        "authors": [
+            {
+                "name": "Hulbert, Archer Butler",
+                "birth_year": 1873,
+                "death_year": 1933
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Portages -- North America"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41179.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/41179.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/41179/pg41179.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41179/41179-8.txt",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/41179/41179-h/41179-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41179/41179.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/41179.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/41179.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/41179.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 42942,
+        "title": "O Primo Bazilio: Episodio Domestico",
+        "authors": [
+            {
+                "name": "Queir\u00f3s, E\u00e7a de",
+                "birth_year": 1845,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Portugal -- Fiction"
+        ],
+        "bookshelves": [
+            "PT Romance"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42942.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/42942.epub3.images",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/42942/42942-8.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/42942/pg42942.cover.medium.jpg",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/42942/42942-h/42942-h.htm",
+            "text/html": "https://www.gutenberg.org/ebooks/42942.html.images",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/42942.rdf",
+            "text/plain": "https://www.gutenberg.org/ebooks/42942.txt.utf-8"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 44034,
+        "title": "Juliette Drouet's Love-Letters to Victor Hugo: Edited with a Biography of Juliette Drouet",
+        "authors": [
+            {
+                "name": "Guimbaud, Louis",
+                "birth_year": 1869,
+                "death_year": null
+            },
+            {
+                "name": "Drouet, Juliette",
+                "birth_year": 1806,
+                "death_year": 1883
+            }
+        ],
+        "translators": [
+            {
+                "name": "Davidson, Theodora, Lady",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Drouet, Juliette, 1806-1883",
+            "Hugo, Victor, 1802-1885"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44034.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44034.epub3.images",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44034/pg44034.cover.medium.jpg",
+            "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/44034/44034-8.txt",
+            "text/html": "https://www.gutenberg.org/ebooks/44034.html.images",
+            "text/html; charset=utf-8": "https://www.gutenberg.org/files/44034/44034-h/44034-h.htm",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44034/44034.txt",
+            "text/plain": "https://www.gutenberg.org/ebooks/44034.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44034.rdf"
+        },
+        "download_count": 121
+    },
+    {
+        "id": 44278,
+        "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
+        "authors": [
+            {
+                "name": "Verne, Jules",
+                "birth_year": 1828,
+                "death_year": 1905
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Manned space flight -- Fiction",
+            "Moon -- Fiction",
+            "Science fiction",
+            "Space flight to the moon -- Fiction",
+            "Space ships -- Fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/plain": "https://www.gutenberg.org/ebooks/44278.txt.utf-8",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44278.kf8.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/44278.epub3.images",
+            "text/html": "https://www.gutenberg.org/ebooks/44278.html.images",
+            "application/octet-stream": "https://www.gutenberg.org/files/44278/44278-0.zip",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44278/44278-0.txt",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/44278/pg44278.cover.medium.jpg",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/44278.rdf"
+        },
+        "download_count": 121
+    }
+]
